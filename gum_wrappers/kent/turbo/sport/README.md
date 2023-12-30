@@ -1,0 +1,78 @@
+# Turbo Sport
+
+## 1-70
+<table>
+<tr><th>Year</th><th>Purple</th><th>Blue</th><th>Yellow</th><th>Orange</th><th>Red</th></tr>
+<tr>
+    <td>1995</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>[<img src="1-70/outer/red.png" width="18%">](1-70/outer/red.png)</td>
+</tr>
+</table>
+
+[<img src="1-70/1.png" width="18%">](1-70/1.png)
+[<img src="1-70/2.png" width="18%">](1-70/2.png)
+[<img src="1-70/3.png" width="18%">](1-70/3.png)
+[<img src="1-70/4.png" width="18%">](1-70/4.png)
+[<img src="1-70/5.png" width="18%">](1-70/5.png)
+[<img src="1-70/6.png" width="18%">](1-70/6.png)
+[<img src="1-70/7.png" width="18%">](1-70/7.png)
+[<img src="1-70/8.png" width="18%">](1-70/8.png)
+[<img src="1-70/9.png" width="18%">](1-70/9.png)
+[<img src="1-70/10.png" width="18%">](1-70/10.png)
+[<img src="1-70/11.png" width="18%">](1-70/11.png)
+[<img src="1-70/12.png" width="18%">](1-70/12.png)
+[<img src="1-70/13.png" width="18%">](1-70/13.png)
+[<img src="1-70/14.png" width="18%">](1-70/14.png)
+[<img src="1-70/15.png" width="18%">](1-70/15.png)
+[<img src="1-70/16.png" width="18%">](1-70/16.png)
+[<img src="1-70/17.png" width="18%">](1-70/17.png)
+[<img src="1-70/18.png" width="18%">](1-70/18.png)
+[<img src="1-70/19.png" width="18%">](1-70/19.png)
+[<img src="1-70/20.png" width="18%">](1-70/20.png)
+[<img src="1-70/31.png" width="18%">](1-70/31.png)
+[<img src="1-70/32.png" width="18%">](1-70/32.png)
+[<img src="1-70/33.png" width="18%">](1-70/33.png)
+[<img src="1-70/34.png" width="18%">](1-70/34.png)
+[<img src="1-70/35.png" width="18%">](1-70/35.png)
+[<img src="1-70/36.png" width="18%">](1-70/36.png)
+[<img src="1-70/37.png" width="18%">](1-70/37.png)
+[<img src="1-70/38.png" width="18%">](1-70/38.png)
+[<img src="1-70/39.png" width="18%">](1-70/39.png)
+[<img src="1-70/40.png" width="18%">](1-70/40.png)
+[<img src="1-70/41.png" width="18%">](1-70/41.png)
+[<img src="1-70/42.png" width="18%">](1-70/42.png)
+[<img src="1-70/43.png" width="18%">](1-70/43.png)
+[<img src="1-70/44.png" width="18%">](1-70/44.png)
+[<img src="1-70/45.png" width="18%">](1-70/45.png)
+[<img src="1-70/46.png" width="18%">](1-70/46.png)
+[<img src="1-70/47.png" width="18%">](1-70/47.png)
+[<img src="1-70/48.png" width="18%">](1-70/48.png)
+[<img src="1-70/49.png" width="18%">](1-70/49.png)
+[<img src="1-70/50.png" width="18%">](1-70/50.png)
+[<img src="1-70/51.png" width="18%">](1-70/51.png)
+[<img src="1-70/52.png" width="18%">](1-70/52.png)
+[<img src="1-70/53.png" width="18%">](1-70/53.png)
+[<img src="1-70/54.png" width="18%">](1-70/54.png)
+[<img src="1-70/55.png" width="18%">](1-70/55.png)
+[<img src="1-70/56.png" width="18%">](1-70/56.png)
+[<img src="1-70/57.png" width="18%">](1-70/57.png)
+[<img src="1-70/58.png" width="18%">](1-70/58.png)
+[<img src="1-70/59.png" width="18%">](1-70/59.png)
+[<img src="1-70/60.png" width="18%">](1-70/60.png)
+[<img src="1-70/61.png" width="18%">](1-70/61.png)
+[<img src="1-70/62.png" width="18%">](1-70/62.png)
+[<img src="1-70/63.png" width="18%">](1-70/63.png)
+[<img src="1-70/64.png" width="18%">](1-70/64.png)
+[<img src="1-70/65.png" width="18%">](1-70/65.png)
+[<img src="1-70/66.png" width="18%">](1-70/66.png)
+[<img src="1-70/67.png" width="18%">](1-70/67.png)
+[<img src="1-70/68.png" width="18%">](1-70/68.png)
+[<img src="1-70/69.png" width="18%">](1-70/69.png)
+[<img src="1-70/70.png" width="18%">](1-70/70.png)
+
+
+
