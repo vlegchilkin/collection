@@ -1,6 +1,6 @@
 ## Turbo Classic 1-70 (With Classic)
 
-| Year                     |                Purple                |                 Blue                 |                Silver                |                Bronze                |                 Red                 |
+| Year                     |                Purple                |                 Blue                 |                Silver                |                 Gold                 |                 Red                 |
 |--------------------------|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:-----------------------------------:|
 | 1995<br/> 1996<br/> 1997 | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"> |
 
