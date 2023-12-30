@@ -13,6 +13,8 @@ Facts:
 
 * First repeat of image from 1st series - number 41 and 111,
 * Errors in all wrappers with BMW - text BMV not BMW,
+* 94 has mark above 'motor' text (white area or dots). There a rare 'clean' version also.
+* 86 & 116 might have a 'circle' mark
 * In parallel with 2nd series was produced signs with cars from this series.
 
 | Year                               |             Green/Yellow              |               Blue/Red                |             Yellow/Green              |              Yellow/Red               |              Red/Yellow               |
