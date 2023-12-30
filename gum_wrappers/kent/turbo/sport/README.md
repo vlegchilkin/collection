@@ -1,17 +1,10 @@
 # Turbo Sport
 
 ## 1-70
-<table>
-<tr><th>Year</th><th>Purple</th><th>Blue</th><th>Yellow</th><th>Orange</th><th>Red</th></tr>
-<tr>
-    <td>1995</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>[<img src="1-70/outer/red.png" width="18%">](1-70/outer/red.png)</td>
-</tr>
-</table>
+
+| Year |                    Purple                     |                     Blue                      |                    Yellow                     |                    Orange                     |                                    Red                                     |
+|------|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:--------------------------------------------------------------------------:|
+| 1995 | <img src="1-70/outer/1995/_.png" width="200"> | <img src="1-70/outer/1995/_.png" width="200"> | <img src="1-70/outer/1995/_.png" width="200"> | <img src="1-70/outer/1995/_.png" width="200"> | [<img src="1-70/outer/1995/red.png" width="200">](1-70/outer/1995/red.png) |
 
 [<img src="1-70/1.png" width="18%">](1-70/1.png)
 [<img src="1-70/2.png" width="18%">](1-70/2.png)
