@@ -1,8 +1,8 @@
 ## Turbo Super 331-400
 
-| Year           |                   Green                   |                   Blue                   |                   Yellow                   |                   Orange                   |                  Red                   |
-|----------------|:-----------------------------------------:|:----------------------------------------:|:------------------------------------------:|:------------------------------------------:|:--------------------------------------:|
-| 1994<br/> 1995 | <img src="outer/_green.jpg" width="200"/> | <img src="outer/_blue.jpg" width="200"/> | <img src="outer/_yellow.jpg" width="200"/> | <img src="outer/_orange.jpg" width="200"/> | <img src="outer/_red.jpg" width="200"> |
+| Year           |                   Green                    |                   Blue                    |                   Yellow                    |                   Orange                    |                   Red                   |
+|----------------|:------------------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|:---------------------------------------:|
+| 1994<br/> 1995 | <img src="outer/_green.jpg" height="200"/> | <img src="outer/_blue.jpg" height="200"/> | <img src="outer/_yellow.jpg" height="200"/> | <img src="outer/_orange.jpg" height="200"/> | <img src="outer/_red.jpg" height="200"> |
 
 [<img src="inner/331.png" width="18%">]()
 [<img src="inner/332.png" width="18%">]()
