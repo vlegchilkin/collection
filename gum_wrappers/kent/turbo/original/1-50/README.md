@@ -26,6 +26,6 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 * On one of the advertisments is written than to obtain special gift, need to write a word "Turbo" by wrappers with this
   letters.
 
-| Year           |             Green/Yellow             |               Blue/Red               |             Yellow/Green             |              Yellow/Red              |              Red/Yellow              |
-|----------------|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|:------------------------------------:|
-| 1986<br/> 1987 | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> | <img src="outer/_.png" width="200"/> |
+| Year           |             Green/Yellow              |               Blue/Red                |             Yellow/Green              |              Yellow/Red               |              Red/Yellow               |
+|----------------|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| 1986<br/> 1987 | <img src="outer/_.png" height="200"/> | <img src="outer/_.png" height="200"/> | <img src="outer/_.png" height="200"/> | <img src="outer/_.png" height="200"/> | <img src="outer/_.png" height="200"/> |
