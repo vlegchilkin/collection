@@ -1,8 +1,13 @@
 ## Turbo Sport 71-140
 
-| Year           |                                        |                                        |                                        |                                        |                                        |                                        |                                        |                                        |                                        |                                         |
-|----------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:---------------------------------------:|
-| 1996<br/> 1997 | <img src="outer/_1.jpeg" height="70"/> | <img src="outer/_2.jpeg" height="70"/> | <img src="outer/_3.jpeg" height="70"/> | <img src="outer/_4.jpeg" height="70"/> | <img src="outer/_5.jpeg" height="70"/> | <img src="outer/_6.jpeg" height="70"/> | <img src="outer/_7.jpeg" height="70"/> | <img src="outer/_8.jpeg" height="70"/> | <img src="outer/_9.jpeg" height="70"/> | <img src="outer/_10.jpeg" height="70"/> |
+Produced from 1996 to 1997, in many countries and was sold widely. The model and brand of the car is pink in color, like
+the serial number. The inscription Turbo is dark purple, the word Sport is purple-green, the letters S and T merge with
+caps from above. On the inserts there is a gold frame around the picture. Specifications and model - black. Quite a lot
+of prototypes. Photo with a natural background is small. The series is considered one of the most common.
+
+| Year           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1996<br/> 1997 | <img src="outer/_1.jpeg" height="150"/> &nbsp; <img src="outer/_2.jpeg" height="150"/> &nbsp; <img src="outer/_3.jpeg" height="150"/> &nbsp; <img src="outer/_4.jpeg" height="150"/> &nbsp; <img src="outer/_5.jpeg" height="150"/> <br/> <img src="outer/_6.jpeg" height="150"/> &nbsp; <img src="outer/_7.jpeg" height="150"/> &nbsp; <img src="outer/_8.jpeg" height="150"/> &nbsp; <img src="outer/_9.jpeg" height="150"/> &nbsp; <img src="outer/_10.jpeg" height="150"/> |
 
 [<img src="inner/71.png" width="18%">]()
 [<img src="inner/72.png" width="18%">]()

@@ -23,7 +23,7 @@ Facts:
 
 | Year                               |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |               Red/Yellow               |
 |------------------------------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|
-| 1987<br/> 1988<br/> 1989<br/> 1990 | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> |
+| 1987<br/> 1988<br/> 1989<br/> 1990 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> |
 
 [<img src="inner/51.png" width="18%">]()
 [<img src="inner/52.png" width="18%">]()

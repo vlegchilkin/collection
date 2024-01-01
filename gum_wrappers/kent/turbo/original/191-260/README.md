@@ -3,10 +3,12 @@
 Very wide produced in many Europe countries from 1992 till 1993, was one of the most
 popular series. All car names and characteristics in black colors.
 
-Big quantity of prototypes comparative with previous series, appear classical retro cars, produced till 1940. 
+Big quantity of prototypes comparative with previous series, appear classical retro cars, produced till 1940.
 
 **Facts**
-* On wrappers appears advertisements of other Kent products - Jelibon, Frutty, Kent Assortment - numbers 211, 222, 225, 228,
+
+* On wrappers appears advertisements of other Kent products - Jelibon, Frutty, Kent Assortment - numbers 211, 222, 225,
+  228,
   231, 236, 238, 249, 254.
 
   [<img src="inner/211.png" width="18%">]()
@@ -27,10 +29,9 @@ Big quantity of prototypes comparative with previous series, appear classical re
 
 * Print errors or versions unknown, after 3rd series (T3) - very stable version produced.
 
-| Year           |             Green/Yellow              |               Blue/Red                |             Yellow/Green              |              Yellow/Red               |                 Red/Yellow                  |
-|----------------|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------------:|
-| 1992<br/> 1993 | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> | <img src="outer/1993/red.png" width="200"/> |
-
+| Year           |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |                  Red/Yellow                  |
+|----------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
+| 1992<br/> 1993 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/1993/red.png" height="150"/> |
 
 [<img src="inner/191.png" width="18%">]()
 [<img src="inner/192.png" width="18%">]()

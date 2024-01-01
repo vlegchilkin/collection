@@ -48,7 +48,7 @@ TSE means Turkish Standards Institution (TSE) -Turkish Quality Certificatre.
 
 | Year                     |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |                  Red/Yellow                  |
 |--------------------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
-| 1990<br/> 1991<br/> 1992 | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> | <img src="outer/_.jpeg" height="200"/> | <img src="outer/1992/red.png" height="200"/> |
+| 1990<br/> 1991<br/> 1992 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/1992/red.png" height="150"/> |
 
 [<img src="inner/121.png" width="18%">]()
 [<img src="inner/122.png" width="18%">]()

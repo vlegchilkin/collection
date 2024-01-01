@@ -2,7 +2,7 @@
 
 | Year                                         |                     Purple                      |                     Blue                      |                Yellow                 |                Orange                 |                     Red                     |
 |----------------------------------------------|:-----------------------------------------------:|:---------------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------------:|
-| 1995<br/> 1996<br/> 1997<br/> 1998<br/> 1999 | <img src="outer/1995/purple.png" height="200"/> | <img src="outer/1995/blue.png" height="200"/> | <img src="outer/_.png" height="200"/> | <img src="outer/_.png" height="200"/> | <img src="outer/1995/red.png" height="200"> |
+| 1995<br/> 1996<br/> 1997<br/> 1998<br/> 1999 | <img src="outer/1995/purple.png" height="150"/> | <img src="outer/1995/blue.png" height="150"/> | <img src="outer/_.png" height="150"/> | <img src="outer/_.png" height="150"/> | <img src="outer/1995/red.png" height="150"> |
 
 [<img src="inner/1.png" width="18%">](inner/1.png)
 [<img src="inner/2.png" width="18%">](inner/2.png)
