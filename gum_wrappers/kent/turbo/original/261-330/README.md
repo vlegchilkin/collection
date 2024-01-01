@@ -19,8 +19,3 @@ different, border hide partially an car image.
 * Wrapper #330 with thick frame have extended spoiler.
 * Wrappers #296 and #318 (#316 for thick frame) - is the same car but with different characteristics, and one of them
   named prototype but is real Ferrari 643, from 1991 season 1 of Formula 1.
-
-| Year           |             Green/Yellow              |               Blue/Red                |             Yellow/Green              |              Yellow/Red               |              Red/Yellow               |
-|----------------|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| 1993<br/> 1994 | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> | <img src="outer/_.jpeg" width="200"/> |
-
