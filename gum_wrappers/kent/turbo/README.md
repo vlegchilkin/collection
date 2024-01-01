@@ -68,8 +68,8 @@
         <img src="original/261-330/thin/outer/_.png" height="100"/> 
         <img src="original/261-330/thin/outer/_.png" height="100"/>
     </td>
-    <td></td>
-    <td></td>
+    <td>300</td>
+    <td>a lot</td>
 </tr>
 
 <tr><td colspan="4" align="left"><a href="original/261-330/thick">T5 – Turbo 261-330 (Thick)</a></td></tr>
@@ -82,7 +82,7 @@
         <img src="original/261-330/thick/outer/1994/red.png" height="100"/>
     </td>
     <td></td>
-    <td></td>
+    <td>a lot</td>
 </tr>
 
 <tr><td colspan="4" align="left"><a href="super/331-400">U1 – Turbo Super 331-400</a></td></tr>
