@@ -45,10 +45,10 @@ TSE means Turkish Standards Institution (TSE) -Turkish Quality Certificatre.
 
 * Numbers 124 and 144 appears with black rectangles on car characteristics.
 
-
-| Year                     |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |                  Red/Yellow                  |
-|--------------------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
-| 1990<br/> 1991<br/> 1992 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/1992/red.png" height="150"/> |
+| Year           |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |                  Red/Yellow                  |
+|----------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
+| 1990<br/> 1991 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> |    <img src="outer/_.jpeg" height="150"/>    |
+| 1992           | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/1992/red.png" height="150"/> |
 
 [<img src="inner/121.png" width="18%">]()
 [<img src="inner/122.png" width="18%">]()

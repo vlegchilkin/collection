@@ -3,6 +3,7 @@
 | Year |                     Green                      |                     Blue                      |                     Orange                      |                     Yellow                      |                     Red                     |
 |------|:----------------------------------------------:|:---------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------:|
 | 1995 | <img src="outer/1995/green.png" height="200"/> | <img src="outer/1995/blue.png" height="200"/> | <img src="outer/1995/orange.png" height="200"/> | <img src="outer/1995/yellow.png" height="200"/> | <img src="outer/1995/red.png" height="200"> |
+| 1996 | <img src="outer/1996/green.png" height="200"/> | <img src="outer/1996/blue.png" height="200"/> | <img src="outer/1996/orange.png" height="200"/> | <img src="outer/1996/yellow.png" height="200"/> | <img src="outer/1996/red.png" height="200"> |
 
 [<img src="inner/401.png" width="18%">]()
 [<img src="inner/402.png" width="18%">]()

@@ -29,9 +29,10 @@ Big quantity of prototypes comparative with previous series, appear classical re
 
 * Print errors or versions unknown, after 3rd series (T3) - very stable version produced.
 
-| Year           |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |                  Red/Yellow                  |
-|----------------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
-| 1992<br/> 1993 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/1993/red.png" height="150"/> |
+| Year |              Green/Yellow              |                Blue/Red                |              Yellow/Green              |               Yellow/Red               |                  Red/Yellow                  |
+|------|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------:|:--------------------------------------------:|
+| 1992 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> |    <img src="outer/_.jpeg" height="150"/>    |
+| 1993 | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/_.jpeg" height="150"/> | <img src="outer/1993/red.png" height="150"/> |
 
 [<img src="inner/191.png" width="18%">]()
 [<img src="inner/192.png" width="18%">]()
