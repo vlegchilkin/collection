@@ -12,32 +12,38 @@ TSE means Turkish Standards Institution (TSE) -Turkish Quality Certificatre.
 * 3rd series has many print errors and wrappers variations:
 * 124 – car name with appendix 318 and without.
 
-  [<img src="inner/124.png" width="18%">]()
+  [<img src="inner/124.png" width="18%">](inner/124.png)
+  [<img src="inner/124_62_without_318.png" width="18%">](inner/124_62_without_318.png)
 
-* 131 – car name Pantera and Pentera.
+* 131 – car name Pentera and Pantera (pantera also has two versions - strikethrough or clean number).
 
-  [<img src="inner/131.png" width="18%">]()
-  [<img src="extra/131_pantera.png" width="18%">]()
+  [<img src="inner/131.png" width="18%">](inner/131.png)
+  [<img src="extra/131_pantera.png" width="18%">](131_pantera.png)
+  [<img src="inner/131_61_pantera.png" width="18%">](inner/131_61_pantera.png)
 
 * 144 – engine volume 1500 cc indicated and not.
 
-  [<img src="inner/144.png" width="18%">]()
+  [<img src="inner/144_63.png" width="18%">](inner/144_63.png)
+  [<img src="inner/144_63_without_motor.png" width="18%">](inner/144_63_without_motor.png)
 
 * 149 – car name with Diablo and without.
 
-  [<img src="inner/149.png" width="18%">]()
+  [<img src="inner/149.png" width="18%">](inner/149.png)
+  [<img src="inner/149_63_without_diablo.png" width="18%">](inner/149_63_without_diablo.png)
 
 * 159 – car model 300 and 500.
 
-  [<img src="inner/159.png" width="18%">]()
+  [<img src="inner/159.png" width="18%">](inner/159.png)
+  [<img src="inner/159_63_with_300.png" width="18%">](inner/159_63_with_300.png)
 
 * 186 - 14000cc, maybe this error wasn't fixed.
 
-  [<img src="inner/186.png" width="18%">]()
+  [<img src="inner/186.png" width="18%">](inner/186.png)
 
 * 188 – car name Volkswagen and Voltswagen.
 
-  [<img src="inner/188.png" width="18%">]()
+  [<img src="inner/188.png" width="18%">](inner/188.png)
+  [<img src="inner/188_61_voltswagen.png" width="18%">](inner/188_61_voltswagen.png)
 
 * 189 – car name Voltswagen not error, is real electro-car.
 
