@@ -23,7 +23,7 @@ layout: default
         </td>
         <td>
             Collection<br/>
-            <a class='missed' href='black/1-50/thumbnails/inner/1.0.png' title='' target='_blank'>1</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/1.1.png' title='' target='_blank'>1</a>
             <a class='enough' href='black/1-50/thumbnails/inner/2.4.png' title='' target='_blank'>2</a>
             <a class='missed' href='black/1-50/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
             <a class='missed' href='black/1-50/thumbnails/inner/4.0.png' title='' target='_blank'>4</a>
@@ -34,11 +34,11 @@ layout: default
             <a class='enough' href='black/1-50/thumbnails/inner/9.4.png' title='' target='_blank'>9</a>
             <a class='good' href='black/1-50/thumbnails/inner/10.3.png' title='' target='_blank'>10</a>
             <a class='missed' href='black/1-50/thumbnails/inner/11.0.png' title='' target='_blank'>11</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/12.0.png' title='' target='_blank'>12</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/12.1.png' title='' target='_blank'>12</a>
             <a class='missed' href='black/1-50/thumbnails/inner/13.0.png' title='' target='_blank'>13</a>
             <a class='enough' href='black/1-50/thumbnails/inner/14.4.png' title='' target='_blank'>14</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/15.0.png' title='' target='_blank'>15</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/16.0.png' title='' target='_blank'>16</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/15.1.png' title='' target='_blank'>15</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/16.1.png' title='' target='_blank'>16</a>
             <a class='good' href='black/1-50/thumbnails/inner/17.3.png' title='' target='_blank'>17</a>
             <a class='missed' href='black/1-50/thumbnails/inner/18.0.png' title='' target='_blank'>18</a>
             <a class='missed' href='black/1-50/thumbnails/inner/19.0.png' title='' target='_blank'>19</a>
@@ -48,18 +48,18 @@ layout: default
             <a class='enough' href='black/1-50/thumbnails/inner/23.4.png' title='' target='_blank'>23</a>
             <a class='missed' href='black/1-50/thumbnails/inner/24.0.png' title='' target='_blank'>24</a>
             <a class='enough' href='black/1-50/thumbnails/inner/25.4.png' title='' target='_blank'>25</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/26.0.png' title='' target='_blank'>26</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/26.1.png' title='' target='_blank'>26</a>
             <a class='enough' href='black/1-50/thumbnails/inner/27.4.png' title='' target='_blank'>27</a>
             <a class='enough' href='black/1-50/thumbnails/inner/28.4.png' title='' target='_blank'>28</a>
             <a class='missed' href='black/1-50/thumbnails/inner/29.0.png' title='' target='_blank'>29</a>
             <a class='enough' href='black/1-50/thumbnails/inner/30.4.png' title='' target='_blank'>30</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/31.0.png' title='' target='_blank'>31</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/32.0.png' title='' target='_blank'>32</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/33.0.png' title='' target='_blank'>33</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/34.0.png' title='' target='_blank'>34</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/35.0.png' title='' target='_blank'>35</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/36.0.png' title='' target='_blank'>36</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/37.0.png' title='' target='_blank'>37</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/31.1.png' title='' target='_blank'>31</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/32.1.png' title='' target='_blank'>32</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/33.1.png' title='' target='_blank'>33</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/34.1.png' title='' target='_blank'>34</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/35.1.png' title='' target='_blank'>35</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/36.1.png' title='' target='_blank'>36</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/37.1.png' title='' target='_blank'>37</a>
             <a class='missed' href='black/1-50/thumbnails/inner/38.0.png' title='' target='_blank'>38</a>
             <a class='missed' href='black/1-50/thumbnails/inner/39.0.png' title='' target='_blank'>39</a>
             <a class='missed' href='black/1-50/thumbnails/inner/40.0.png' title='' target='_blank'>40</a>
@@ -67,11 +67,11 @@ layout: default
             <a class='missed' href='black/1-50/thumbnails/inner/42.0.png' title='' target='_blank'>42</a>
             <a class='missed' href='black/1-50/thumbnails/inner/43.0.png' title='' target='_blank'>43</a>
             <a class='good' href='black/1-50/thumbnails/inner/44.3.png' title='' target='_blank'>44</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/45.0.png' title='' target='_blank'>45</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/45.1.png' title='' target='_blank'>45</a>
             <a class='good' href='black/1-50/thumbnails/inner/46.3.png' title='' target='_blank'>46</a>
             <a class='enough' href='black/1-50/thumbnails/inner/47.4.png' title='' target='_blank'>47</a>
             <a class='missed' href='black/1-50/thumbnails/inner/48.0.png' title='' target='_blank'>48</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/49.0.png' title='' target='_blank'>49</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/49.1.png' title='' target='_blank'>49</a>
             <a class='missed' href='black/1-50/thumbnails/inner/50.0.png' title='' target='_blank'>50</a>
         </td>
     </tr>
