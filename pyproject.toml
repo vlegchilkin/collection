@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "collection"
+version = "0.1.0"
+description = "Personal collection"
+authors = ["Vitaly Legchilkin <vlegchilkin@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pillow = "*"
+
+[tool.poetry.dev-dependencies]
+pre-commit = { version = "^3.5.0", source = "pypi" }
+black = { extras = ["d"], version = "*", source = "pypi" }
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 120
+target-version = ['py312']
+
+[tool.pytest.ini_options]
+python_files = "*.py"
+python_functions = "test_*"
+addopts = "--ignore=utils --color=yes -s"
+log_cli = "true"
+log_cli_level = "debug"
+log_format = "%(asctime)s | %(levelname)-7s | [%(name)s] %(message)s"
+log_date_format = "%Y-%m-%d %H:%M:%S"
+junit_family = "xunit1"
+#asyncio_mode = "auto"
