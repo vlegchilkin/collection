@@ -24,21 +24,9 @@ def get_file_view_url(index_root: Path, series_context: Path, file_commits, file
     return f"{base_url}/{file_commits[filepath]}/{context.relative_to("..")}/{filepath}"
 
 
-def get_file_commits(index_root, series_context):
-    result = subprocess.run(
-        [f"cd {index_root / series_context};"
-         f" git ls-files -x \"*.png\" | while read file;"
-         f" do git log -n1 --pretty=\"$file %H\" -- $file;"
-         f" done"
-         ],
-        shell=True, capture_output=True, text=True
-    )
-    return result.stdout
-
-
-def inners(index_root: Path, series_context: Path, file_commits):
+def inners(index_root: Path, series_context: Path):
     numbers = cl.defaultdict(dict)
-    for filename in os.listdir(index_root / series_context / "inner"):
+    for filename in os.listdir(index_root / series_context / "thumbnails" / "inner"):
         if not filename.endswith(".png"):
             continue
         number, *opt, state = filename.split(".")[:-1]
@@ -53,11 +41,11 @@ def inners(index_root: Path, series_context: Path, file_commits):
             filename = f"{number}{f'.{opt}' if opt else ''}.{quality}.png"
             title = str(number) + (f"<sup>{idx}</sup>" if idx > 0 else '')
             opt_title = (opt or '').replace("_", " ").capitalize()
-            inner_view_url = get_file_view_url(index_root, series_context, file_commits, f"inner/{filename}")
+            inner_view_url = f"thumbnails/inner/{filename}"
             index_section += (
                 f"\n{INDENT}"
                 f"<a class='{qualities[quality]}' "
-                f"href='{inner_view_url}' "
+                f"href='{series_context}/{inner_view_url}' "
                 f"title='{opt_title}' target='_blank'>{title}</a>"
             )
             readme_section += (
@@ -70,10 +58,10 @@ def inners(index_root: Path, series_context: Path, file_commits):
     return readme_section, index_section
 
 
-def outers(index_root: Path, series_context: Path, file_commits):
+def outers(index_root: Path, series_context: Path):
     years = cl.defaultdict(lambda: cl.defaultdict(dict))
     options = set()
-    for filename in os.listdir(index_root / series_context / "outer"):
+    for filename in os.listdir(index_root / series_context / "thumbnails" / "outer"):
         if not filename.endswith(".png"):
             continue
         year, opt, state = filename.split(".")[:-1]
@@ -95,13 +83,12 @@ def outers(index_root: Path, series_context: Path, file_commits):
             for opt in sorted(vers, key=lambda k: int(k.split("_")[-1])):
                 quality = vers[opt]
                 filename = f"{year}.{opt}.{quality}.png"
-                outer_view_url = get_file_view_url(index_root, series_context, file_commits, f"outer/{filename}")
                 index_section += (
-                    f"\n{INDENT}<a href='{outer_view_url}' target='_blank'>"
+                    f"\n{INDENT}<a href='{series_context}/thumbnails/outer/{filename}' target='_blank'>"
                     f"<img src='{series_context}/thumbnails/outer/{filename}' width='50' alt='{year}.{opt}'/>"
                     f"</a>"
                 )
-                readme_section += f"[<img src='thumbnails/outer/{filename}'>]({outer_view_url})|"
+                readme_section += f"[<img src='thumbnails/outer/{filename}'>](thumbnails/outer/{filename})|"
             index_section += f"\n{INDENT}<br/>"
             readme_section += "\n"
 
@@ -120,10 +107,8 @@ def build(index_filepath: Path, series_path: Path):
     index_root = index_filepath.parent
     series_context = series_path.relative_to(index_root)
     title = " ".join([v.capitalize() for v in series_path.parts[2:]])
-    file_commits_data = [line.split(" ") for line in get_file_commits(index_root, series_context).strip().split("\n")]
-    file_commits = {a: b for a, b in file_commits_data}
-    outer_readme, outer_index = outers(index_root, series_context, file_commits)
-    inner_readme, inner_index = inners(index_root, series_context, file_commits)
+    outer_readme, outer_index = outers(index_root, series_context)
+    inner_readme, inner_index = inners(index_root, series_context)
     result = (
         state_template
         .replace("{{ title }}", title)

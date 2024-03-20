@@ -5,6 +5,9 @@ from PIL import Image
 
 SIZE = (200, 150)
 
+ROOT = Path("..")
+SCANS_DIR = Path("../scans")
+
 
 def build(root_dir: str):
     output_dir = Path(root_dir) / "thumbnails"
@@ -19,15 +22,16 @@ def build(root_dir: str):
 
     for original in ["inner", "outer"]:
         os.makedirs(output_dir / original, exist_ok=True)
-        for filename in os.listdir(os.path.join(root_dir, original)):
+        scan_path = SCANS_DIR / root_dir[len(str(ROOT)) + 1:] / original
+        for filename in os.listdir(scan_path):
             if filename.endswith(".png"):
-                full_path = os.path.join(root_dir, original, filename)
+                full_path = scan_path / filename
                 img = Image.open(full_path)
                 img.thumbnail(SIZE)
                 img.save(os.path.join(output_dir, original, filename))
 
 
 if __name__ == "__main__":
-    for root, dirs, files in os.walk("../gum_wrappers/kent/turbo/black/51-120"):
+    for root, dirs, files in os.walk(f"../gum_wrappers/kent/oto-moto/101-200"):
         if "thumbnails" in dirs:
             build(root)
