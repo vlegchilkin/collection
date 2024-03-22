@@ -3,7 +3,7 @@ from pathlib import Path
 
 from PIL import Image
 
-SIZE = (200, 150)
+SIZE = (320, 240)
 
 ROOT = Path("..")
 SCANS_DIR = Path("../scans")
