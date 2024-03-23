@@ -40,7 +40,7 @@ layout: default
             <a class='bad' href='black/1-50/thumbnails/inner/15.1.png' title='' target='_blank'>15</a>
             <a class='bad' href='black/1-50/thumbnails/inner/16.1.png' title='' target='_blank'>16</a>
             <a class='good' href='black/1-50/thumbnails/inner/17.3.png' title='' target='_blank'>17</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/18.0.png' title='' target='_blank'>18</a>
+            <a class='bad' href='black/1-50/thumbnails/inner/18.1.png' title='' target='_blank'>18</a>
             <a class='missed' href='black/1-50/thumbnails/inner/19.0.png' title='' target='_blank'>19</a>
             <a class='missed' href='black/1-50/thumbnails/inner/20.0.png' title='' target='_blank'>20</a>
             <a class='missed' href='black/1-50/thumbnails/inner/21.0.png' title='' target='_blank'>21</a>
