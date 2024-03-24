@@ -10,6 +10,12 @@ Hello, my name is Vitaly and here I store scans of my collections.
 
 **Useful links**
 
+* https://societeturbo.com
 * https://turbobank.clan.su
 * http://b-g-w.blogspot.com
 * https://turbocovers.com
+
+## Magazines
+
+* [Autokatalog](magazines/autokatalog)
+  - https://www.magazinecollector.net/magazines/cars/2693-autokatalog/
