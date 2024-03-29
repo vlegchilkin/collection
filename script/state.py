@@ -47,8 +47,11 @@ def inners(index_root: Path, series_context: Path):
     for idx, option in enumerate(options):
         if idx > 0:
             index_section += "<br/>"
-        opt_title = (option or 'Regular').replace("_", " ").capitalize()
-        index_section += f"{opt_title}<br/>"
+        if option is not None:
+            opt_title = option.replace("_", " ").capitalize()
+            index_section += f"{opt_title}<br/>"
+        else:
+            opt_title = ''
         for number in range(lo, hi + 1):
             quality = numbers[number][option] if number in numbers and option in numbers[number] else 0
             filename = f"{number}{f'.{option}' if option else ''}.{quality}.png"
@@ -59,7 +62,6 @@ def inners(index_root: Path, series_context: Path):
                 f"href='{series_context}/{inner_view_url}' "
                 f"title='{opt_title}' target='_blank'>{number}</a>"
             )
-
 
     readme_section = ""
     for number in sorted(numbers):
@@ -76,7 +78,7 @@ def inners(index_root: Path, series_context: Path):
             )
         readme_section += "</span>\n"
 
-    return readme_section, index_section
+    return readme_section, index_section.strip()
 
 
 def outers(index_root: Path, series_context: Path):
