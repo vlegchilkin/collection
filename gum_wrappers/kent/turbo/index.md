@@ -2429,6 +2429,9 @@ layout: default
             <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.3.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.3.5.png' width='50' alt='2006_02-12.3'/></a>
             <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.4.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.4.5.png' width='50' alt='2006_02-12.4'/></a>
             <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.5.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.5.5.png' width='50' alt='2006_02-12.5'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.6.0.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.6.0.png' width='50' alt='2006_02-12.6'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.7.0.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.7.0.png' width='50' alt='2006_02-12.7'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.8.0.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.8.0.png' width='50' alt='2006_02-12.8'/></a>
             <br/>
         </td>
         <td>
