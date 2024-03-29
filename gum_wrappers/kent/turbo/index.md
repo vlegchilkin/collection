@@ -458,50 +458,68 @@ layout: default
             Collection<br/>
             <a class='perfect' href='black/191-260/thumbnails/inner/191.5.png' title='' target='_blank'>191</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/192.5.png' title='' target='_blank'>192</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/192.x.5.png' title='X' target='_blank'>192<sup>1</sup></a>
             <a class='enough' href='black/191-260/thumbnails/inner/193.4.png' title='' target='_blank'>193</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/194.5.png' title='' target='_blank'>194</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/195.5.png' title='' target='_blank'>195</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/196.5.png' title='' target='_blank'>196</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/196.x.5.png' title='X' target='_blank'>196<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/197.5.png' title='' target='_blank'>197</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/198.5.png' title='' target='_blank'>198</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/199.5.png' title='' target='_blank'>199</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/200.5.png' title='' target='_blank'>200</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/201.5.png' title='' target='_blank'>201</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/202.5.png' title='' target='_blank'>202</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/200.4.png' title='' target='_blank'>200</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/201.4.png' title='' target='_blank'>201</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/202.4.png' title='' target='_blank'>202</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/202.x.4.png' title='X' target='_blank'>202<sup>1</sup></a>
             <a class='enough' href='black/191-260/thumbnails/inner/203.4.png' title='' target='_blank'>203</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/203.line1.4.png' title='Line1' target='_blank'>203<sup>1</sup></a>
+            <a class='enough' href='black/191-260/thumbnails/inner/203.line2.4.png' title='Line2' target='_blank'>203<sup>2</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/204.5.png' title='' target='_blank'>204</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/204.line.5.png' title='Line' target='_blank'>204<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/205.5.png' title='' target='_blank'>205</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/206.5.png' title='' target='_blank'>206</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/207.5.png' title='' target='_blank'>207</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/207.4.png' title='' target='_blank'>207</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/207.line.5.png' title='Line' target='_blank'>207<sup>1</sup></a>
             <a class='enough' href='black/191-260/thumbnails/inner/208.4.png' title='' target='_blank'>208</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/209.5.png' title='' target='_blank'>209</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/210.4.png' title='' target='_blank'>210</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/211.5.png' title='' target='_blank'>211</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/212.4.png' title='' target='_blank'>212</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/209.4.png' title='' target='_blank'>209</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/210.5.png' title='' target='_blank'>210</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/211.4.png' title='' target='_blank'>211</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/211.x.5.png' title='X' target='_blank'>211<sup>1</sup></a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/212.5.png' title='' target='_blank'>212</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/213.5.png' title='' target='_blank'>213</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/213.x.5.png' title='X' target='_blank'>213<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/214.5.png' title='' target='_blank'>214</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/215.4.png' title='' target='_blank'>215</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/216.4.png' title='' target='_blank'>216</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/215.5.png' title='' target='_blank'>215</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/216.5.png' title='' target='_blank'>216</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/216.x.5.png' title='X' target='_blank'>216<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/217.5.png' title='' target='_blank'>217</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/218.5.png' title='' target='_blank'>218</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/219.red_dot.5.png' title='Red dot' target='_blank'>219</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/218.4.png' title='' target='_blank'>218</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/218.red_dot.5.png' title='Red dot' target='_blank'>218<sup>1</sup></a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/219.5.png' title='' target='_blank'>219</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/219.blue_dot.5.png' title='Blue dot' target='_blank'>219<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/220.5.png' title='' target='_blank'>220</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/221.5.png' title='' target='_blank'>221</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/220.x.4.png' title='X' target='_blank'>220<sup>1</sup></a>
+            <a class='enough' href='black/191-260/thumbnails/inner/221.4.png' title='' target='_blank'>221</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/221.x.4.png' title='X' target='_blank'>221<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/222.5.png' title='' target='_blank'>222</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/223.5.png' title='' target='_blank'>223</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/223.4.png' title='' target='_blank'>223</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/223.line.5.png' title='Line' target='_blank'>223<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/224.5.png' title='' target='_blank'>224</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/225.5.png' title='' target='_blank'>225</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/226.5.png' title='' target='_blank'>226</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/227.5.png' title='' target='_blank'>227</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/228.5.png' title='' target='_blank'>228</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/229.5.png' title='' target='_blank'>229</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/229.x.5.png' title='X' target='_blank'>229<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/230.5.png' title='' target='_blank'>230</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/231.5.png' title='' target='_blank'>231</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/232.5.png' title='' target='_blank'>232</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/231.x.5.png' title='X' target='_blank'>231<sup>1</sup></a>
+            <a class='enough' href='black/191-260/thumbnails/inner/232.4.png' title='' target='_blank'>232</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/233.5.png' title='' target='_blank'>233</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/233.x.5.png' title='X' target='_blank'>233<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/234.5.png' title='' target='_blank'>234</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/235.5.png' title='' target='_blank'>235</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/236.4.png' title='' target='_blank'>236</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/236.5.png' title='' target='_blank'>236</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/237.5.png' title='' target='_blank'>237</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/238.5.png' title='' target='_blank'>238</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/239.5.png' title='' target='_blank'>239</a>
@@ -509,23 +527,33 @@ layout: default
             <a class='perfect' href='black/191-260/thumbnails/inner/241.5.png' title='' target='_blank'>241</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/242.5.png' title='' target='_blank'>242</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/243.5.png' title='' target='_blank'>243</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/243.x.5.png' title='X' target='_blank'>243<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/244.5.png' title='' target='_blank'>244</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/244.green_dot.4.png' title='Green dot' target='_blank'>244<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/245.5.png' title='' target='_blank'>245</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/245.x.5.png' title='X' target='_blank'>245<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/246.5.png' title='' target='_blank'>246</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/247.5.png' title='' target='_blank'>247</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/248.5.png' title='' target='_blank'>248</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/249.5.png' title='' target='_blank'>249</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/250.5.png' title='' target='_blank'>250</a>
-            <a class='perfect' href='black/191-260/thumbnails/inner/251.5.png' title='' target='_blank'>251</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/250.4.png' title='' target='_blank'>250</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/250.x.5.png' title='X' target='_blank'>250<sup>1</sup></a>
+            <a class='enough' href='black/191-260/thumbnails/inner/251.4.png' title='' target='_blank'>251</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/251.x.5.png' title='X' target='_blank'>251<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/252.5.png' title='' target='_blank'>252</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/252.x.5.png' title='X' target='_blank'>252<sup>1</sup></a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/252.xx.5.png' title='Xx' target='_blank'>252<sup>2</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/253.5.png' title='' target='_blank'>253</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/254.5.png' title='' target='_blank'>254</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/255.4.png' title='' target='_blank'>255</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/255.5.png' title='' target='_blank'>255</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/256.5.png' title='' target='_blank'>256</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/257.5.png' title='' target='_blank'>257</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/258.5.png' title='' target='_blank'>258</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/258.lines.4.png' title='Lines' target='_blank'>258<sup>1</sup></a>
             <a class='perfect' href='black/191-260/thumbnails/inner/259.5.png' title='' target='_blank'>259</a>
+            <a class='perfect' href='black/191-260/thumbnails/inner/259.lines.5.png' title='Lines' target='_blank'>259<sup>1</sup></a>
             <a class='enough' href='black/191-260/thumbnails/inner/260.4.png' title='' target='_blank'>260</a>
+            <a class='enough' href='black/191-260/thumbnails/inner/260.x.4.png' title='X' target='_blank'>260<sup>1</sup></a>
         </td>
     </tr>
 </table>
