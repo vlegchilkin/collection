@@ -32,22 +32,43 @@ def inners(index_root: Path, series_context: Path):
         number, *opt, state = filename.split(".")[:-1]
         numbers[int(number)][opt[0] if opt else None] = int(state)
 
-    index_section = "Collection<br/>"
+    lo, hi = min(numbers), max(numbers)
+
+    groups = cl.defaultdict(int)
+    for options in numbers.values():
+        for option in options:
+            groups[option] += 1
+    options = sorted(
+        [group for group, cnt in groups.items() if group is None or (len(group) > 1 and cnt > 3)],
+        key=lambda x: (x is not None, x)
+    )
+
+    index_section = ""
+    for idx, option in enumerate(options):
+        if idx > 0:
+            index_section += "</br>"
+        opt_title = (option or 'Regular').replace("_", " ").capitalize()
+        index_section += f"{opt_title}</br>"
+        for number in range(lo, hi + 1):
+            quality = numbers[number][option] if number in numbers and option in numbers[number] else 0
+            filename = f"{number}{f'.{option}' if option else ''}.{quality}.png"
+            inner_view_url = f"thumbnails/inner/{filename}"
+            index_section += (
+                f"\n{INDENT}"
+                f"<a class='{qualities[quality]}' "
+                f"href='{series_context}/{inner_view_url}' "
+                f"title='{opt_title}' target='_blank'>{number}</a>"
+            )
+
+
     readme_section = ""
     for number in sorted(numbers):
         readme_section += "<span style=\"display: inline-block;\">\n"
         for idx, opt in enumerate(sorted(numbers[number], key=lambda x: x or '')):
             quality = numbers[number][opt]
             filename = f"{number}{f'.{opt}' if opt else ''}.{quality}.png"
-            title = str(number) + (f"<sup>{idx}</sup>" if idx > 0 else '')
             opt_title = (opt or '').replace("_", " ").capitalize()
             inner_view_url = f"thumbnails/inner/{filename}"
-            index_section += (
-                f"\n{INDENT}"
-                f"<a class='{qualities[quality]}' "
-                f"href='{series_context}/{inner_view_url}' "
-                f"title='{opt_title}' target='_blank'>{title}</a>"
-            )
             readme_section += (
                 f"\t<a href='{inner_view_url}' title='{opt_title}'>"
                 f"<img src='thumbnails/inner/{filename}' alt='{opt_title}'>"
