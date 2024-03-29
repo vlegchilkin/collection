@@ -22,6 +22,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (29/50)<br/>
             <a class='good' href='black/1-50/thumbnails/inner/1.3.png' title='' target='_blank'>1</a>
             <a class='enough' href='black/1-50/thumbnails/inner/2.4.png' title='' target='_blank'>2</a>
             <a class='missed' href='black/1-50/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
@@ -71,7 +72,7 @@ layout: default
             <a class='enough' href='black/1-50/thumbnails/inner/47.4.png' title='' target='_blank'>47</a>
             <a class='missed' href='black/1-50/thumbnails/inner/48.0.png' title='' target='_blank'>48</a>
             <a class='enough' href='black/1-50/thumbnails/inner/49.4.png' title='' target='_blank'>49</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/50.0.png' title='' target='_blank'>50</a>&nbsp;(29/50)
+            <a class='missed' href='black/1-50/thumbnails/inner/50.0.png' title='' target='_blank'>50</a>
         </td>
     </tr>
 </table>
@@ -102,6 +103,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (68/70)<br/>
             <a class='missed' href='black/51-120/thumbnails/inner/51.0.png' title='' target='_blank'>51</a>
             <a class='perfect' href='black/51-120/thumbnails/inner/52.5.png' title='' target='_blank'>52</a>
             <a class='enough' href='black/51-120/thumbnails/inner/53.4.png' title='' target='_blank'>53</a>
@@ -171,7 +173,7 @@ layout: default
             <a class='perfect' href='black/51-120/thumbnails/inner/117.5.png' title='' target='_blank'>117</a>
             <a class='perfect' href='black/51-120/thumbnails/inner/118.5.png' title='' target='_blank'>118</a>
             <a class='perfect' href='black/51-120/thumbnails/inner/119.5.png' title='' target='_blank'>119</a>
-            <a class='perfect' href='black/51-120/thumbnails/inner/120.5.png' title='' target='_blank'>120</a>&nbsp;(68/70)
+            <a class='perfect' href='black/51-120/thumbnails/inner/120.5.png' title='' target='_blank'>120</a>
         </td>
     </tr>
 </table>
@@ -190,6 +192,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (67/70)<br/>
             <a class='enough' href='black/121-190/thumbnails/inner/121.4.png' title='' target='_blank'>121</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/122.5.png' title='' target='_blank'>122</a>
             <a class='enough' href='black/121-190/thumbnails/inner/123.4.png' title='' target='_blank'>123</a>
@@ -259,7 +262,7 @@ layout: default
             <a class='enough' href='black/121-190/thumbnails/inner/187.4.png' title='' target='_blank'>187</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/188.5.png' title='' target='_blank'>188</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/189.5.png' title='' target='_blank'>189</a>
-            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='' target='_blank'>190</a>&nbsp;(67/70)<br/>Oil<br/>
+            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='' target='_blank'>190</a><br/>Oil (47/70)<br/>
             <a class='enough' href='black/121-190/thumbnails/inner/121.oil.4.png' title='Oil' target='_blank'>121</a>
             <a class='enough' href='black/121-190/thumbnails/inner/122.oil.4.png' title='Oil' target='_blank'>122</a>
             <a class='missed' href='black/121-190/thumbnails/inner/123.oil.0.png' title='Oil' target='_blank'>123</a>
@@ -329,7 +332,7 @@ layout: default
             <a class='perfect' href='black/121-190/thumbnails/inner/187.oil.5.png' title='Oil' target='_blank'>187</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/188.oil.5.png' title='Oil' target='_blank'>188</a>
             <a class='enough' href='black/121-190/thumbnails/inner/189.oil.4.png' title='Oil' target='_blank'>189</a>
-            <a class='enough' href='black/121-190/thumbnails/inner/190.oil.4.png' title='Oil' target='_blank'>190</a>&nbsp;(47/70)
+            <a class='enough' href='black/121-190/thumbnails/inner/190.oil.4.png' title='Oil' target='_blank'>190</a>
         </td>
     </tr>
 </table>
@@ -354,6 +357,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='black/191-260/thumbnails/inner/191.5.png' title='' target='_blank'>191</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/192.5.png' title='' target='_blank'>192</a>
             <a class='enough' href='black/191-260/thumbnails/inner/193.4.png' title='' target='_blank'>193</a>
@@ -423,7 +427,7 @@ layout: default
             <a class='perfect' href='black/191-260/thumbnails/inner/257.5.png' title='' target='_blank'>257</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/258.5.png' title='' target='_blank'>258</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/259.5.png' title='' target='_blank'>259</a>
-            <a class='enough' href='black/191-260/thumbnails/inner/260.4.png' title='' target='_blank'>260</a>&nbsp;(70/70)
+            <a class='enough' href='black/191-260/thumbnails/inner/260.4.png' title='' target='_blank'>260</a>
         </td>
     </tr>
 </table>
@@ -448,7 +452,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Thick<br/>
+            Thick (70/70)<br/>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thick.5.png' title='Thick' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thick.5.png' title='Thick' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thick.5.png' title='Thick' target='_blank'>263</a>
@@ -518,7 +522,7 @@ layout: default
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thick.5.png' title='Thick' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thick.5.png' title='Thick' target='_blank'>328</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/329.thick.5.png' title='Thick' target='_blank'>329</a>
-            <a class='perfect' href='black/261-330/thumbnails/inner/330.thick.5.png' title='Thick' target='_blank'>330</a>&nbsp;(70/70)<br/>Thin bronze<br/>
+            <a class='perfect' href='black/261-330/thumbnails/inner/330.thick.5.png' title='Thick' target='_blank'>330</a><br/>Thin bronze (17/70)<br/>
             <a class='enough' href='black/261-330/thumbnails/inner/261.thin_bronze.4.png' title='Thin bronze' target='_blank'>261</a>
             <a class='enough' href='black/261-330/thumbnails/inner/262.thin_bronze.4.png' title='Thin bronze' target='_blank'>262</a>
             <a class='missed' href='black/261-330/thumbnails/inner/263.thin_bronze.0.png' title='Thin bronze' target='_blank'>263</a>
@@ -588,7 +592,7 @@ layout: default
             <a class='missed' href='black/261-330/thumbnails/inner/327.thin_bronze.0.png' title='Thin bronze' target='_blank'>327</a>
             <a class='missed' href='black/261-330/thumbnails/inner/328.thin_bronze.0.png' title='Thin bronze' target='_blank'>328</a>
             <a class='missed' href='black/261-330/thumbnails/inner/329.thin_bronze.0.png' title='Thin bronze' target='_blank'>329</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_bronze.0.png' title='Thin bronze' target='_blank'>330</a>&nbsp;(17/70)<br/>Thin gold<br/>
+            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_bronze.0.png' title='Thin bronze' target='_blank'>330</a><br/>Thin gold (50/70)<br/>
             <a class='missed' href='black/261-330/thumbnails/inner/261.thin_gold.0.png' title='Thin gold' target='_blank'>261</a>
             <a class='missed' href='black/261-330/thumbnails/inner/262.thin_gold.0.png' title='Thin gold' target='_blank'>262</a>
             <a class='enough' href='black/261-330/thumbnails/inner/263.thin_gold.4.png' title='Thin gold' target='_blank'>263</a>
@@ -658,7 +662,7 @@ layout: default
             <a class='enough' href='black/261-330/thumbnails/inner/327.thin_gold.4.png' title='Thin gold' target='_blank'>327</a>
             <a class='enough' href='black/261-330/thumbnails/inner/328.thin_gold.4.png' title='Thin gold' target='_blank'>328</a>
             <a class='enough' href='black/261-330/thumbnails/inner/329.thin_gold.4.png' title='Thin gold' target='_blank'>329</a>
-            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_gold.4.png' title='Thin gold' target='_blank'>330</a>&nbsp;(50/70)<br/>Thin silver<br/>
+            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_gold.4.png' title='Thin gold' target='_blank'>330</a><br/>Thin silver (2/70)<br/>
             <a class='missed' href='black/261-330/thumbnails/inner/261.thin_silver.0.png' title='Thin silver' target='_blank'>261</a>
             <a class='missed' href='black/261-330/thumbnails/inner/262.thin_silver.0.png' title='Thin silver' target='_blank'>262</a>
             <a class='missed' href='black/261-330/thumbnails/inner/263.thin_silver.0.png' title='Thin silver' target='_blank'>263</a>
@@ -728,7 +732,7 @@ layout: default
             <a class='missed' href='black/261-330/thumbnails/inner/327.thin_silver.0.png' title='Thin silver' target='_blank'>327</a>
             <a class='missed' href='black/261-330/thumbnails/inner/328.thin_silver.0.png' title='Thin silver' target='_blank'>328</a>
             <a class='missed' href='black/261-330/thumbnails/inner/329.thin_silver.0.png' title='Thin silver' target='_blank'>329</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_silver.0.png' title='Thin silver' target='_blank'>330</a>&nbsp;(2/70)
+            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_silver.0.png' title='Thin silver' target='_blank'>330</a>
         </td>
     </tr>
 </table>
@@ -747,6 +751,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='super/331-400/thumbnails/inner/331.5.png' title='' target='_blank'>331</a>
             <a class='perfect' href='super/331-400/thumbnails/inner/332.5.png' title='' target='_blank'>332</a>
             <a class='enough' href='super/331-400/thumbnails/inner/333.4.png' title='' target='_blank'>333</a>
@@ -816,7 +821,7 @@ layout: default
             <a class='perfect' href='super/331-400/thumbnails/inner/397.5.png' title='' target='_blank'>397</a>
             <a class='enough' href='super/331-400/thumbnails/inner/398.4.png' title='' target='_blank'>398</a>
             <a class='perfect' href='super/331-400/thumbnails/inner/399.5.png' title='' target='_blank'>399</a>
-            <a class='perfect' href='super/331-400/thumbnails/inner/400.5.png' title='' target='_blank'>400</a>&nbsp;(70/70)
+            <a class='perfect' href='super/331-400/thumbnails/inner/400.5.png' title='' target='_blank'>400</a>
         </td>
     </tr>
 </table>
@@ -835,6 +840,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='super/401-470/thumbnails/inner/401.5.png' title='' target='_blank'>401</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/402.5.png' title='' target='_blank'>402</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/403.5.png' title='' target='_blank'>403</a>
@@ -904,7 +910,7 @@ layout: default
             <a class='perfect' href='super/401-470/thumbnails/inner/467.5.png' title='' target='_blank'>467</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/468.5.png' title='' target='_blank'>468</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/469.5.png' title='' target='_blank'>469</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/470.5.png' title='' target='_blank'>470</a>&nbsp;(70/70)
+            <a class='perfect' href='super/401-470/thumbnails/inner/470.5.png' title='' target='_blank'>470</a>
         </td>
     </tr>
 </table>
@@ -928,6 +934,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='super/471-540/thumbnails/inner/471.5.png' title='' target='_blank'>471</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/472.5.png' title='' target='_blank'>472</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/473.5.png' title='' target='_blank'>473</a>
@@ -997,7 +1004,7 @@ layout: default
             <a class='perfect' href='super/471-540/thumbnails/inner/537.5.png' title='' target='_blank'>537</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/538.5.png' title='' target='_blank'>538</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/539.5.png' title='' target='_blank'>539</a>
-            <a class='perfect' href='super/471-540/thumbnails/inner/540.5.png' title='' target='_blank'>540</a>&nbsp;(70/70)
+            <a class='perfect' href='super/471-540/thumbnails/inner/540.5.png' title='' target='_blank'>540</a>
         </td>
     </tr>
 </table>
@@ -1022,7 +1029,7 @@ layout: default
             <br/>
         </td>
         <td>
-            No classic<br/>
+            No classic (67/70)<br/>
             <a class='perfect' href='classic/1-70/thumbnails/inner/1.no_classic.5.png' title='No classic' target='_blank'>1</a>
             <a class='perfect' href='classic/1-70/thumbnails/inner/2.no_classic.5.png' title='No classic' target='_blank'>2</a>
             <a class='good' href='classic/1-70/thumbnails/inner/3.no_classic.3.png' title='No classic' target='_blank'>3</a>
@@ -1092,7 +1099,7 @@ layout: default
             <a class='enough' href='classic/1-70/thumbnails/inner/67.no_classic.4.png' title='No classic' target='_blank'>67</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/68.no_classic.4.png' title='No classic' target='_blank'>68</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/69.no_classic.4.png' title='No classic' target='_blank'>69</a>
-            <a class='enough' href='classic/1-70/thumbnails/inner/70.no_classic.4.png' title='No classic' target='_blank'>70</a>&nbsp;(67/70)<br/>With classic<br/>
+            <a class='enough' href='classic/1-70/thumbnails/inner/70.no_classic.4.png' title='No classic' target='_blank'>70</a><br/>With classic (67/70)<br/>
             <a class='good' href='classic/1-70/thumbnails/inner/1.with_classic.3.png' title='With classic' target='_blank'>1</a>
             <a class='good' href='classic/1-70/thumbnails/inner/2.with_classic.3.png' title='With classic' target='_blank'>2</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/3.with_classic.4.png' title='With classic' target='_blank'>3</a>
@@ -1162,7 +1169,7 @@ layout: default
             <a class='enough' href='classic/1-70/thumbnails/inner/67.with_classic.4.png' title='With classic' target='_blank'>67</a>
             <a class='good' href='classic/1-70/thumbnails/inner/68.with_classic.3.png' title='With classic' target='_blank'>68</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/69.with_classic.4.png' title='With classic' target='_blank'>69</a>
-            <a class='good' href='classic/1-70/thumbnails/inner/70.with_classic.3.png' title='With classic' target='_blank'>70</a>&nbsp;(67/70)
+            <a class='good' href='classic/1-70/thumbnails/inner/70.with_classic.3.png' title='With classic' target='_blank'>70</a>
         </td>
     </tr>
 </table>
@@ -1186,6 +1193,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='enough' href='classic/71-140/thumbnails/inner/71.4.png' title='' target='_blank'>71</a>
             <a class='perfect' href='classic/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='classic/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
@@ -1255,7 +1263,7 @@ layout: default
             <a class='perfect' href='classic/71-140/thumbnails/inner/137.5.png' title='' target='_blank'>137</a>
             <a class='enough' href='classic/71-140/thumbnails/inner/138.4.png' title='' target='_blank'>138</a>
             <a class='enough' href='classic/71-140/thumbnails/inner/139.4.png' title='' target='_blank'>139</a>
-            <a class='perfect' href='classic/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>&nbsp;(70/70)
+            <a class='perfect' href='classic/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>
         </td>
     </tr>
 </table>
@@ -1279,6 +1287,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='sport/1-70/thumbnails/inner/1.5.png' title='' target='_blank'>1</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/2.5.png' title='' target='_blank'>2</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/3.4.png' title='' target='_blank'>3</a>
@@ -1348,7 +1357,7 @@ layout: default
             <a class='perfect' href='sport/1-70/thumbnails/inner/67.5.png' title='' target='_blank'>67</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/68.5.png' title='' target='_blank'>68</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/69.5.png' title='' target='_blank'>69</a>
-            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='' target='_blank'>70</a>&nbsp;(70/70)<br/>Violet<br/>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='' target='_blank'>70</a><br/>Violet (18/70)<br/>
             <a class='good' href='sport/1-70/thumbnails/inner/1.violet.3.png' title='Violet' target='_blank'>1</a>
             <a class='missed' href='sport/1-70/thumbnails/inner/2.violet.0.png' title='Violet' target='_blank'>2</a>
             <a class='missed' href='sport/1-70/thumbnails/inner/3.violet.0.png' title='Violet' target='_blank'>3</a>
@@ -1418,7 +1427,7 @@ layout: default
             <a class='missed' href='sport/1-70/thumbnails/inner/67.violet.0.png' title='Violet' target='_blank'>67</a>
             <a class='missed' href='sport/1-70/thumbnails/inner/68.violet.0.png' title='Violet' target='_blank'>68</a>
             <a class='missed' href='sport/1-70/thumbnails/inner/69.violet.0.png' title='Violet' target='_blank'>69</a>
-            <a class='missed' href='sport/1-70/thumbnails/inner/70.violet.0.png' title='Violet' target='_blank'>70</a>&nbsp;(18/70)
+            <a class='missed' href='sport/1-70/thumbnails/inner/70.violet.0.png' title='Violet' target='_blank'>70</a>
         </td>
     </tr>
 </table>
@@ -1455,6 +1464,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (69/70)<br/>
             <a class='perfect' href='sport/71-140/thumbnails/inner/71.5.png' title='' target='_blank'>71</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
@@ -1524,7 +1534,7 @@ layout: default
             <a class='perfect' href='sport/71-140/thumbnails/inner/137.5.png' title='' target='_blank'>137</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/138.5.png' title='' target='_blank'>138</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/139.4.png' title='' target='_blank'>139</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>&nbsp;(69/70)
+            <a class='perfect' href='sport/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>
         </td>
     </tr>
 </table>
@@ -1548,6 +1558,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='sport/141-210/thumbnails/inner/141.5.png' title='' target='_blank'>141</a>
             <a class='enough' href='sport/141-210/thumbnails/inner/142.4.png' title='' target='_blank'>142</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/143.5.png' title='' target='_blank'>143</a>
@@ -1617,7 +1628,7 @@ layout: default
             <a class='enough' href='sport/141-210/thumbnails/inner/207.4.png' title='' target='_blank'>207</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/208.5.png' title='' target='_blank'>208</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/209.5.png' title='' target='_blank'>209</a>
-            <a class='perfect' href='sport/141-210/thumbnails/inner/210.5.png' title='' target='_blank'>210</a>&nbsp;(70/70)
+            <a class='perfect' href='sport/141-210/thumbnails/inner/210.5.png' title='' target='_blank'>210</a>
         </td>
     </tr>
 </table>
@@ -1632,6 +1643,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (56/70)<br/>
             <a class='good' href='sport/401-470/thumbnails/inner/401.3.png' title='' target='_blank'>401</a>
             <a class='good' href='sport/401-470/thumbnails/inner/402.3.png' title='' target='_blank'>402</a>
             <a class='good' href='sport/401-470/thumbnails/inner/403.3.png' title='' target='_blank'>403</a>
@@ -1701,7 +1713,7 @@ layout: default
             <a class='good' href='sport/401-470/thumbnails/inner/467.3.png' title='' target='_blank'>467</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/468.4.png' title='' target='_blank'>468</a>
             <a class='good' href='sport/401-470/thumbnails/inner/469.3.png' title='' target='_blank'>469</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/470.0.png' title='' target='_blank'>470</a>&nbsp;(56/70)
+            <a class='missed' href='sport/401-470/thumbnails/inner/470.0.png' title='' target='_blank'>470</a>
         </td>
     </tr>
 </table>
@@ -1718,7 +1730,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Thick s<br/>
+            Thick s (65/70)<br/>
             <a class='good' href='sport/471-540/thumbnails/inner/471.thick_s.3.png' title='Thick s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thick_s.4.png' title='Thick s' target='_blank'>472</a>
             <a class='good' href='sport/471-540/thumbnails/inner/473.thick_s.3.png' title='Thick s' target='_blank'>473</a>
@@ -1788,7 +1800,7 @@ layout: default
             <a class='good' href='sport/471-540/thumbnails/inner/537.thick_s.3.png' title='Thick s' target='_blank'>537</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/538.thick_s.5.png' title='Thick s' target='_blank'>538</a>
             <a class='good' href='sport/471-540/thumbnails/inner/539.thick_s.3.png' title='Thick s' target='_blank'>539</a>
-            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a>&nbsp;(65/70)<br/>Thin s<br/>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a><br/>Thin s (70/70)<br/>
             <a class='enough' href='sport/471-540/thumbnails/inner/471.thin_s.4.png' title='Thin s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thin_s.4.png' title='Thin s' target='_blank'>472</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/473.thin_s.5.png' title='Thin s' target='_blank'>473</a>
@@ -1858,7 +1870,7 @@ layout: default
             <a class='perfect' href='sport/471-540/thumbnails/inner/537.thin_s.5.png' title='Thin s' target='_blank'>537</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/538.thin_s.5.png' title='Thin s' target='_blank'>538</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/539.thin_s.5.png' title='Thin s' target='_blank'>539</a>
-            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thin_s.5.png' title='Thin s' target='_blank'>540</a>&nbsp;(70/70)
+            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thin_s.5.png' title='Thin s' target='_blank'>540</a>
         </td>
     </tr>
 </table>
@@ -1877,6 +1889,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='2000/211-280/thumbnails/inner/211.5.png' title='' target='_blank'>211</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/212.5.png' title='' target='_blank'>212</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/213.5.png' title='' target='_blank'>213</a>
@@ -1946,7 +1959,7 @@ layout: default
             <a class='perfect' href='2000/211-280/thumbnails/inner/277.5.png' title='' target='_blank'>277</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/278.5.png' title='' target='_blank'>278</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/279.5.png' title='' target='_blank'>279</a>
-            <a class='perfect' href='2000/211-280/thumbnails/inner/280.5.png' title='' target='_blank'>280</a>&nbsp;(70/70)
+            <a class='perfect' href='2000/211-280/thumbnails/inner/280.5.png' title='' target='_blank'>280</a>
         </td>
     </tr>
 </table>
@@ -1965,6 +1978,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (70/70)<br/>
             <a class='perfect' href='2000/71-140/thumbnails/inner/71.5.png' title='' target='_blank'>71</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
@@ -2034,7 +2048,7 @@ layout: default
             <a class='enough' href='2000/71-140/thumbnails/inner/137.4.png' title='' target='_blank'>137</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/138.5.png' title='' target='_blank'>138</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/139.5.png' title='' target='_blank'>139</a>
-            <a class='perfect' href='2000/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>&nbsp;(70/70)
+            <a class='perfect' href='2000/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>
         </td>
     </tr>
 </table>
@@ -2058,6 +2072,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (0/99)<br/>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/1.0.png' title='' target='_blank'>1</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/2.0.png' title='' target='_blank'>2</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
@@ -2156,7 +2171,7 @@ layout: default
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/96.0.png' title='' target='_blank'>96</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/97.0.png' title='' target='_blank'>97</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/98.0.png' title='' target='_blank'>98</a>
-            <a class='missed' href='2003/RUS/sport/thumbnails/inner/99.0.png' title='' target='_blank'>99</a>&nbsp;(0/99)
+            <a class='missed' href='2003/RUS/sport/thumbnails/inner/99.0.png' title='' target='_blank'>99</a>
         </td>
     </tr>
 </table>
@@ -2175,6 +2190,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (0/99)<br/>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/1.0.png' title='' target='_blank'>1</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/2.0.png' title='' target='_blank'>2</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
@@ -2273,7 +2289,7 @@ layout: default
             <a class='missed' href='2003/RUS/super/thumbnails/inner/96.0.png' title='' target='_blank'>96</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/97.0.png' title='' target='_blank'>97</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/98.0.png' title='' target='_blank'>98</a>
-            <a class='missed' href='2003/RUS/super/thumbnails/inner/99.0.png' title='' target='_blank'>99</a>&nbsp;(0/99)
+            <a class='missed' href='2003/RUS/super/thumbnails/inner/99.0.png' title='' target='_blank'>99</a>
         </td>
     </tr>
 </table>
@@ -2295,6 +2311,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (99/99)<br/>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/1.5.png' title='' target='_blank'>1</a>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/2.5.png' title='' target='_blank'>2</a>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/3.5.png' title='' target='_blank'>3</a>
@@ -2393,7 +2410,7 @@ layout: default
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/96.5.png' title='' target='_blank'>96</a>
             <a class='enough' href='2003/TUR/sport/thumbnails/inner/97.4.png' title='' target='_blank'>97</a>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/98.5.png' title='' target='_blank'>98</a>
-            <a class='enough' href='2003/TUR/sport/thumbnails/inner/99.4.png' title='' target='_blank'>99</a>&nbsp;(99/99)
+            <a class='enough' href='2003/TUR/sport/thumbnails/inner/99.4.png' title='' target='_blank'>99</a>
         </td>
     </tr>
 </table>
@@ -2412,6 +2429,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (99/99)<br/>
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/1.5.png' title='' target='_blank'>1</a>
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/2.5.png' title='' target='_blank'>2</a>
             <a class='enough' href='2003/TUR/super/thumbnails/inner/3.4.png' title='' target='_blank'>3</a>
@@ -2510,7 +2528,7 @@ layout: default
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/96.5.png' title='' target='_blank'>96</a>
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/97.5.png' title='' target='_blank'>97</a>
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/98.5.png' title='' target='_blank'>98</a>
-            <a class='perfect' href='2003/TUR/super/thumbnails/inner/99.5.png' title='' target='_blank'>99</a>&nbsp;(99/99)
+            <a class='perfect' href='2003/TUR/super/thumbnails/inner/99.5.png' title='' target='_blank'>99</a>
         </td>
     </tr>
 </table>
@@ -2535,6 +2553,7 @@ layout: default
             <br/>
         </td>
         <td>
+            (44/54)<br/>
             <a class='perfect' href='2007/thumbnails/inner/101.5.png' title='' target='_blank'>101</a>
             <a class='perfect' href='2007/thumbnails/inner/102.5.png' title='' target='_blank'>102</a>
             <a class='good' href='2007/thumbnails/inner/103.3.png' title='' target='_blank'>103</a>
@@ -2588,7 +2607,7 @@ layout: default
             <a class='missed' href='2007/thumbnails/inner/151.0.png' title='' target='_blank'>151</a>
             <a class='perfect' href='2007/thumbnails/inner/152.5.png' title='' target='_blank'>152</a>
             <a class='perfect' href='2007/thumbnails/inner/153.5.png' title='' target='_blank'>153</a>
-            <a class='good' href='2007/thumbnails/inner/154.3.png' title='' target='_blank'>154</a>&nbsp;(44/54)<br/>Super<br/>
+            <a class='good' href='2007/thumbnails/inner/154.3.png' title='' target='_blank'>154</a><br/>Super (49/54)<br/>
             <a class='perfect' href='2007/thumbnails/inner/101.super.5.png' title='Super' target='_blank'>101</a>
             <a class='good' href='2007/thumbnails/inner/102.super.3.png' title='Super' target='_blank'>102</a>
             <a class='perfect' href='2007/thumbnails/inner/103.super.5.png' title='Super' target='_blank'>103</a>
@@ -2642,7 +2661,7 @@ layout: default
             <a class='enough' href='2007/thumbnails/inner/151.super.4.png' title='Super' target='_blank'>151</a>
             <a class='enough' href='2007/thumbnails/inner/152.super.4.png' title='Super' target='_blank'>152</a>
             <a class='perfect' href='2007/thumbnails/inner/153.super.5.png' title='Super' target='_blank'>153</a>
-            <a class='enough' href='2007/thumbnails/inner/154.super.4.png' title='Super' target='_blank'>154</a>&nbsp;(49/54)
+            <a class='enough' href='2007/thumbnails/inner/154.super.4.png' title='Super' target='_blank'>154</a>
         </td>
     </tr>
 </table>
