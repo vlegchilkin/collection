@@ -52,8 +52,10 @@ def inners(index_root: Path, series_context: Path):
             index_section += f"{opt_title}<br/>"
         else:
             opt_title = ''
+        counter = 0
         for number in range(lo, hi + 1):
             quality = numbers[number][option] if number in numbers and option in numbers[number] else 0
+            counter += 1 if quality else 0
             filename = f"{number}{f'.{option}' if option else ''}.{quality}.png"
             inner_view_url = f"thumbnails/inner/{filename}"
             index_section += (
@@ -62,6 +64,7 @@ def inners(index_root: Path, series_context: Path):
                 f"href='{series_context}/{inner_view_url}' "
                 f"title='{opt_title}' target='_blank'>{number}</a>"
             )
+        index_section += f"&nbsp;({counter}/{hi - lo + 1})"
 
     readme_section = ""
     for number in sorted(numbers):
