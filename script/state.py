@@ -46,9 +46,9 @@ def inners(index_root: Path, series_context: Path):
     index_section = ""
     for idx, option in enumerate(options):
         if idx > 0:
-            index_section += "</br>"
+            index_section += "<br/>"
         opt_title = (option or 'Regular').replace("_", " ").capitalize()
-        index_section += f"{opt_title}</br>"
+        index_section += f"{opt_title}<br/>"
         for number in range(lo, hi + 1):
             quality = numbers[number][option] if number in numbers and option in numbers[number] else 0
             filename = f"{number}{f'.{option}' if option else ''}.{quality}.png"

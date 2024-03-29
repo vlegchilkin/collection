@@ -22,7 +22,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='good' href='black/1-50/thumbnails/inner/1.3.png' title='Regular' target='_blank'>1</a>
             <a class='enough' href='black/1-50/thumbnails/inner/2.4.png' title='Regular' target='_blank'>2</a>
             <a class='missed' href='black/1-50/thumbnails/inner/3.0.png' title='Regular' target='_blank'>3</a>
@@ -103,7 +103,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='missed' href='black/51-120/thumbnails/inner/51.0.png' title='Regular' target='_blank'>51</a>
             <a class='perfect' href='black/51-120/thumbnails/inner/52.5.png' title='Regular' target='_blank'>52</a>
             <a class='enough' href='black/51-120/thumbnails/inner/53.4.png' title='Regular' target='_blank'>53</a>
@@ -192,7 +192,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='enough' href='black/121-190/thumbnails/inner/121.4.png' title='Regular' target='_blank'>121</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/122.5.png' title='Regular' target='_blank'>122</a>
             <a class='enough' href='black/121-190/thumbnails/inner/123.4.png' title='Regular' target='_blank'>123</a>
@@ -262,7 +262,7 @@ layout: default
             <a class='enough' href='black/121-190/thumbnails/inner/187.4.png' title='Regular' target='_blank'>187</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/188.5.png' title='Regular' target='_blank'>188</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/189.5.png' title='Regular' target='_blank'>189</a>
-            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='Regular' target='_blank'>190</a></br>Oil</br>
+            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='Regular' target='_blank'>190</a><br/>Oil<br/>
             <a class='enough' href='black/121-190/thumbnails/inner/121.oil.4.png' title='Oil' target='_blank'>121</a>
             <a class='enough' href='black/121-190/thumbnails/inner/122.oil.4.png' title='Oil' target='_blank'>122</a>
             <a class='missed' href='black/121-190/thumbnails/inner/123.oil.0.png' title='Oil' target='_blank'>123</a>
@@ -357,7 +357,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='black/191-260/thumbnails/inner/191.5.png' title='Regular' target='_blank'>191</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/192.5.png' title='Regular' target='_blank'>192</a>
             <a class='enough' href='black/191-260/thumbnails/inner/193.4.png' title='Regular' target='_blank'>193</a>
@@ -452,7 +452,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Thick</br>
+            Thick<br/>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thick.5.png' title='Thick' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thick.5.png' title='Thick' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thick.5.png' title='Thick' target='_blank'>263</a>
@@ -522,7 +522,7 @@ layout: default
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thick.5.png' title='Thick' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thick.5.png' title='Thick' target='_blank'>328</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/329.thick.5.png' title='Thick' target='_blank'>329</a>
-            <a class='perfect' href='black/261-330/thumbnails/inner/330.thick.5.png' title='Thick' target='_blank'>330</a></br>Thin bronze</br>
+            <a class='perfect' href='black/261-330/thumbnails/inner/330.thick.5.png' title='Thick' target='_blank'>330</a><br/>Thin bronze<br/>
             <a class='enough' href='black/261-330/thumbnails/inner/261.thin_bronze.4.png' title='Thin bronze' target='_blank'>261</a>
             <a class='enough' href='black/261-330/thumbnails/inner/262.thin_bronze.4.png' title='Thin bronze' target='_blank'>262</a>
             <a class='missed' href='black/261-330/thumbnails/inner/263.thin_bronze.0.png' title='Thin bronze' target='_blank'>263</a>
@@ -592,7 +592,7 @@ layout: default
             <a class='missed' href='black/261-330/thumbnails/inner/327.thin_bronze.0.png' title='Thin bronze' target='_blank'>327</a>
             <a class='missed' href='black/261-330/thumbnails/inner/328.thin_bronze.0.png' title='Thin bronze' target='_blank'>328</a>
             <a class='missed' href='black/261-330/thumbnails/inner/329.thin_bronze.0.png' title='Thin bronze' target='_blank'>329</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_bronze.0.png' title='Thin bronze' target='_blank'>330</a></br>Thin gold</br>
+            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_bronze.0.png' title='Thin bronze' target='_blank'>330</a><br/>Thin gold<br/>
             <a class='missed' href='black/261-330/thumbnails/inner/261.thin_gold.0.png' title='Thin gold' target='_blank'>261</a>
             <a class='missed' href='black/261-330/thumbnails/inner/262.thin_gold.0.png' title='Thin gold' target='_blank'>262</a>
             <a class='enough' href='black/261-330/thumbnails/inner/263.thin_gold.4.png' title='Thin gold' target='_blank'>263</a>
@@ -662,7 +662,7 @@ layout: default
             <a class='enough' href='black/261-330/thumbnails/inner/327.thin_gold.4.png' title='Thin gold' target='_blank'>327</a>
             <a class='enough' href='black/261-330/thumbnails/inner/328.thin_gold.4.png' title='Thin gold' target='_blank'>328</a>
             <a class='enough' href='black/261-330/thumbnails/inner/329.thin_gold.4.png' title='Thin gold' target='_blank'>329</a>
-            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_gold.4.png' title='Thin gold' target='_blank'>330</a></br>Thin silver</br>
+            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_gold.4.png' title='Thin gold' target='_blank'>330</a><br/>Thin silver<br/>
             <a class='missed' href='black/261-330/thumbnails/inner/261.thin_silver.0.png' title='Thin silver' target='_blank'>261</a>
             <a class='missed' href='black/261-330/thumbnails/inner/262.thin_silver.0.png' title='Thin silver' target='_blank'>262</a>
             <a class='missed' href='black/261-330/thumbnails/inner/263.thin_silver.0.png' title='Thin silver' target='_blank'>263</a>
@@ -751,7 +751,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='super/331-400/thumbnails/inner/331.5.png' title='Regular' target='_blank'>331</a>
             <a class='perfect' href='super/331-400/thumbnails/inner/332.5.png' title='Regular' target='_blank'>332</a>
             <a class='enough' href='super/331-400/thumbnails/inner/333.4.png' title='Regular' target='_blank'>333</a>
@@ -840,7 +840,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='super/401-470/thumbnails/inner/401.5.png' title='Regular' target='_blank'>401</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/402.5.png' title='Regular' target='_blank'>402</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/403.5.png' title='Regular' target='_blank'>403</a>
@@ -934,7 +934,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='super/471-540/thumbnails/inner/471.5.png' title='Regular' target='_blank'>471</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/472.5.png' title='Regular' target='_blank'>472</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/473.5.png' title='Regular' target='_blank'>473</a>
@@ -1029,7 +1029,7 @@ layout: default
             <br/>
         </td>
         <td>
-            No classic</br>
+            No classic<br/>
             <a class='perfect' href='classic/1-70/thumbnails/inner/1.no_classic.5.png' title='No classic' target='_blank'>1</a>
             <a class='perfect' href='classic/1-70/thumbnails/inner/2.no_classic.5.png' title='No classic' target='_blank'>2</a>
             <a class='good' href='classic/1-70/thumbnails/inner/3.no_classic.3.png' title='No classic' target='_blank'>3</a>
@@ -1099,7 +1099,7 @@ layout: default
             <a class='enough' href='classic/1-70/thumbnails/inner/67.no_classic.4.png' title='No classic' target='_blank'>67</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/68.no_classic.4.png' title='No classic' target='_blank'>68</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/69.no_classic.4.png' title='No classic' target='_blank'>69</a>
-            <a class='enough' href='classic/1-70/thumbnails/inner/70.no_classic.4.png' title='No classic' target='_blank'>70</a></br>With classic</br>
+            <a class='enough' href='classic/1-70/thumbnails/inner/70.no_classic.4.png' title='No classic' target='_blank'>70</a><br/>With classic<br/>
             <a class='good' href='classic/1-70/thumbnails/inner/1.with_classic.3.png' title='With classic' target='_blank'>1</a>
             <a class='good' href='classic/1-70/thumbnails/inner/2.with_classic.3.png' title='With classic' target='_blank'>2</a>
             <a class='enough' href='classic/1-70/thumbnails/inner/3.with_classic.4.png' title='With classic' target='_blank'>3</a>
@@ -1193,7 +1193,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='enough' href='classic/71-140/thumbnails/inner/71.4.png' title='Regular' target='_blank'>71</a>
             <a class='perfect' href='classic/71-140/thumbnails/inner/72.5.png' title='Regular' target='_blank'>72</a>
             <a class='perfect' href='classic/71-140/thumbnails/inner/73.5.png' title='Regular' target='_blank'>73</a>
@@ -1287,7 +1287,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='sport/1-70/thumbnails/inner/1.5.png' title='Regular' target='_blank'>1</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/2.5.png' title='Regular' target='_blank'>2</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/3.4.png' title='Regular' target='_blank'>3</a>
@@ -1357,7 +1357,7 @@ layout: default
             <a class='perfect' href='sport/1-70/thumbnails/inner/67.5.png' title='Regular' target='_blank'>67</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/68.5.png' title='Regular' target='_blank'>68</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/69.5.png' title='Regular' target='_blank'>69</a>
-            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='Regular' target='_blank'>70</a></br>Violet</br>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='Regular' target='_blank'>70</a><br/>Violet<br/>
             <a class='good' href='sport/1-70/thumbnails/inner/1.violet.3.png' title='Violet' target='_blank'>1</a>
             <a class='missed' href='sport/1-70/thumbnails/inner/2.violet.0.png' title='Violet' target='_blank'>2</a>
             <a class='missed' href='sport/1-70/thumbnails/inner/3.violet.0.png' title='Violet' target='_blank'>3</a>
@@ -1464,7 +1464,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='sport/71-140/thumbnails/inner/71.5.png' title='Regular' target='_blank'>71</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/72.5.png' title='Regular' target='_blank'>72</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/73.5.png' title='Regular' target='_blank'>73</a>
@@ -1558,7 +1558,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='sport/141-210/thumbnails/inner/141.5.png' title='Regular' target='_blank'>141</a>
             <a class='enough' href='sport/141-210/thumbnails/inner/142.4.png' title='Regular' target='_blank'>142</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/143.5.png' title='Regular' target='_blank'>143</a>
@@ -1643,7 +1643,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='good' href='sport/401-470/thumbnails/inner/401.3.png' title='Regular' target='_blank'>401</a>
             <a class='good' href='sport/401-470/thumbnails/inner/402.3.png' title='Regular' target='_blank'>402</a>
             <a class='good' href='sport/401-470/thumbnails/inner/403.3.png' title='Regular' target='_blank'>403</a>
@@ -1730,7 +1730,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Thick s</br>
+            Thick s<br/>
             <a class='good' href='sport/471-540/thumbnails/inner/471.thick_s.3.png' title='Thick s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thick_s.4.png' title='Thick s' target='_blank'>472</a>
             <a class='good' href='sport/471-540/thumbnails/inner/473.thick_s.3.png' title='Thick s' target='_blank'>473</a>
@@ -1800,7 +1800,7 @@ layout: default
             <a class='good' href='sport/471-540/thumbnails/inner/537.thick_s.3.png' title='Thick s' target='_blank'>537</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/538.thick_s.5.png' title='Thick s' target='_blank'>538</a>
             <a class='good' href='sport/471-540/thumbnails/inner/539.thick_s.3.png' title='Thick s' target='_blank'>539</a>
-            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a></br>Thin s</br>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a><br/>Thin s<br/>
             <a class='enough' href='sport/471-540/thumbnails/inner/471.thin_s.4.png' title='Thin s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thin_s.4.png' title='Thin s' target='_blank'>472</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/473.thin_s.5.png' title='Thin s' target='_blank'>473</a>
@@ -1889,7 +1889,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='2000/211-280/thumbnails/inner/211.5.png' title='Regular' target='_blank'>211</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/212.5.png' title='Regular' target='_blank'>212</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/213.5.png' title='Regular' target='_blank'>213</a>
@@ -1978,7 +1978,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='2000/71-140/thumbnails/inner/71.5.png' title='Regular' target='_blank'>71</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/72.5.png' title='Regular' target='_blank'>72</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/73.5.png' title='Regular' target='_blank'>73</a>
@@ -2072,7 +2072,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/1.0.png' title='Regular' target='_blank'>1</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/2.0.png' title='Regular' target='_blank'>2</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/3.0.png' title='Regular' target='_blank'>3</a>
@@ -2190,7 +2190,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/1.0.png' title='Regular' target='_blank'>1</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/2.0.png' title='Regular' target='_blank'>2</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/3.0.png' title='Regular' target='_blank'>3</a>
@@ -2311,7 +2311,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/1.5.png' title='Regular' target='_blank'>1</a>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/2.5.png' title='Regular' target='_blank'>2</a>
             <a class='perfect' href='2003/TUR/sport/thumbnails/inner/3.5.png' title='Regular' target='_blank'>3</a>
@@ -2429,7 +2429,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/1.5.png' title='Regular' target='_blank'>1</a>
             <a class='perfect' href='2003/TUR/super/thumbnails/inner/2.5.png' title='Regular' target='_blank'>2</a>
             <a class='enough' href='2003/TUR/super/thumbnails/inner/3.4.png' title='Regular' target='_blank'>3</a>
@@ -2553,7 +2553,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Regular</br>
+            Regular<br/>
             <a class='perfect' href='2007/thumbnails/inner/101.5.png' title='Regular' target='_blank'>101</a>
             <a class='perfect' href='2007/thumbnails/inner/102.5.png' title='Regular' target='_blank'>102</a>
             <a class='good' href='2007/thumbnails/inner/103.3.png' title='Regular' target='_blank'>103</a>
@@ -2607,7 +2607,7 @@ layout: default
             <a class='missed' href='2007/thumbnails/inner/151.0.png' title='Regular' target='_blank'>151</a>
             <a class='perfect' href='2007/thumbnails/inner/152.5.png' title='Regular' target='_blank'>152</a>
             <a class='perfect' href='2007/thumbnails/inner/153.5.png' title='Regular' target='_blank'>153</a>
-            <a class='good' href='2007/thumbnails/inner/154.3.png' title='Regular' target='_blank'>154</a></br>Super</br>
+            <a class='good' href='2007/thumbnails/inner/154.3.png' title='Regular' target='_blank'>154</a><br/>Super<br/>
             <a class='perfect' href='2007/thumbnails/inner/101.super.5.png' title='Super' target='_blank'>101</a>
             <a class='good' href='2007/thumbnails/inner/102.super.3.png' title='Super' target='_blank'>102</a>
             <a class='perfect' href='2007/thumbnails/inner/103.super.5.png' title='Super' target='_blank'>103</a>
