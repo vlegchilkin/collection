@@ -458,59 +458,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Thick (70/122)<br/>
-            <a class='missed' href='black/261-330/thumbnails/inner/209.thick.0.png' title='Thick' target='_blank'>209</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/210.thick.0.png' title='Thick' target='_blank'>210</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/211.thick.0.png' title='Thick' target='_blank'>211</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/212.thick.0.png' title='Thick' target='_blank'>212</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/213.thick.0.png' title='Thick' target='_blank'>213</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/214.thick.0.png' title='Thick' target='_blank'>214</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/215.thick.0.png' title='Thick' target='_blank'>215</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/216.thick.0.png' title='Thick' target='_blank'>216</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/217.thick.0.png' title='Thick' target='_blank'>217</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/218.thick.0.png' title='Thick' target='_blank'>218</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/219.thick.0.png' title='Thick' target='_blank'>219</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/220.thick.0.png' title='Thick' target='_blank'>220</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/221.thick.0.png' title='Thick' target='_blank'>221</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/222.thick.0.png' title='Thick' target='_blank'>222</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/223.thick.0.png' title='Thick' target='_blank'>223</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/224.thick.0.png' title='Thick' target='_blank'>224</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/225.thick.0.png' title='Thick' target='_blank'>225</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/226.thick.0.png' title='Thick' target='_blank'>226</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/227.thick.0.png' title='Thick' target='_blank'>227</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/228.thick.0.png' title='Thick' target='_blank'>228</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/229.thick.0.png' title='Thick' target='_blank'>229</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/230.thick.0.png' title='Thick' target='_blank'>230</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/231.thick.0.png' title='Thick' target='_blank'>231</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/232.thick.0.png' title='Thick' target='_blank'>232</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/233.thick.0.png' title='Thick' target='_blank'>233</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/234.thick.0.png' title='Thick' target='_blank'>234</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/235.thick.0.png' title='Thick' target='_blank'>235</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/236.thick.0.png' title='Thick' target='_blank'>236</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/237.thick.0.png' title='Thick' target='_blank'>237</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/238.thick.0.png' title='Thick' target='_blank'>238</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/239.thick.0.png' title='Thick' target='_blank'>239</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/240.thick.0.png' title='Thick' target='_blank'>240</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/241.thick.0.png' title='Thick' target='_blank'>241</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/242.thick.0.png' title='Thick' target='_blank'>242</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/243.thick.0.png' title='Thick' target='_blank'>243</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/244.thick.0.png' title='Thick' target='_blank'>244</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/245.thick.0.png' title='Thick' target='_blank'>245</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/246.thick.0.png' title='Thick' target='_blank'>246</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/247.thick.0.png' title='Thick' target='_blank'>247</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/248.thick.0.png' title='Thick' target='_blank'>248</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/249.thick.0.png' title='Thick' target='_blank'>249</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/250.thick.0.png' title='Thick' target='_blank'>250</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/251.thick.0.png' title='Thick' target='_blank'>251</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/252.thick.0.png' title='Thick' target='_blank'>252</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/253.thick.0.png' title='Thick' target='_blank'>253</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/254.thick.0.png' title='Thick' target='_blank'>254</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/255.thick.0.png' title='Thick' target='_blank'>255</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/256.thick.0.png' title='Thick' target='_blank'>256</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/257.thick.0.png' title='Thick' target='_blank'>257</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/258.thick.0.png' title='Thick' target='_blank'>258</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/259.thick.0.png' title='Thick' target='_blank'>259</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/260.thick.0.png' title='Thick' target='_blank'>260</a>
+            Thick (70/70)<br/>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thick.5.png' title='Thick' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thick.5.png' title='Thick' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thick.5.png' title='Thick' target='_blank'>263</a>
@@ -580,59 +528,7 @@ layout: default
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thick.5.png' title='Thick' target='_blank'>327</a>
             <a class='enough' href='black/261-330/thumbnails/inner/328.thick.4.png' title='Thick' target='_blank'>328</a>
             <a class='enough' href='black/261-330/thumbnails/inner/329.thick.4.png' title='Thick' target='_blank'>329</a>
-            <a class='enough' href='black/261-330/thumbnails/inner/330.thick.4.png' title='Thick' target='_blank'>330</a><br/>Thin bronze (38/122)<br/>
-            <a class='missed' href='black/261-330/thumbnails/inner/209.thin_bronze.0.png' title='Thin bronze' target='_blank'>209</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/210.thin_bronze.0.png' title='Thin bronze' target='_blank'>210</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/211.thin_bronze.0.png' title='Thin bronze' target='_blank'>211</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/212.thin_bronze.0.png' title='Thin bronze' target='_blank'>212</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/213.thin_bronze.0.png' title='Thin bronze' target='_blank'>213</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/214.thin_bronze.0.png' title='Thin bronze' target='_blank'>214</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/215.thin_bronze.0.png' title='Thin bronze' target='_blank'>215</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/216.thin_bronze.0.png' title='Thin bronze' target='_blank'>216</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/217.thin_bronze.0.png' title='Thin bronze' target='_blank'>217</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/218.thin_bronze.0.png' title='Thin bronze' target='_blank'>218</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/219.thin_bronze.0.png' title='Thin bronze' target='_blank'>219</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/220.thin_bronze.0.png' title='Thin bronze' target='_blank'>220</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/221.thin_bronze.0.png' title='Thin bronze' target='_blank'>221</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/222.thin_bronze.0.png' title='Thin bronze' target='_blank'>222</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/223.thin_bronze.0.png' title='Thin bronze' target='_blank'>223</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/224.thin_bronze.0.png' title='Thin bronze' target='_blank'>224</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/225.thin_bronze.0.png' title='Thin bronze' target='_blank'>225</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/226.thin_bronze.0.png' title='Thin bronze' target='_blank'>226</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/227.thin_bronze.0.png' title='Thin bronze' target='_blank'>227</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/228.thin_bronze.0.png' title='Thin bronze' target='_blank'>228</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/229.thin_bronze.0.png' title='Thin bronze' target='_blank'>229</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/230.thin_bronze.0.png' title='Thin bronze' target='_blank'>230</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/231.thin_bronze.0.png' title='Thin bronze' target='_blank'>231</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/232.thin_bronze.0.png' title='Thin bronze' target='_blank'>232</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/233.thin_bronze.0.png' title='Thin bronze' target='_blank'>233</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/234.thin_bronze.0.png' title='Thin bronze' target='_blank'>234</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/235.thin_bronze.0.png' title='Thin bronze' target='_blank'>235</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/236.thin_bronze.0.png' title='Thin bronze' target='_blank'>236</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/237.thin_bronze.0.png' title='Thin bronze' target='_blank'>237</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/238.thin_bronze.0.png' title='Thin bronze' target='_blank'>238</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/239.thin_bronze.0.png' title='Thin bronze' target='_blank'>239</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/240.thin_bronze.0.png' title='Thin bronze' target='_blank'>240</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/241.thin_bronze.0.png' title='Thin bronze' target='_blank'>241</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/242.thin_bronze.0.png' title='Thin bronze' target='_blank'>242</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/243.thin_bronze.0.png' title='Thin bronze' target='_blank'>243</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/244.thin_bronze.0.png' title='Thin bronze' target='_blank'>244</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/245.thin_bronze.0.png' title='Thin bronze' target='_blank'>245</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/246.thin_bronze.0.png' title='Thin bronze' target='_blank'>246</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/247.thin_bronze.0.png' title='Thin bronze' target='_blank'>247</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/248.thin_bronze.0.png' title='Thin bronze' target='_blank'>248</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/249.thin_bronze.0.png' title='Thin bronze' target='_blank'>249</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/250.thin_bronze.0.png' title='Thin bronze' target='_blank'>250</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/251.thin_bronze.0.png' title='Thin bronze' target='_blank'>251</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/252.thin_bronze.0.png' title='Thin bronze' target='_blank'>252</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/253.thin_bronze.0.png' title='Thin bronze' target='_blank'>253</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/254.thin_bronze.0.png' title='Thin bronze' target='_blank'>254</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/255.thin_bronze.0.png' title='Thin bronze' target='_blank'>255</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/256.thin_bronze.0.png' title='Thin bronze' target='_blank'>256</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/257.thin_bronze.0.png' title='Thin bronze' target='_blank'>257</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/258.thin_bronze.0.png' title='Thin bronze' target='_blank'>258</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/259.thin_bronze.0.png' title='Thin bronze' target='_blank'>259</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/260.thin_bronze.0.png' title='Thin bronze' target='_blank'>260</a>
+            <a class='enough' href='black/261-330/thumbnails/inner/330.thick.4.png' title='Thick' target='_blank'>330</a><br/>Thin bronze (38/70)<br/>
             <a class='missed' href='black/261-330/thumbnails/inner/261.thin_bronze.0.png' title='Thin bronze' target='_blank'>261</a>
             <a class='missed' href='black/261-330/thumbnails/inner/262.thin_bronze.0.png' title='Thin bronze' target='_blank'>262</a>
             <a class='missed' href='black/261-330/thumbnails/inner/263.thin_bronze.0.png' title='Thin bronze' target='_blank'>263</a>
@@ -702,59 +598,7 @@ layout: default
             <a class='good' href='black/261-330/thumbnails/inner/327.thin_bronze.3.png' title='Thin bronze' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thin_bronze.5.png' title='Thin bronze' target='_blank'>328</a>
             <a class='enough' href='black/261-330/thumbnails/inner/329.thin_bronze.4.png' title='Thin bronze' target='_blank'>329</a>
-            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_bronze.4.png' title='Thin bronze' target='_blank'>330</a><br/>Thin brown (40/122)<br/>
-            <a class='missed' href='black/261-330/thumbnails/inner/209.thin_brown.0.png' title='Thin brown' target='_blank'>209</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/210.thin_brown.0.png' title='Thin brown' target='_blank'>210</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/211.thin_brown.0.png' title='Thin brown' target='_blank'>211</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/212.thin_brown.0.png' title='Thin brown' target='_blank'>212</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/213.thin_brown.0.png' title='Thin brown' target='_blank'>213</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/214.thin_brown.0.png' title='Thin brown' target='_blank'>214</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/215.thin_brown.0.png' title='Thin brown' target='_blank'>215</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/216.thin_brown.0.png' title='Thin brown' target='_blank'>216</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/217.thin_brown.0.png' title='Thin brown' target='_blank'>217</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/218.thin_brown.0.png' title='Thin brown' target='_blank'>218</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/219.thin_brown.0.png' title='Thin brown' target='_blank'>219</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/220.thin_brown.0.png' title='Thin brown' target='_blank'>220</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/221.thin_brown.0.png' title='Thin brown' target='_blank'>221</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/222.thin_brown.0.png' title='Thin brown' target='_blank'>222</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/223.thin_brown.0.png' title='Thin brown' target='_blank'>223</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/224.thin_brown.0.png' title='Thin brown' target='_blank'>224</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/225.thin_brown.0.png' title='Thin brown' target='_blank'>225</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/226.thin_brown.0.png' title='Thin brown' target='_blank'>226</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/227.thin_brown.0.png' title='Thin brown' target='_blank'>227</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/228.thin_brown.0.png' title='Thin brown' target='_blank'>228</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/229.thin_brown.0.png' title='Thin brown' target='_blank'>229</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/230.thin_brown.0.png' title='Thin brown' target='_blank'>230</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/231.thin_brown.0.png' title='Thin brown' target='_blank'>231</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/232.thin_brown.0.png' title='Thin brown' target='_blank'>232</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/233.thin_brown.0.png' title='Thin brown' target='_blank'>233</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/234.thin_brown.0.png' title='Thin brown' target='_blank'>234</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/235.thin_brown.0.png' title='Thin brown' target='_blank'>235</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/236.thin_brown.0.png' title='Thin brown' target='_blank'>236</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/237.thin_brown.0.png' title='Thin brown' target='_blank'>237</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/238.thin_brown.0.png' title='Thin brown' target='_blank'>238</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/239.thin_brown.0.png' title='Thin brown' target='_blank'>239</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/240.thin_brown.0.png' title='Thin brown' target='_blank'>240</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/241.thin_brown.0.png' title='Thin brown' target='_blank'>241</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/242.thin_brown.0.png' title='Thin brown' target='_blank'>242</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/243.thin_brown.0.png' title='Thin brown' target='_blank'>243</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/244.thin_brown.0.png' title='Thin brown' target='_blank'>244</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/245.thin_brown.0.png' title='Thin brown' target='_blank'>245</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/246.thin_brown.0.png' title='Thin brown' target='_blank'>246</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/247.thin_brown.0.png' title='Thin brown' target='_blank'>247</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/248.thin_brown.0.png' title='Thin brown' target='_blank'>248</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/249.thin_brown.0.png' title='Thin brown' target='_blank'>249</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/250.thin_brown.0.png' title='Thin brown' target='_blank'>250</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/251.thin_brown.0.png' title='Thin brown' target='_blank'>251</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/252.thin_brown.0.png' title='Thin brown' target='_blank'>252</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/253.thin_brown.0.png' title='Thin brown' target='_blank'>253</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/254.thin_brown.0.png' title='Thin brown' target='_blank'>254</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/255.thin_brown.0.png' title='Thin brown' target='_blank'>255</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/256.thin_brown.0.png' title='Thin brown' target='_blank'>256</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/257.thin_brown.0.png' title='Thin brown' target='_blank'>257</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/258.thin_brown.0.png' title='Thin brown' target='_blank'>258</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/259.thin_brown.0.png' title='Thin brown' target='_blank'>259</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/260.thin_brown.0.png' title='Thin brown' target='_blank'>260</a>
+            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_bronze.4.png' title='Thin bronze' target='_blank'>330</a><br/>Thin brown (40/70)<br/>
             <a class='good' href='black/261-330/thumbnails/inner/261.thin_brown.3.png' title='Thin brown' target='_blank'>261</a>
             <a class='good' href='black/261-330/thumbnails/inner/262.thin_brown.3.png' title='Thin brown' target='_blank'>262</a>
             <a class='enough' href='black/261-330/thumbnails/inner/263.thin_brown.4.png' title='Thin brown' target='_blank'>263</a>
@@ -824,59 +668,7 @@ layout: default
             <a class='enough' href='black/261-330/thumbnails/inner/327.thin_brown.4.png' title='Thin brown' target='_blank'>327</a>
             <a class='enough' href='black/261-330/thumbnails/inner/328.thin_brown.4.png' title='Thin brown' target='_blank'>328</a>
             <a class='missed' href='black/261-330/thumbnails/inner/329.thin_brown.0.png' title='Thin brown' target='_blank'>329</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_brown.0.png' title='Thin brown' target='_blank'>330</a><br/>Thin gold (69/122)<br/>
-            <a class='perfect' href='black/261-330/thumbnails/inner/209.thin_gold.5.png' title='Thin gold' target='_blank'>209</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/210.thin_gold.0.png' title='Thin gold' target='_blank'>210</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/211.thin_gold.0.png' title='Thin gold' target='_blank'>211</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/212.thin_gold.0.png' title='Thin gold' target='_blank'>212</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/213.thin_gold.0.png' title='Thin gold' target='_blank'>213</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/214.thin_gold.0.png' title='Thin gold' target='_blank'>214</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/215.thin_gold.0.png' title='Thin gold' target='_blank'>215</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/216.thin_gold.0.png' title='Thin gold' target='_blank'>216</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/217.thin_gold.0.png' title='Thin gold' target='_blank'>217</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/218.thin_gold.0.png' title='Thin gold' target='_blank'>218</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/219.thin_gold.0.png' title='Thin gold' target='_blank'>219</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/220.thin_gold.0.png' title='Thin gold' target='_blank'>220</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/221.thin_gold.0.png' title='Thin gold' target='_blank'>221</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/222.thin_gold.0.png' title='Thin gold' target='_blank'>222</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/223.thin_gold.0.png' title='Thin gold' target='_blank'>223</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/224.thin_gold.0.png' title='Thin gold' target='_blank'>224</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/225.thin_gold.0.png' title='Thin gold' target='_blank'>225</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/226.thin_gold.0.png' title='Thin gold' target='_blank'>226</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/227.thin_gold.0.png' title='Thin gold' target='_blank'>227</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/228.thin_gold.0.png' title='Thin gold' target='_blank'>228</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/229.thin_gold.0.png' title='Thin gold' target='_blank'>229</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/230.thin_gold.0.png' title='Thin gold' target='_blank'>230</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/231.thin_gold.0.png' title='Thin gold' target='_blank'>231</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/232.thin_gold.0.png' title='Thin gold' target='_blank'>232</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/233.thin_gold.0.png' title='Thin gold' target='_blank'>233</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/234.thin_gold.0.png' title='Thin gold' target='_blank'>234</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/235.thin_gold.0.png' title='Thin gold' target='_blank'>235</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/236.thin_gold.0.png' title='Thin gold' target='_blank'>236</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/237.thin_gold.0.png' title='Thin gold' target='_blank'>237</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/238.thin_gold.0.png' title='Thin gold' target='_blank'>238</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/239.thin_gold.0.png' title='Thin gold' target='_blank'>239</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/240.thin_gold.0.png' title='Thin gold' target='_blank'>240</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/241.thin_gold.0.png' title='Thin gold' target='_blank'>241</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/242.thin_gold.0.png' title='Thin gold' target='_blank'>242</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/243.thin_gold.0.png' title='Thin gold' target='_blank'>243</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/244.thin_gold.0.png' title='Thin gold' target='_blank'>244</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/245.thin_gold.0.png' title='Thin gold' target='_blank'>245</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/246.thin_gold.0.png' title='Thin gold' target='_blank'>246</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/247.thin_gold.0.png' title='Thin gold' target='_blank'>247</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/248.thin_gold.0.png' title='Thin gold' target='_blank'>248</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/249.thin_gold.0.png' title='Thin gold' target='_blank'>249</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/250.thin_gold.0.png' title='Thin gold' target='_blank'>250</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/251.thin_gold.0.png' title='Thin gold' target='_blank'>251</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/252.thin_gold.0.png' title='Thin gold' target='_blank'>252</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/253.thin_gold.0.png' title='Thin gold' target='_blank'>253</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/254.thin_gold.0.png' title='Thin gold' target='_blank'>254</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/255.thin_gold.0.png' title='Thin gold' target='_blank'>255</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/256.thin_gold.0.png' title='Thin gold' target='_blank'>256</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/257.thin_gold.0.png' title='Thin gold' target='_blank'>257</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/258.thin_gold.0.png' title='Thin gold' target='_blank'>258</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/259.thin_gold.0.png' title='Thin gold' target='_blank'>259</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/260.thin_gold.0.png' title='Thin gold' target='_blank'>260</a>
+            <a class='missed' href='black/261-330/thumbnails/inner/330.thin_brown.0.png' title='Thin brown' target='_blank'>330</a><br/>Thin gold (69/70)<br/>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thin_gold.5.png' title='Thin gold' target='_blank'>261</a>
             <a class='enough' href='black/261-330/thumbnails/inner/262.thin_gold.4.png' title='Thin gold' target='_blank'>262</a>
             <a class='enough' href='black/261-330/thumbnails/inner/263.thin_gold.4.png' title='Thin gold' target='_blank'>263</a>
@@ -925,7 +717,7 @@ layout: default
             <a class='enough' href='black/261-330/thumbnails/inner/306.thin_gold.4.png' title='Thin gold' target='_blank'>306</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/307.thin_gold.5.png' title='Thin gold' target='_blank'>307</a>
             <a class='good' href='black/261-330/thumbnails/inner/308.thin_gold.3.png' title='Thin gold' target='_blank'>308</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/309.thin_gold.0.png' title='Thin gold' target='_blank'>309</a>
+            <a class='perfect' href='black/261-330/thumbnails/inner/309.thin_gold.5.png' title='Thin gold' target='_blank'>309</a>
             <a class='enough' href='black/261-330/thumbnails/inner/310.thin_gold.4.png' title='Thin gold' target='_blank'>310</a>
             <a class='enough' href='black/261-330/thumbnails/inner/311.thin_gold.4.png' title='Thin gold' target='_blank'>311</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/312.thin_gold.5.png' title='Thin gold' target='_blank'>312</a>
@@ -946,59 +738,7 @@ layout: default
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thin_gold.5.png' title='Thin gold' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thin_gold.5.png' title='Thin gold' target='_blank'>328</a>
             <a class='enough' href='black/261-330/thumbnails/inner/329.thin_gold.4.png' title='Thin gold' target='_blank'>329</a>
-            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_gold.4.png' title='Thin gold' target='_blank'>330</a><br/>Thin silver (18/122)<br/>
-            <a class='missed' href='black/261-330/thumbnails/inner/209.thin_silver.0.png' title='Thin silver' target='_blank'>209</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/210.thin_silver.0.png' title='Thin silver' target='_blank'>210</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/211.thin_silver.0.png' title='Thin silver' target='_blank'>211</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/212.thin_silver.0.png' title='Thin silver' target='_blank'>212</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/213.thin_silver.0.png' title='Thin silver' target='_blank'>213</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/214.thin_silver.0.png' title='Thin silver' target='_blank'>214</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/215.thin_silver.0.png' title='Thin silver' target='_blank'>215</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/216.thin_silver.0.png' title='Thin silver' target='_blank'>216</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/217.thin_silver.0.png' title='Thin silver' target='_blank'>217</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/218.thin_silver.0.png' title='Thin silver' target='_blank'>218</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/219.thin_silver.0.png' title='Thin silver' target='_blank'>219</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/220.thin_silver.0.png' title='Thin silver' target='_blank'>220</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/221.thin_silver.0.png' title='Thin silver' target='_blank'>221</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/222.thin_silver.0.png' title='Thin silver' target='_blank'>222</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/223.thin_silver.0.png' title='Thin silver' target='_blank'>223</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/224.thin_silver.0.png' title='Thin silver' target='_blank'>224</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/225.thin_silver.0.png' title='Thin silver' target='_blank'>225</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/226.thin_silver.0.png' title='Thin silver' target='_blank'>226</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/227.thin_silver.0.png' title='Thin silver' target='_blank'>227</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/228.thin_silver.0.png' title='Thin silver' target='_blank'>228</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/229.thin_silver.0.png' title='Thin silver' target='_blank'>229</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/230.thin_silver.0.png' title='Thin silver' target='_blank'>230</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/231.thin_silver.0.png' title='Thin silver' target='_blank'>231</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/232.thin_silver.0.png' title='Thin silver' target='_blank'>232</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/233.thin_silver.0.png' title='Thin silver' target='_blank'>233</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/234.thin_silver.0.png' title='Thin silver' target='_blank'>234</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/235.thin_silver.0.png' title='Thin silver' target='_blank'>235</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/236.thin_silver.0.png' title='Thin silver' target='_blank'>236</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/237.thin_silver.0.png' title='Thin silver' target='_blank'>237</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/238.thin_silver.0.png' title='Thin silver' target='_blank'>238</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/239.thin_silver.0.png' title='Thin silver' target='_blank'>239</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/240.thin_silver.0.png' title='Thin silver' target='_blank'>240</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/241.thin_silver.0.png' title='Thin silver' target='_blank'>241</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/242.thin_silver.0.png' title='Thin silver' target='_blank'>242</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/243.thin_silver.0.png' title='Thin silver' target='_blank'>243</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/244.thin_silver.0.png' title='Thin silver' target='_blank'>244</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/245.thin_silver.0.png' title='Thin silver' target='_blank'>245</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/246.thin_silver.0.png' title='Thin silver' target='_blank'>246</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/247.thin_silver.0.png' title='Thin silver' target='_blank'>247</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/248.thin_silver.0.png' title='Thin silver' target='_blank'>248</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/249.thin_silver.0.png' title='Thin silver' target='_blank'>249</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/250.thin_silver.0.png' title='Thin silver' target='_blank'>250</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/251.thin_silver.0.png' title='Thin silver' target='_blank'>251</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/252.thin_silver.0.png' title='Thin silver' target='_blank'>252</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/253.thin_silver.0.png' title='Thin silver' target='_blank'>253</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/254.thin_silver.0.png' title='Thin silver' target='_blank'>254</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/255.thin_silver.0.png' title='Thin silver' target='_blank'>255</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/256.thin_silver.0.png' title='Thin silver' target='_blank'>256</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/257.thin_silver.0.png' title='Thin silver' target='_blank'>257</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/258.thin_silver.0.png' title='Thin silver' target='_blank'>258</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/259.thin_silver.0.png' title='Thin silver' target='_blank'>259</a>
-            <a class='missed' href='black/261-330/thumbnails/inner/260.thin_silver.0.png' title='Thin silver' target='_blank'>260</a>
+            <a class='enough' href='black/261-330/thumbnails/inner/330.thin_gold.4.png' title='Thin gold' target='_blank'>330</a><br/>Thin silver (18/70)<br/>
             <a class='missed' href='black/261-330/thumbnails/inner/261.thin_silver.0.png' title='Thin silver' target='_blank'>261</a>
             <a class='enough' href='black/261-330/thumbnails/inner/262.thin_silver.4.png' title='Thin silver' target='_blank'>262</a>
             <a class='enough' href='black/261-330/thumbnails/inner/263.thin_silver.4.png' title='Thin silver' target='_blank'>263</a>

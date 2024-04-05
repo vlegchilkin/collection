@@ -32,9 +32,6 @@ different, border hide partially a car image.
 | (thick)<br/>1994 01 - 1994 10  |  [<img src='thumbnails/outer/(thick)+1994_01_-_1994_10.1.5.png'>](thumbnails/outer/(thick)+1994_01_-_1994_10.1.5.png)  |  [<img src='thumbnails/outer/(thick)+1994_01_-_1994_10.2.5.png'>](thumbnails/outer/(thick)+1994_01_-_1994_10.2.5.png)  |  [<img src='thumbnails/outer/(thick)+1994_01_-_1994_10.3.5.png'>](thumbnails/outer/(thick)+1994_01_-_1994_10.3.5.png)  |  [<img src='thumbnails/outer/(thick)+1994_01_-_1994_10.4.5.png'>](thumbnails/outer/(thick)+1994_01_-_1994_10.4.5.png)  |  [<img src='thumbnails/outer/(thick)+1994_01_-_1994_10.5.5.png'>](thumbnails/outer/(thick)+1994_01_-_1994_10.5.5.png)  |
 
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/209.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/209.thin_gold.5.png' alt='Thin gold'></a>
-</span>
-<span style="display: inline-block;">
 	<a href='thumbnails/inner/261.thick.5.png' title='Thick'><img src='thumbnails/inner/261.thick.5.png' alt='Thick'></a>
 	<a href='thumbnails/inner/261.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/261.thin_brown.3.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/261.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/261.thin_gold.5.png' alt='Thin gold'></a>
@@ -294,6 +291,7 @@ different, border hide partially a car image.
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/309.thick.5.png' title='Thick'><img src='thumbnails/inner/309.thick.5.png' alt='Thick'></a>
 	<a href='thumbnails/inner/309.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/309.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/309.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/309.thin_gold.5.png' alt='Thin gold'></a>
 	<a href='thumbnails/inner/309.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/309.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
