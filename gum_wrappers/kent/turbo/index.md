@@ -22,7 +22,7 @@ layout: default
             <br/>
         </td>
         <td>
-            (29/50)<br/>
+            (30/50)<br/>
             <a class='good' href='black/1-50/thumbnails/inner/1.3.png' title='' target='_blank'>1</a>
             <a class='enough' href='black/1-50/thumbnails/inner/2.4.png' title='' target='_blank'>2</a>
             <a class='missed' href='black/1-50/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
@@ -35,7 +35,7 @@ layout: default
             <a class='good' href='black/1-50/thumbnails/inner/10.3.png' title='' target='_blank'>10</a>
             <a class='missed' href='black/1-50/thumbnails/inner/11.0.png' title='' target='_blank'>11</a>
             <a class='enough' href='black/1-50/thumbnails/inner/12.4.png' title='' target='_blank'>12</a>
-            <a class='missed' href='black/1-50/thumbnails/inner/13.0.png' title='' target='_blank'>13</a>
+            <a class='enough' href='black/1-50/thumbnails/inner/13.4.png' title='' target='_blank'>13</a>
             <a class='enough' href='black/1-50/thumbnails/inner/14.4.png' title='' target='_blank'>14</a>
             <a class='enough' href='black/1-50/thumbnails/inner/15.4.png' title='' target='_blank'>15</a>
             <a class='enough' href='black/1-50/thumbnails/inner/16.4.png' title='' target='_blank'>16</a>
