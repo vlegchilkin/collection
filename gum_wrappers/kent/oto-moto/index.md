@@ -36,7 +36,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Collection<br/>
+            (100/100)<br/>
             <a class='perfect' href='1-100/thumbnails/inner/1.5.png' title='' target='_blank'>1</a>
             <a class='enough' href='1-100/thumbnails/inner/2.4.png' title='' target='_blank'>2</a>
             <a class='perfect' href='1-100/thumbnails/inner/3.5.png' title='' target='_blank'>3</a>
@@ -155,7 +155,7 @@ layout: default
             <br/>
         </td>
         <td>
-            Collection<br/>
+            (47/100)<br/>
             <a class='enough' href='101-200/thumbnails/inner/101.4.png' title='' target='_blank'>101</a>
             <a class='missed' href='101-200/thumbnails/inner/102.0.png' title='' target='_blank'>102</a>
             <a class='missed' href='101-200/thumbnails/inner/103.0.png' title='' target='_blank'>103</a>
@@ -198,14 +198,14 @@ layout: default
             <a class='missed' href='101-200/thumbnails/inner/140.0.png' title='' target='_blank'>140</a>
             <a class='perfect' href='101-200/thumbnails/inner/141.5.png' title='' target='_blank'>141</a>
             <a class='perfect' href='101-200/thumbnails/inner/142.5.png' title='' target='_blank'>142</a>
-            <a class='missed' href='101-200/thumbnails/inner/143.0.png' title='' target='_blank'>143</a>
+            <a class='perfect' href='101-200/thumbnails/inner/143.5.png' title='' target='_blank'>143</a>
             <a class='enough' href='101-200/thumbnails/inner/144.4.png' title='' target='_blank'>144</a>
             <a class='perfect' href='101-200/thumbnails/inner/145.5.png' title='' target='_blank'>145</a>
             <a class='good' href='101-200/thumbnails/inner/146.3.png' title='' target='_blank'>146</a>
             <a class='perfect' href='101-200/thumbnails/inner/147.5.png' title='' target='_blank'>147</a>
             <a class='missed' href='101-200/thumbnails/inner/148.0.png' title='' target='_blank'>148</a>
             <a class='perfect' href='101-200/thumbnails/inner/149.5.png' title='' target='_blank'>149</a>
-            <a class='good' href='101-200/thumbnails/inner/150.3.png' title='' target='_blank'>150</a>
+            <a class='perfect' href='101-200/thumbnails/inner/150.5.png' title='' target='_blank'>150</a>
             <a class='missed' href='101-200/thumbnails/inner/151.0.png' title='' target='_blank'>151</a>
             <a class='missed' href='101-200/thumbnails/inner/152.0.png' title='' target='_blank'>152</a>
             <a class='missed' href='101-200/thumbnails/inner/153.0.png' title='' target='_blank'>153</a>

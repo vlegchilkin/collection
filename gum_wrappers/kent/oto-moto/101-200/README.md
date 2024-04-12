@@ -135,7 +135,7 @@
 	<a href='thumbnails/inner/142.5.png' title=''><img src='thumbnails/inner/142.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/143.0.png' title=''><img src='thumbnails/inner/143.0.png' alt=''></a>
+	<a href='thumbnails/inner/143.5.png' title=''><img src='thumbnails/inner/143.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/144.4.png' title=''><img src='thumbnails/inner/144.4.png' alt=''></a>
@@ -156,7 +156,7 @@
 	<a href='thumbnails/inner/149.5.png' title=''><img src='thumbnails/inner/149.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/150.3.png' title=''><img src='thumbnails/inner/150.3.png' alt=''></a>
+	<a href='thumbnails/inner/150.5.png' title=''><img src='thumbnails/inner/150.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/151.0.png' title=''><img src='thumbnails/inner/151.0.png' alt=''></a>

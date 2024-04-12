@@ -193,7 +193,7 @@ layout: default
             <a href='black/121-190/thumbnails/outer/1991_08_-_1992_05.1.0.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08_-_1992_05.1.0.png' width='50' alt='1991_08_-_1992_05.1'/></a>
             <a href='black/121-190/thumbnails/outer/1991_08_-_1992_05.2.0.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08_-_1992_05.2.0.png' width='50' alt='1991_08_-_1992_05.2'/></a>
             <a href='black/121-190/thumbnails/outer/1991_08_-_1992_05.3.0.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08_-_1992_05.3.0.png' width='50' alt='1991_08_-_1992_05.3'/></a>
-            <a href='black/121-190/thumbnails/outer/1991_08_-_1992_05.4.0.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08_-_1992_05.4.0.png' width='50' alt='1991_08_-_1992_05.4'/></a>
+            <a href='black/121-190/thumbnails/outer/1991_08_-_1992_05.4.4.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08_-_1992_05.4.4.png' width='50' alt='1991_08_-_1992_05.4'/></a>
             <a href='black/121-190/thumbnails/outer/1991_08_-_1992_05.5.2.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08_-_1992_05.5.2.png' width='50' alt='1991_08_-_1992_05.5'/></a>
             <br/>
         </td>
@@ -1097,7 +1097,7 @@ layout: default
             <a href='classic/1-70/thumbnails/outer/(no_classic)+1995_03-05.4.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(no_classic)+1995_03-05.4.5.png' width='50' alt='(no_classic)+1995_03-05.4'/></a>
             <a href='classic/1-70/thumbnails/outer/(no_classic)+1995_03-05.5.4.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(no_classic)+1995_03-05.5.4.png' width='50' alt='(no_classic)+1995_03-05.5'/></a>
             <br/>(with classic)<br/>1995 06 - 1996 01<br/>
-            <a href='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.1.0.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.1.0.png' width='50' alt='(with_classic)+1995_06_-_1996_01.1'/></a>
+            <a href='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.1.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.1.5.png' width='50' alt='(with_classic)+1995_06_-_1996_01.1'/></a>
             <a href='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.2.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.2.5.png' width='50' alt='(with_classic)+1995_06_-_1996_01.2'/></a>
             <a href='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.3.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.3.5.png' width='50' alt='(with_classic)+1995_06_-_1996_01.3'/></a>
             <a href='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.4.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/(with_classic)+1995_06_-_1996_01.4.5.png' width='50' alt='(with_classic)+1995_06_-_1996_01.4'/></a>
