@@ -165,7 +165,7 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/44.3.png' title=''><img src='thumbnails/inner/44.3.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/45.1.png' title=''><img src='thumbnails/inner/45.1.png' alt=''></a>
+	<a href='thumbnails/inner/45.4.png' title=''><img src='thumbnails/inner/45.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/46.3.png' title=''><img src='thumbnails/inner/46.3.png' alt=''></a>

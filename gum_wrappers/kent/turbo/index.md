@@ -67,7 +67,7 @@ layout: default
             <a class='missed' href='black/1-50/thumbnails/inner/42.0.png' title='' target='_blank'>42</a>
             <a class='missed' href='black/1-50/thumbnails/inner/43.0.png' title='' target='_blank'>43</a>
             <a class='good' href='black/1-50/thumbnails/inner/44.3.png' title='' target='_blank'>44</a>
-            <a class='bad' href='black/1-50/thumbnails/inner/45.1.png' title='' target='_blank'>45</a>
+            <a class='enough' href='black/1-50/thumbnails/inner/45.4.png' title='' target='_blank'>45</a>
             <a class='good' href='black/1-50/thumbnails/inner/46.3.png' title='' target='_blank'>46</a>
             <a class='enough' href='black/1-50/thumbnails/inner/47.4.png' title='' target='_blank'>47</a>
             <a class='missed' href='black/1-50/thumbnails/inner/48.0.png' title='' target='_blank'>48</a>
