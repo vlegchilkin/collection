@@ -1957,9 +1957,9 @@ layout: default
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
             2000 04 - 2001 04<br/>
-            <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.1.0.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.1.0.png' width='50' alt='2000_04_-_2001_04.1'/></a>
-            <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.2.0.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.2.0.png' width='50' alt='2000_04_-_2001_04.2'/></a>
-            <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.3.0.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.3.0.png' width='50' alt='2000_04_-_2001_04.3'/></a>
+            <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.1.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.1.5.png' width='50' alt='2000_04_-_2001_04.1'/></a>
+            <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.2.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.2.5.png' width='50' alt='2000_04_-_2001_04.2'/></a>
+            <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.3.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.3.5.png' width='50' alt='2000_04_-_2001_04.3'/></a>
             <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.4.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.4.5.png' width='50' alt='2000_04_-_2001_04.4'/></a>
             <a href='2000/211-280/thumbnails/outer/2000_04_-_2001_04.5.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04_-_2001_04.5.5.png' width='50' alt='2000_04_-_2001_04.5'/></a>
             <br/>
@@ -1985,7 +1985,7 @@ layout: default
             <a class='perfect' href='2000/211-280/thumbnails/inner/227.5.png' title='' target='_blank'>227</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/228.5.png' title='' target='_blank'>228</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/229.5.png' title='' target='_blank'>229</a>
-            <a class='enough' href='2000/211-280/thumbnails/inner/230.4.png' title='' target='_blank'>230</a>
+            <a class='perfect' href='2000/211-280/thumbnails/inner/230.5.png' title='' target='_blank'>230</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/231.5.png' title='' target='_blank'>231</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/232.5.png' title='' target='_blank'>232</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/233.5.png' title='' target='_blank'>233</a>
@@ -1995,8 +1995,8 @@ layout: default
             <a class='perfect' href='2000/211-280/thumbnails/inner/237.5.png' title='' target='_blank'>237</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/238.5.png' title='' target='_blank'>238</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/239.5.png' title='' target='_blank'>239</a>
-            <a class='enough' href='2000/211-280/thumbnails/inner/240.4.png' title='' target='_blank'>240</a>
-            <a class='enough' href='2000/211-280/thumbnails/inner/241.4.png' title='' target='_blank'>241</a>
+            <a class='perfect' href='2000/211-280/thumbnails/inner/240.5.png' title='' target='_blank'>240</a>
+            <a class='perfect' href='2000/211-280/thumbnails/inner/241.5.png' title='' target='_blank'>241</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/242.5.png' title='' target='_blank'>242</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/243.5.png' title='' target='_blank'>243</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/244.5.png' title='' target='_blank'>244</a>
@@ -2027,7 +2027,7 @@ layout: default
             <a class='perfect' href='2000/211-280/thumbnails/inner/269.5.png' title='' target='_blank'>269</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/270.5.png' title='' target='_blank'>270</a>
             <a class='enough' href='2000/211-280/thumbnails/inner/271.4.png' title='' target='_blank'>271</a>
-            <a class='good' href='2000/211-280/thumbnails/inner/272.3.png' title='' target='_blank'>272</a>
+            <a class='enough' href='2000/211-280/thumbnails/inner/272.4.png' title='' target='_blank'>272</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/273.5.png' title='' target='_blank'>273</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/274.5.png' title='' target='_blank'>274</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/275.5.png' title='' target='_blank'>275</a>
