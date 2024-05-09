@@ -22,11 +22,11 @@ layout: default
             <a href='1-100/thumbnails/outer/1992_02.4.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.4.5.png' width='50' alt='1992_02.4'/></a>
             <a href='1-100/thumbnails/outer/1992_02.5.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.5.5.png' width='50' alt='1992_02.5'/></a>
             <br/>1992 03 - 1993 04<br/>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.1.0.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.1.0.png' width='50' alt='1992_03_-_1993_04.1'/></a>
+            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.1.5.png' width='50' alt='1992_03_-_1993_04.1'/></a>
             <a href='1-100/thumbnails/outer/1992_03_-_1993_04.2.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.2.5.png' width='50' alt='1992_03_-_1993_04.2'/></a>
             <a href='1-100/thumbnails/outer/1992_03_-_1993_04.3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.3.5.png' width='50' alt='1992_03_-_1993_04.3'/></a>
             <a href='1-100/thumbnails/outer/1992_03_-_1993_04.4.0.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.4.0.png' width='50' alt='1992_03_-_1993_04.4'/></a>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.5.0.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.5.0.png' width='50' alt='1992_03_-_1993_04.5'/></a>
+            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.5.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.5.5.png' width='50' alt='1992_03_-_1993_04.5'/></a>
             <br/>1993 06<br/>
             <a href='1-100/thumbnails/outer/1993_06.1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.1.5.png' width='50' alt='1993_06.1'/></a>
             <a href='1-100/thumbnails/outer/1993_06.2.0.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.2.0.png' width='50' alt='1993_06.2'/></a>
@@ -155,7 +155,7 @@ layout: default
             <br/>
         </td>
         <td>
-            (47/100)<br/>
+            (49/100)<br/>
             <a class='enough' href='101-200/thumbnails/inner/101.4.png' title='' target='_blank'>101</a>
             <a class='missed' href='101-200/thumbnails/inner/102.0.png' title='' target='_blank'>102</a>
             <a class='missed' href='101-200/thumbnails/inner/103.0.png' title='' target='_blank'>103</a>
@@ -215,12 +215,12 @@ layout: default
             <a class='missed' href='101-200/thumbnails/inner/157.0.png' title='' target='_blank'>157</a>
             <a class='missed' href='101-200/thumbnails/inner/158.0.png' title='' target='_blank'>158</a>
             <a class='missed' href='101-200/thumbnails/inner/159.0.png' title='' target='_blank'>159</a>
-            <a class='missed' href='101-200/thumbnails/inner/160.0.png' title='' target='_blank'>160</a>
+            <a class='perfect' href='101-200/thumbnails/inner/160.5.png' title='' target='_blank'>160</a>
             <a class='missed' href='101-200/thumbnails/inner/161.0.png' title='' target='_blank'>161</a>
             <a class='perfect' href='101-200/thumbnails/inner/162.5.png' title='' target='_blank'>162</a>
             <a class='missed' href='101-200/thumbnails/inner/163.0.png' title='' target='_blank'>163</a>
             <a class='perfect' href='101-200/thumbnails/inner/164.5.png' title='' target='_blank'>164</a>
-            <a class='enough' href='101-200/thumbnails/inner/165.4.png' title='' target='_blank'>165</a>
+            <a class='perfect' href='101-200/thumbnails/inner/165.5.png' title='' target='_blank'>165</a>
             <a class='good' href='101-200/thumbnails/inner/166.3.png' title='' target='_blank'>166</a>
             <a class='enough' href='101-200/thumbnails/inner/167.4.png' title='' target='_blank'>167</a>
             <a class='perfect' href='101-200/thumbnails/inner/168.5.png' title='' target='_blank'>168</a>
@@ -252,7 +252,7 @@ layout: default
             <a class='missed' href='101-200/thumbnails/inner/194.0.png' title='' target='_blank'>194</a>
             <a class='missed' href='101-200/thumbnails/inner/195.0.png' title='' target='_blank'>195</a>
             <a class='missed' href='101-200/thumbnails/inner/196.0.png' title='' target='_blank'>196</a>
-            <a class='missed' href='101-200/thumbnails/inner/197.0.png' title='' target='_blank'>197</a>
+            <a class='enough' href='101-200/thumbnails/inner/197.4.png' title='' target='_blank'>197</a>
             <a class='missed' href='101-200/thumbnails/inner/198.0.png' title='' target='_blank'>198</a>
             <a class='enough' href='101-200/thumbnails/inner/199.4.png' title='' target='_blank'>199</a>
             <a class='missed' href='101-200/thumbnails/inner/200.0.png' title='' target='_blank'>200</a>
