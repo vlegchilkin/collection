@@ -2263,6 +2263,7 @@ layout: default
             <a href='2003/RUS/super/thumbnails/outer/2002_03.3.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.3.5.png' width='50' alt='2002_03.3'/></a>
             <a href='2003/RUS/super/thumbnails/outer/2002_03.4.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.4.4.png' width='50' alt='2002_03.4'/></a>
             <a href='2003/RUS/super/thumbnails/outer/2002_03.5.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.5.4.png' width='50' alt='2002_03.5'/></a>
+            <a href='2003/RUS/super/thumbnails/outer/2002_03.6.0.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.6.0.png' width='50' alt='2002_03.6'/></a>
             <br/>
         </td>
         <td>
