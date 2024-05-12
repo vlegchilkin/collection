@@ -165,7 +165,7 @@ def build(index_filepath: Path, series_path: Path):
 
 if __name__ == "__main__":
     index_file = None
-    for root, dirs, files in os.walk("../gum_wrappers/kent/oto-moto"):
+    for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
         if "thumbnails" in dirs:

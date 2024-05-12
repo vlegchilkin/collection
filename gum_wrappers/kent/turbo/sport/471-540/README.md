@@ -2,13 +2,13 @@
 
 ### My collection
 
-|    Year    |                                           1                                            |
-|:----------:|:--------------------------------------------------------------------------------------:|
-| 1997 01-12 | [<img src='thumbnails/outer/1997_01-12.1.5.png'>](thumbnails/outer/1997_01-12.1.5.png) |
-| 1998 01-06 | [<img src='thumbnails/outer/1998_01-06.1.5.png'>](thumbnails/outer/1998_01-06.1.5.png) |
+|    Year    |                                           4                                            |                                           7                                            | 8 |
+|:----------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:-:|
+| 1997 01-12 | [<img src='thumbnails/outer/1997_01-12.7.5.png'>](thumbnails/outer/1997_01-12.7.5.png) | [<img src='thumbnails/outer/1997_01-12.8.5.png'>](thumbnails/outer/1997_01-12.8.5.png) |
+| 1998 01-06 | [<img src='thumbnails/outer/1998_01-06.4.5.png'>](thumbnails/outer/1998_01-06.4.5.png) |
 
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/471.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/471.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/471.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/471.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/471.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/471.thin_s.4.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -16,12 +16,12 @@
 	<a href='thumbnails/inner/472.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/472.thin_s.4.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/473.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/473.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/473.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/473.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/473.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/473.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/474.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/474.thick_s.3.png' alt='Thick s'></a>
-	<a href='thumbnails/inner/474.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/474.thin_s.4.png' alt='Thin s'></a>
+	<a href='thumbnails/inner/474.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/474.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/474.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/474.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/475.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/475.thick_s.5.png' alt='Thick s'></a>
@@ -41,14 +41,14 @@
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/479.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/479.thick_s.4.png' alt='Thick s'></a>
-	<a href='thumbnails/inner/479.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/479.thin_s.4.png' alt='Thin s'></a>
+	<a href='thumbnails/inner/479.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/479.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/480.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/480.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/480.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/480.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/480.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/480.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/481.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/481.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/481.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/481.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/481.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/481.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -68,11 +68,11 @@
 	<a href='thumbnails/inner/485.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/485.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/486.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/486.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/486.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/486.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/486.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/486.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/487.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/487.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/487.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/487.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/487.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/487.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -84,7 +84,7 @@
 	<a href='thumbnails/inner/489.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/489.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/490.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/490.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/490.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/490.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/490.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/490.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -96,7 +96,7 @@
 	<a href='thumbnails/inner/492.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/492.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/493.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/493.thick_s.5.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/493.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/493.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/493.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/493.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -116,15 +116,15 @@
 	<a href='thumbnails/inner/497.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/497.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/498.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/498.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/498.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/498.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/498.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/498.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/499.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/499.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/499.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/499.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/499.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/499.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/500.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/500.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/500.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/500.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/500.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/500.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -136,11 +136,11 @@
 	<a href='thumbnails/inner/502.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/502.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/503.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/503.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/503.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/503.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/503.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/503.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/504.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/504.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/504.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/504.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/504.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/504.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -149,10 +149,10 @@
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/506.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/506.thick_s.5.png' alt='Thick s'></a>
-	<a href='thumbnails/inner/506.thin_s.3.png' title='Thin s'><img src='thumbnails/inner/506.thin_s.3.png' alt='Thin s'></a>
+	<a href='thumbnails/inner/506.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/506.thin_s.4.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/507.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/507.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/507.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/507.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/507.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/507.thin_s.4.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -172,7 +172,7 @@
 	<a href='thumbnails/inner/511.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/511.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/512.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/512.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/512.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/512.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/512.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/512.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -180,12 +180,12 @@
 	<a href='thumbnails/inner/513.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/513.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/514.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/514.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/514.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/514.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/514.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/514.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/515.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/515.thick_s.5.png' alt='Thick s'></a>
-	<a href='thumbnails/inner/515.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/515.thin_s.4.png' alt='Thin s'></a>
+	<a href='thumbnails/inner/515.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/515.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/516.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/516.thick_s.5.png' alt='Thick s'></a>
@@ -213,14 +213,14 @@
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/522.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/522.thick_s.5.png' alt='Thick s'></a>
-	<a href='thumbnails/inner/522.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/522.thin_s.4.png' alt='Thin s'></a>
+	<a href='thumbnails/inner/522.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/522.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/523.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/523.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/523.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/523.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/524.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/524.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/524.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/524.thick_s.5.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/524.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/524.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -240,7 +240,7 @@
 	<a href='thumbnails/inner/528.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/528.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/529.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/529.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/529.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/529.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/529.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/529.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -268,11 +268,11 @@
 	<a href='thumbnails/inner/535.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/535.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/536.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/536.thick_s.3.png' alt='Thick s'></a>
-	<a href='thumbnails/inner/536.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/536.thin_s.5.png' alt='Thin s'></a>
+	<a href='thumbnails/inner/536.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/536.thick_s.4.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/536.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/536.thin_s.4.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/537.thick_s.3.png' title='Thick s'><img src='thumbnails/inner/537.thick_s.3.png' alt='Thick s'></a>
+	<a href='thumbnails/inner/537.thick_s.4.png' title='Thick s'><img src='thumbnails/inner/537.thick_s.4.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/537.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/537.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">

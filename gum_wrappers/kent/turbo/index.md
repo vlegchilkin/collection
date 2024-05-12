@@ -1800,57 +1800,58 @@ layout: default
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
             1997 01-12<br/>
-            <a href='sport/471-540/thumbnails/outer/1997_01-12.1.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_01-12.1.5.png' width='50' alt='1997_01-12.1'/></a>
+            <a href='sport/471-540/thumbnails/outer/1997_01-12.7.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_01-12.7.5.png' width='50' alt='1997_01-12.7'/></a>
+            <a href='sport/471-540/thumbnails/outer/1997_01-12.8.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_01-12.8.5.png' width='50' alt='1997_01-12.8'/></a>
             <br/>1998 01-06<br/>
-            <a href='sport/471-540/thumbnails/outer/1998_01-06.1.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1998_01-06.1.5.png' width='50' alt='1998_01-06.1'/></a>
+            <a href='sport/471-540/thumbnails/outer/1998_01-06.4.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1998_01-06.4.5.png' width='50' alt='1998_01-06.4'/></a>
             <br/>
         </td>
         <td>
             Thick s (65/70)<br/>
-            <a class='good' href='sport/471-540/thumbnails/inner/471.thick_s.3.png' title='Thick s' target='_blank'>471</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/471.thick_s.5.png' title='Thick s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thick_s.4.png' title='Thick s' target='_blank'>472</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/473.thick_s.3.png' title='Thick s' target='_blank'>473</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/474.thick_s.3.png' title='Thick s' target='_blank'>474</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/473.thick_s.4.png' title='Thick s' target='_blank'>473</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/474.thick_s.4.png' title='Thick s' target='_blank'>474</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/475.thick_s.5.png' title='Thick s' target='_blank'>475</a>
             <a class='missed' href='sport/471-540/thumbnails/inner/476.thick_s.0.png' title='Thick s' target='_blank'>476</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/477.thick_s.5.png' title='Thick s' target='_blank'>477</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/478.thick_s.4.png' title='Thick s' target='_blank'>478</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/479.thick_s.4.png' title='Thick s' target='_blank'>479</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/480.thick_s.3.png' title='Thick s' target='_blank'>480</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/481.thick_s.3.png' title='Thick s' target='_blank'>481</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/480.thick_s.4.png' title='Thick s' target='_blank'>480</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/481.thick_s.4.png' title='Thick s' target='_blank'>481</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/482.thick_s.5.png' title='Thick s' target='_blank'>482</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/483.thick_s.5.png' title='Thick s' target='_blank'>483</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/484.thick_s.5.png' title='Thick s' target='_blank'>484</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/485.thick_s.5.png' title='Thick s' target='_blank'>485</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/486.thick_s.3.png' title='Thick s' target='_blank'>486</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/487.thick_s.3.png' title='Thick s' target='_blank'>487</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/486.thick_s.4.png' title='Thick s' target='_blank'>486</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/487.thick_s.4.png' title='Thick s' target='_blank'>487</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/488.thick_s.5.png' title='Thick s' target='_blank'>488</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/489.thick_s.5.png' title='Thick s' target='_blank'>489</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/490.thick_s.4.png' title='Thick s' target='_blank'>490</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/490.thick_s.5.png' title='Thick s' target='_blank'>490</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/491.thick_s.5.png' title='Thick s' target='_blank'>491</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/492.thick_s.5.png' title='Thick s' target='_blank'>492</a>
-            <a class='perfect' href='sport/471-540/thumbnails/inner/493.thick_s.5.png' title='Thick s' target='_blank'>493</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/493.thick_s.4.png' title='Thick s' target='_blank'>493</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/494.thick_s.5.png' title='Thick s' target='_blank'>494</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/495.thick_s.4.png' title='Thick s' target='_blank'>495</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/496.thick_s.5.png' title='Thick s' target='_blank'>496</a>
             <a class='missed' href='sport/471-540/thumbnails/inner/497.thick_s.0.png' title='Thick s' target='_blank'>497</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/498.thick_s.3.png' title='Thick s' target='_blank'>498</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/499.thick_s.3.png' title='Thick s' target='_blank'>499</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/500.thick_s.4.png' title='Thick s' target='_blank'>500</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/498.thick_s.5.png' title='Thick s' target='_blank'>498</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/499.thick_s.4.png' title='Thick s' target='_blank'>499</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/500.thick_s.5.png' title='Thick s' target='_blank'>500</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/501.thick_s.5.png' title='Thick s' target='_blank'>501</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/502.thick_s.5.png' title='Thick s' target='_blank'>502</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/503.thick_s.3.png' title='Thick s' target='_blank'>503</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/504.thick_s.4.png' title='Thick s' target='_blank'>504</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/503.thick_s.5.png' title='Thick s' target='_blank'>503</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/504.thick_s.5.png' title='Thick s' target='_blank'>504</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/505.thick_s.5.png' title='Thick s' target='_blank'>505</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/506.thick_s.5.png' title='Thick s' target='_blank'>506</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/507.thick_s.4.png' title='Thick s' target='_blank'>507</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/507.thick_s.5.png' title='Thick s' target='_blank'>507</a>
             <a class='missed' href='sport/471-540/thumbnails/inner/508.thick_s.0.png' title='Thick s' target='_blank'>508</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/509.thick_s.5.png' title='Thick s' target='_blank'>509</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/510.thick_s.5.png' title='Thick s' target='_blank'>510</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/511.thick_s.5.png' title='Thick s' target='_blank'>511</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/512.thick_s.4.png' title='Thick s' target='_blank'>512</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/512.thick_s.5.png' title='Thick s' target='_blank'>512</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/513.thick_s.4.png' title='Thick s' target='_blank'>513</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/514.thick_s.3.png' title='Thick s' target='_blank'>514</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/514.thick_s.5.png' title='Thick s' target='_blank'>514</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/515.thick_s.5.png' title='Thick s' target='_blank'>515</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/516.thick_s.5.png' title='Thick s' target='_blank'>516</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/517.thick_s.5.png' title='Thick s' target='_blank'>517</a>
@@ -1860,32 +1861,32 @@ layout: default
             <a class='missed' href='sport/471-540/thumbnails/inner/521.thick_s.0.png' title='Thick s' target='_blank'>521</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/522.thick_s.5.png' title='Thick s' target='_blank'>522</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/523.thick_s.5.png' title='Thick s' target='_blank'>523</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/524.thick_s.4.png' title='Thick s' target='_blank'>524</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/524.thick_s.5.png' title='Thick s' target='_blank'>524</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/525.thick_s.5.png' title='Thick s' target='_blank'>525</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/526.thick_s.5.png' title='Thick s' target='_blank'>526</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/527.thick_s.5.png' title='Thick s' target='_blank'>527</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/528.thick_s.5.png' title='Thick s' target='_blank'>528</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/529.thick_s.3.png' title='Thick s' target='_blank'>529</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/529.thick_s.4.png' title='Thick s' target='_blank'>529</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/530.thick_s.5.png' title='Thick s' target='_blank'>530</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/531.thick_s.4.png' title='Thick s' target='_blank'>531</a>
             <a class='missed' href='sport/471-540/thumbnails/inner/532.thick_s.0.png' title='Thick s' target='_blank'>532</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/533.thick_s.5.png' title='Thick s' target='_blank'>533</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/534.thick_s.5.png' title='Thick s' target='_blank'>534</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/535.thick_s.5.png' title='Thick s' target='_blank'>535</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/536.thick_s.3.png' title='Thick s' target='_blank'>536</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/537.thick_s.3.png' title='Thick s' target='_blank'>537</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/536.thick_s.4.png' title='Thick s' target='_blank'>536</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/537.thick_s.4.png' title='Thick s' target='_blank'>537</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/538.thick_s.5.png' title='Thick s' target='_blank'>538</a>
             <a class='good' href='sport/471-540/thumbnails/inner/539.thick_s.3.png' title='Thick s' target='_blank'>539</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a><br/>Thin s (70/70)<br/>
             <a class='enough' href='sport/471-540/thumbnails/inner/471.thin_s.4.png' title='Thin s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thin_s.4.png' title='Thin s' target='_blank'>472</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/473.thin_s.5.png' title='Thin s' target='_blank'>473</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/474.thin_s.4.png' title='Thin s' target='_blank'>474</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/474.thin_s.5.png' title='Thin s' target='_blank'>474</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/475.thin_s.5.png' title='Thin s' target='_blank'>475</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/476.thin_s.5.png' title='Thin s' target='_blank'>476</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/477.thin_s.5.png' title='Thin s' target='_blank'>477</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/478.thin_s.4.png' title='Thin s' target='_blank'>478</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/479.thin_s.4.png' title='Thin s' target='_blank'>479</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/479.thin_s.5.png' title='Thin s' target='_blank'>479</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/480.thin_s.5.png' title='Thin s' target='_blank'>480</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/481.thin_s.5.png' title='Thin s' target='_blank'>481</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/482.thin_s.5.png' title='Thin s' target='_blank'>482</a>
@@ -1912,7 +1913,7 @@ layout: default
             <a class='perfect' href='sport/471-540/thumbnails/inner/503.thin_s.5.png' title='Thin s' target='_blank'>503</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/504.thin_s.5.png' title='Thin s' target='_blank'>504</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/505.thin_s.5.png' title='Thin s' target='_blank'>505</a>
-            <a class='good' href='sport/471-540/thumbnails/inner/506.thin_s.3.png' title='Thin s' target='_blank'>506</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/506.thin_s.4.png' title='Thin s' target='_blank'>506</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/507.thin_s.4.png' title='Thin s' target='_blank'>507</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/508.thin_s.5.png' title='Thin s' target='_blank'>508</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/509.thin_s.5.png' title='Thin s' target='_blank'>509</a>
@@ -1921,14 +1922,14 @@ layout: default
             <a class='perfect' href='sport/471-540/thumbnails/inner/512.thin_s.5.png' title='Thin s' target='_blank'>512</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/513.thin_s.5.png' title='Thin s' target='_blank'>513</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/514.thin_s.5.png' title='Thin s' target='_blank'>514</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/515.thin_s.4.png' title='Thin s' target='_blank'>515</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/515.thin_s.5.png' title='Thin s' target='_blank'>515</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/516.thin_s.5.png' title='Thin s' target='_blank'>516</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/517.thin_s.5.png' title='Thin s' target='_blank'>517</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/518.thin_s.4.png' title='Thin s' target='_blank'>518</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/519.thin_s.4.png' title='Thin s' target='_blank'>519</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/520.thin_s.5.png' title='Thin s' target='_blank'>520</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/521.thin_s.5.png' title='Thin s' target='_blank'>521</a>
-            <a class='enough' href='sport/471-540/thumbnails/inner/522.thin_s.4.png' title='Thin s' target='_blank'>522</a>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/522.thin_s.5.png' title='Thin s' target='_blank'>522</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/523.thin_s.5.png' title='Thin s' target='_blank'>523</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/524.thin_s.5.png' title='Thin s' target='_blank'>524</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/525.thin_s.5.png' title='Thin s' target='_blank'>525</a>
@@ -1942,7 +1943,7 @@ layout: default
             <a class='perfect' href='sport/471-540/thumbnails/inner/533.thin_s.5.png' title='Thin s' target='_blank'>533</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/534.thin_s.5.png' title='Thin s' target='_blank'>534</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/535.thin_s.5.png' title='Thin s' target='_blank'>535</a>
-            <a class='perfect' href='sport/471-540/thumbnails/inner/536.thin_s.5.png' title='Thin s' target='_blank'>536</a>
+            <a class='enough' href='sport/471-540/thumbnails/inner/536.thin_s.4.png' title='Thin s' target='_blank'>536</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/537.thin_s.5.png' title='Thin s' target='_blank'>537</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/538.thin_s.5.png' title='Thin s' target='_blank'>538</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/539.thin_s.5.png' title='Thin s' target='_blank'>539</a>
