@@ -1719,29 +1719,29 @@ layout: default
             <br/>
         </td>
         <td>
-            (56/70)<br/>
-            <a class='good' href='sport/401-470/thumbnails/inner/401.3.png' title='' target='_blank'>401</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/402.3.png' title='' target='_blank'>402</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/403.3.png' title='' target='_blank'>403</a>
-            <a class='poor' href='sport/401-470/thumbnails/inner/404.2.png' title='' target='_blank'>404</a>
+            (70/70)<br/>
+            <a class='enough' href='sport/401-470/thumbnails/inner/401.4.png' title='' target='_blank'>401</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/402.4.png' title='' target='_blank'>402</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/403.4.png' title='' target='_blank'>403</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/404.4.png' title='' target='_blank'>404</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/405.4.png' title='' target='_blank'>405</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/406.0.png' title='' target='_blank'>406</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/407.0.png' title='' target='_blank'>407</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/408.3.png' title='' target='_blank'>408</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/409.4.png' title='' target='_blank'>409</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/410.3.png' title='' target='_blank'>410</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/411.0.png' title='' target='_blank'>411</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/412.0.png' title='' target='_blank'>412</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/413.0.png' title='' target='_blank'>413</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/414.0.png' title='' target='_blank'>414</a>
-            <a class='poor' href='sport/401-470/thumbnails/inner/415.2.png' title='' target='_blank'>415</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/416.0.png' title='' target='_blank'>416</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/417.3.png' title='' target='_blank'>417</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/418.4.png' title='' target='_blank'>418</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/419.3.png' title='' target='_blank'>419</a>
+            <a class='good' href='sport/401-470/thumbnails/inner/406.3.png' title='' target='_blank'>406</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/407.4.png' title='' target='_blank'>407</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/408.4.png' title='' target='_blank'>408</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/409.5.png' title='' target='_blank'>409</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/410.4.png' title='' target='_blank'>410</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/411.4.png' title='' target='_blank'>411</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/412.4.png' title='' target='_blank'>412</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/413.5.png' title='' target='_blank'>413</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/414.5.png' title='' target='_blank'>414</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/415.4.png' title='' target='_blank'>415</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/416.5.png' title='' target='_blank'>416</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/417.5.png' title='' target='_blank'>417</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/418.5.png' title='' target='_blank'>418</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/419.5.png' title='' target='_blank'>419</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/420.5.png' title='' target='_blank'>420</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/421.4.png' title='' target='_blank'>421</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/422.4.png' title='' target='_blank'>422</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/421.5.png' title='' target='_blank'>421</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/422.5.png' title='' target='_blank'>422</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/423.5.png' title='' target='_blank'>423</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/424.5.png' title='' target='_blank'>424</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/425.4.png' title='' target='_blank'>425</a>
@@ -1751,33 +1751,33 @@ layout: default
             <a class='perfect' href='sport/401-470/thumbnails/inner/429.5.png' title='' target='_blank'>429</a>
             <a class='good' href='sport/401-470/thumbnails/inner/430.3.png' title='' target='_blank'>430</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/431.5.png' title='' target='_blank'>431</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/432.0.png' title='' target='_blank'>432</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/432.5.png' title='' target='_blank'>432</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/433.4.png' title='' target='_blank'>433</a>
-            <a class='perfect' href='sport/401-470/thumbnails/inner/434.5.png' title='' target='_blank'>434</a>
-            <a class='poor' href='sport/401-470/thumbnails/inner/435.2.png' title='' target='_blank'>435</a>
-            <a class='poor' href='sport/401-470/thumbnails/inner/436.2.png' title='' target='_blank'>436</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/434.4.png' title='' target='_blank'>434</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/435.5.png' title='' target='_blank'>435</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/436.4.png' title='' target='_blank'>436</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/437.5.png' title='' target='_blank'>437</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/438.5.png' title='' target='_blank'>438</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/439.0.png' title='' target='_blank'>439</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/439.4.png' title='' target='_blank'>439</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/440.5.png' title='' target='_blank'>440</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/441.3.png' title='' target='_blank'>441</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/442.0.png' title='' target='_blank'>442</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/443.4.png' title='' target='_blank'>443</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/444.4.png' title='' target='_blank'>444</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/445.4.png' title='' target='_blank'>445</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/441.5.png' title='' target='_blank'>441</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/442.5.png' title='' target='_blank'>442</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/443.5.png' title='' target='_blank'>443</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/444.5.png' title='' target='_blank'>444</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/445.5.png' title='' target='_blank'>445</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/446.4.png' title='' target='_blank'>446</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/447.0.png' title='' target='_blank'>447</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/447.5.png' title='' target='_blank'>447</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/448.4.png' title='' target='_blank'>448</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/449.3.png' title='' target='_blank'>449</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/450.4.png' title='' target='_blank'>450</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/451.3.png' title='' target='_blank'>451</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/452.0.png' title='' target='_blank'>452</a>
-            <a class='good' href='sport/401-470/thumbnails/inner/453.3.png' title='' target='_blank'>453</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/449.5.png' title='' target='_blank'>449</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/450.5.png' title='' target='_blank'>450</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/451.4.png' title='' target='_blank'>451</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/452.4.png' title='' target='_blank'>452</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/453.4.png' title='' target='_blank'>453</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/454.5.png' title='' target='_blank'>454</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/455.5.png' title='' target='_blank'>455</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/456.0.png' title='' target='_blank'>456</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/456.5.png' title='' target='_blank'>456</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/457.5.png' title='' target='_blank'>457</a>
-            <a class='poor' href='sport/401-470/thumbnails/inner/458.2.png' title='' target='_blank'>458</a>
+            <a class='enough' href='sport/401-470/thumbnails/inner/458.4.png' title='' target='_blank'>458</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/459.5.png' title='' target='_blank'>459</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/460.5.png' title='' target='_blank'>460</a>
             <a class='perfect' href='sport/401-470/thumbnails/inner/461.5.png' title='' target='_blank'>461</a>
@@ -1787,9 +1787,9 @@ layout: default
             <a class='perfect' href='sport/401-470/thumbnails/inner/465.5.png' title='' target='_blank'>465</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/466.4.png' title='' target='_blank'>466</a>
             <a class='good' href='sport/401-470/thumbnails/inner/467.3.png' title='' target='_blank'>467</a>
-            <a class='enough' href='sport/401-470/thumbnails/inner/468.4.png' title='' target='_blank'>468</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/468.5.png' title='' target='_blank'>468</a>
             <a class='good' href='sport/401-470/thumbnails/inner/469.3.png' title='' target='_blank'>469</a>
-            <a class='missed' href='sport/401-470/thumbnails/inner/470.0.png' title='' target='_blank'>470</a>
+            <a class='perfect' href='sport/401-470/thumbnails/inner/470.5.png' title='' target='_blank'>470</a>
         </td>
     </tr>
 </table>
