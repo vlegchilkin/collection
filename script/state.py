@@ -26,60 +26,56 @@ def get_file_view_url(index_root: Path, series_context: Path, file_commits, file
     return f"{base_url}/{file_commits[filepath]}/{context.relative_to("..")}/{filepath}"
 
 
+SERIES_PATH_REG = re.compile(r"^(.*)/(\d+)-(\d+)$")
+
+
 def inners(index_root: Path, series_context: Path):
     numbers = cl.defaultdict(dict)
     for filename in os.listdir(index_root / series_context / "thumbnails" / "inner"):
-        if not filename.endswith(".png"):
+        if filename == MISSED_PNG or not filename.endswith(".png"):
             continue
         number, *opt, state = filename.split(".")[:-1]
-        numbers[int(number)][opt[0] if opt else None] = int(state)
+        numbers[opt[0] if opt else None][int(number)] = (filename, int(state))
 
-    lo, hi = min(numbers), max(numbers)
+    if match := SERIES_PATH_REG.match(str(series_context)):
+        lo, hi = map(int, match.groups()[1:])
+    else:
+        lo, hi = min(numbers), max(numbers)
 
-    groups = cl.defaultdict(int)
-    for options in numbers.values():
-        for option in options:
-            groups[option] += 1
-    options = sorted(
-        [group for group, cnt in groups.items() if group is None or (len(group) > 1 and cnt > 3)],
-        key=lambda x: (x is not None, x)
-    )
+    additional_groups = [k for k, v in numbers.items() if k is not None and len(v) > 3]
+    main_groups = [None] + sorted(additional_groups)
 
     index_section = ""
-    for idx, option in enumerate(options):
+    for idx, option in enumerate(main_groups):
         if idx > 0:
             index_section += "<br/>"
-        if option is not None:
-            opt_title = option.replace("_", " ").capitalize()
-        else:
-            opt_title = ''
+        opt_title = (option or "").replace("_", " ").capitalize()
 
         option_section = ""
         counter = 0
         for number in range(lo, hi + 1):
-            quality = numbers[number][option] if number in numbers and option in numbers[number] else 0
-            counter += 1 if quality else 0
-            filename = f"{number}{f'.{option}' if option else ''}.{quality}.png"
-            inner_view_url = f"thumbnails/inner/{filename}"
+            filename, quality = numbers[option][number] if number in numbers[option] else (None, None)
+            counter += 1 if filename else 0
+            inner_view_url = f"thumbnails/inner/{filename or MISSED_PNG}"
             option_section += (
                 f"\n{INDENT}"
-                f"<a class='{qualities[quality]}' "
+                f"<a class='{qualities[quality or 0]}' "
                 f"href='{series_context}/{inner_view_url}' "
                 f"title='{opt_title}' target='_blank'>{number}</a>"
             )
         index_section += f"{opt_title} ({counter}/{hi - lo + 1})<br/>" + option_section
 
     readme_section = ""
-    for number in sorted(numbers):
+    for number in range(lo, hi + 1):
         readme_section += "<span style=\"display: inline-block;\">\n"
-        for idx, opt in enumerate(sorted(numbers[number], key=lambda x: x or '')):
-            quality = numbers[number][opt]
-            filename = f"{number}{f'.{opt}' if opt else ''}.{quality}.png"
-            opt_title = (opt or '').replace("_", " ").capitalize()
-            inner_view_url = f"thumbnails/inner/{filename}"
+        groups = main_groups + [group for group in numbers if group not in main_groups]
+        for option in groups:
+            filename, quality = numbers[option][number] if number in numbers[option] else (None, None)
+            opt_title = (option or "").replace("_", " ").capitalize()
+            inner_view_url = f"thumbnails/inner/{filename or MISSED_PNG}"
             readme_section += (
                 f"\t<a href='{inner_view_url}' title='{opt_title}'>"
-                f"<img src='thumbnails/inner/{filename}' alt='{opt_title}'>"
+                f"<img src='{inner_view_url}' alt='{opt_title}'>"
                 f"</a>\n"
             )
         readme_section += "</span>\n"
@@ -105,8 +101,6 @@ MISSED_PNG = "missed.png"
 
 
 def outers(index_root: Path, series_context: Path):
-    # years = cl.defaultdict(lambda: cl.defaultdict(dict))
-    # options = set()
     root_folder = index_root / series_context / "thumbnails" / "outer"
     folders = sorted([name for name in os.listdir(root_folder) if os.path.isdir(root_folder / name)])
     releases = []
