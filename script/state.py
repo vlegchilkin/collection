@@ -68,7 +68,7 @@ def inners(index_root: Path, series_context: Path):
     readme_section = ""
     for number in range(lo, hi + 1):
         readme_section += "<span style=\"display: inline-block;\">\n"
-        groups = main_groups + [group for group in numbers if group not in main_groups]
+        groups = main_groups + [group for group in numbers if group not in main_groups and number in numbers[group]]
         for option in groups:
             filename, quality = numbers[option][number] if number in numbers[option] else (None, None)
             opt_title = (option or "").replace("_", " ").capitalize()
@@ -202,5 +202,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs and root.endswith("sport/1-70"):
+        if "thumbnails" in dirs and root.endswith("sport/71-140"):
             build(index_file, Path(root))

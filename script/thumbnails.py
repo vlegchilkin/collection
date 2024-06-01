@@ -38,6 +38,6 @@ def build(root_dir: str):
 
 
 if __name__ == "__main__":
-    for root, dirs, files in os.walk(f"../gum_wrappers/kent/turbo/sport/1-70"):
+    for root, dirs, files in os.walk(f"../gum_wrappers/kent/turbo/sport/71-140"):
         if "thumbnails" in dirs:
             build(root)
