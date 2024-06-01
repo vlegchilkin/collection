@@ -1349,17 +1349,39 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            (blue)<br/>1995 03 - 1996 07<br/>
-            <a href='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.1.5.png' width='50' alt='(blue)+1995_03_-_1996_07.1'/></a>
-            <a href='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.2.5.png' width='50' alt='(blue)+1995_03_-_1996_07.2'/></a>
-            <a href='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.3.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.3.5.png' width='50' alt='(blue)+1995_03_-_1996_07.3'/></a>
-            <a href='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.4.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.4.5.png' width='50' alt='(blue)+1995_03_-_1996_07.4'/></a>
-            <a href='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.5.0.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(blue)+1995_03_-_1996_07.5.0.png' width='50' alt='(blue)+1995_03_-_1996_07.5'/></a>
-            <br/>(violet)<br/>1998 03<br/>
-            <a href='sport/1-70/thumbnails/outer/(violet)+1998_03.1.0.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(violet)+1998_03.1.0.png' width='50' alt='(violet)+1998_03.1'/></a>
-            <a href='sport/1-70/thumbnails/outer/(violet)+1998_03.2.0.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(violet)+1998_03.2.0.png' width='50' alt='(violet)+1998_03.2'/></a>
-            <a href='sport/1-70/thumbnails/outer/(violet)+1998_03.3.0.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(violet)+1998_03.3.0.png' width='50' alt='(violet)+1998_03.3'/></a>
-            <a href='sport/1-70/thumbnails/outer/(violet)+1998_03.4.0.png' target='_blank'><img src='sport/1-70/thumbnails/outer/(violet)+1998_03.4.0.png' width='50' alt='(violet)+1998_03.4'/></a>
+            1995.3 C95 <br/>
+            <a href='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/1.5.png' width='50' alt='1995.3 C95 .1'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/2.5.png' width='50' alt='1995.3 C95 .2'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/3.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/3.5.png' width='50' alt='1995.3 C95 .3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/4.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/4.5.png' width='50' alt='1995.3 C95 .4'/></a>
+            <br/>1995.6 F95 <br/>
+            <a href='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/1.5.png' width='50' alt='1995.6 F95 .1'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/../missed.png' width='50' alt='1995.6 F95 .2'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/../missed.png' width='50' alt='1995.6 F95 .3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_06{F_95}[4]/../missed.png' width='50' alt='1995.6 F95 .4'/></a>
+            <br/>1995.9 I95 <br/>
+            <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/../missed.png' width='50' alt='1995.9 I95 .1'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/2.5.png' width='50' alt='1995.9 I95 .2'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/../missed.png' width='50' alt='1995.9 I95 .3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/4.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/4.5.png' width='50' alt='1995.9 I95 .4'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/../missed.png' width='50' alt='1995.9 I95 .5'/></a>
+            <br/>1996.1 A96 <br/>
+            <a href='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .1'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .2'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .4'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .5'/></a>
+            <br/>1996.7 G96 <br/>
+            <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .1'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .2'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .4'/></a>
+            <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .5'/></a>
+            <br/>1998.3 Violet<br/>
+            <a href='sport/1-70/thumbnails/outer/1998_03[4]violet/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1998_03[4]violet/1.5.png' width='50' alt='1998.3 Violet.1'/></a>
+            <a href='sport/1-70/thumbnails/outer/1998_03[4]violet/2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1998_03[4]violet/2.5.png' width='50' alt='1998.3 Violet.2'/></a>
+            <a href='sport/1-70/thumbnails/outer/1998_03[4]violet/3.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1998_03[4]violet/3.5.png' width='50' alt='1998.3 Violet.3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1998_03[4]violet/4.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1998_03[4]violet/4.5.png' width='50' alt='1998.3 Violet.4'/></a>
             <br/>
         </td>
         <td>

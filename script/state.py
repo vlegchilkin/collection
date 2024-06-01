@@ -1,4 +1,6 @@
+import dataclasses
 import os
+import re
 from pathlib import Path
 import collections as cl
 import subprocess
@@ -85,39 +87,77 @@ def inners(index_root: Path, series_context: Path):
     return readme_section, index_section.strip()
 
 
+OUTER_REG = re.compile(r"^(\d{4})_(\d{2})(\{.*})?\[(\d{1,2})](.*)?$")
+
+
+@dataclasses.dataclass
+class OuterRelease:
+    folder: str
+    year: int
+    month: int
+    product_no: str | None
+    total: int
+    caption: str | None
+    collection: dict
+
+
+MISSED_PNG = "missed.png"
+
+
 def outers(index_root: Path, series_context: Path):
-    years = cl.defaultdict(lambda: cl.defaultdict(dict))
-    options = set()
-    for filename in os.listdir(index_root / series_context / "thumbnails" / "outer"):
-        if not filename.endswith(".png"):
-            continue
-        year, opt, state = filename.split(".")[:-1]
-        *group_data, ver = opt.split("_")
-        group = "" if not group_data else " ".join(group_data).capitalize()
-        years[year][group][opt] = state
-        options.add(int(ver))
+    # years = cl.defaultdict(lambda: cl.defaultdict(dict))
+    # options = set()
+    root_folder = index_root / series_context / "thumbnails" / "outer"
+    folders = sorted([name for name in os.listdir(root_folder) if os.path.isdir(root_folder / name)])
+    releases = []
+    for folder in folders:
+        collection = {}
+        for filename in os.listdir(root_folder / folder):
+            number, quality, _ = filename.split(".")
+            collection[int(number)] = (filename, int(quality))
+        groups = OUTER_REG.match(folder).groups()
+        releases.append(
+            OuterRelease(
+                folder=folder,
+                year=int(groups[0]),
+                month=int(groups[1]),
+                product_no=groups[2].removeprefix("{").removesuffix("}") if groups[2] else None,
+                total=int(groups[3]),
+                caption=groups[4],
+                collection=collection
+            )
+        )
+
     index_section = ""
-    opt_column = {opt: idx for idx, opt in enumerate(sorted(options))}
+    opt_column = list(range(1, max(release.total for release in releases) + 1))
     readme_section = (
-            "|Year|" + "|".join([str(opt) for opt in opt_column]) + "|\n" +
-            "|:--:|" + ":-:|" * (len(options)) + "\n"
+            "|Release|" + "|".join([str(opt) for opt in opt_column]) + "|\n" +
+            "|:--:|" + ":-:|" * (len(opt_column)) + "\n"
     )
 
-    for year in sorted(years):
-        for group, vers in sorted(years[year].items()):
-            index_section += f"{format_date(year)}{f' {group}' if group else ""}<br/>"
-            readme_section += f"|{format_date(year)}{f' {group}' if group else ""}|"
-            for opt in sorted(vers, key=lambda k: int(k.split("_")[-1])):
-                quality = vers[opt]
-                filename = f"{year}.{opt}.{quality}.png"
+    for release in releases:
+        product_no = f" {release.product_no.replace("_", "")}" if release.product_no is not None else ""
+        caption = f" {release.caption.capitalize()}" if release.caption is not None else ""
+
+        title = f"{release.year}.{release.month}{product_no}{caption}"
+        index_section += f"{title}<br/>"
+        readme_section += f"|{title}|"
+        for opt in opt_column:
+            if opt <= release.total:
+                filename, quality = release.collection.get(opt, (f"../{MISSED_PNG}", 0))
+
+                ref = f"thumbnails/outer/{release.folder}/{filename}"
                 index_section += (
-                    f"\n{INDENT}<a href='{series_context}/thumbnails/outer/{filename}' target='_blank'>"
-                    f"<img src='{series_context}/thumbnails/outer/{filename}' width='50' alt='{year}.{opt}'/>"
+                    f"\n{INDENT}<a href='{series_context}/{ref}' target='_blank'>"
+                    f"<img src='{series_context}/{ref}' width='50' alt='{title}.{opt}'/>"
                     f"</a>"
                 )
-                readme_section += f"[<img src='thumbnails/outer/{filename}'>](thumbnails/outer/{filename})|"
-            index_section += f"\n{INDENT}<br/>"
-            readme_section += "\n"
+                readme_section += f"[<img src='{ref}'>]({ref})|"
+            else:
+                readme_section += f"|"
+
+        index_section += f"\n{INDENT}<br/>"
+        readme_section += "\n"
 
     return readme_section, index_section
 
@@ -168,5 +208,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs:
+        if "thumbnails" in dirs and root.endswith("sport/1-70"):
             build(index_file, Path(root))
