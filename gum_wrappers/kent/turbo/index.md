@@ -1593,76 +1593,76 @@ layout: default
             <br/>
         </td>
         <td>
-            (69/70)<br/>
+            (70/70)<br/>
             <a class='perfect' href='sport/71-140/thumbnails/inner/71.5.png' title='' target='_blank'>71</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/74.5.png' title='' target='_blank'>74</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/75.5.png' title='' target='_blank'>75</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/76.5.png' title='' target='_blank'>76</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/77.4.png' title='' target='_blank'>77</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/77.5.png' title='' target='_blank'>77</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/78.5.png' title='' target='_blank'>78</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/79.5.png' title='' target='_blank'>79</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/80.5.png' title='' target='_blank'>80</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/81.4.png' title='' target='_blank'>81</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/81.5.png' title='' target='_blank'>81</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/82.5.png' title='' target='_blank'>82</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/83.4.png' title='' target='_blank'>83</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/83.5.png' title='' target='_blank'>83</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/84.5.png' title='' target='_blank'>84</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/85.5.png' title='' target='_blank'>85</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/86.5.png' title='' target='_blank'>86</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/87.4.png' title='' target='_blank'>87</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/87.5.png' title='' target='_blank'>87</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/88.5.png' title='' target='_blank'>88</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/89.5.png' title='' target='_blank'>89</a>
-            <a class='good' href='sport/71-140/thumbnails/inner/90.3.png' title='' target='_blank'>90</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/90.5.png' title='' target='_blank'>90</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/91.5.png' title='' target='_blank'>91</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/92.4.png' title='' target='_blank'>92</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/93.5.png' title='' target='_blank'>93</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/94.4.png' title='' target='_blank'>94</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/94.5.png' title='' target='_blank'>94</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/95.5.png' title='' target='_blank'>95</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/96.4.png' title='' target='_blank'>96</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/96.5.png' title='' target='_blank'>96</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/97.5.png' title='' target='_blank'>97</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/98.4.png' title='' target='_blank'>98</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/98.5.png' title='' target='_blank'>98</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/99.5.png' title='' target='_blank'>99</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/100.4.png' title='' target='_blank'>100</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/101.5.png' title='' target='_blank'>101</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/102.5.png' title='' target='_blank'>102</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/103.4.png' title='' target='_blank'>103</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/104.4.png' title='' target='_blank'>104</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/103.5.png' title='' target='_blank'>103</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/104.5.png' title='' target='_blank'>104</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/105.5.png' title='' target='_blank'>105</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/106.5.png' title='' target='_blank'>106</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/107.4.png' title='' target='_blank'>107</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/107.5.png' title='' target='_blank'>107</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/108.5.png' title='' target='_blank'>108</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/109.5.png' title='' target='_blank'>109</a>
-            <a class='good' href='sport/71-140/thumbnails/inner/110.3.png' title='' target='_blank'>110</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/109.4.png' title='' target='_blank'>109</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/110.4.png' title='' target='_blank'>110</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/111.5.png' title='' target='_blank'>111</a>
-            <a class='good' href='sport/71-140/thumbnails/inner/112.3.png' title='' target='_blank'>112</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/112.5.png' title='' target='_blank'>112</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/113.5.png' title='' target='_blank'>113</a>
-            <a class='good' href='sport/71-140/thumbnails/inner/114.3.png' title='' target='_blank'>114</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/114.5.png' title='' target='_blank'>114</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/115.5.png' title='' target='_blank'>115</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/116.4.png' title='' target='_blank'>116</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/116.5.png' title='' target='_blank'>116</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/117.4.png' title='' target='_blank'>117</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/118.4.png' title='' target='_blank'>118</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/119.4.png' title='' target='_blank'>119</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/118.5.png' title='' target='_blank'>118</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/119.5.png' title='' target='_blank'>119</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/120.5.png' title='' target='_blank'>120</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/121.5.png' title='' target='_blank'>121</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/122.4.png' title='' target='_blank'>122</a>
-            <a class='missed' href='sport/71-140/thumbnails/inner/missed.png' title='' target='_blank'>123</a>
-            <a class='good' href='sport/71-140/thumbnails/inner/124.3.png' title='' target='_blank'>124</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/122.5.png' title='' target='_blank'>122</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/123.5.png' title='' target='_blank'>123</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/124.5.png' title='' target='_blank'>124</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/125.5.png' title='' target='_blank'>125</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/126.4.png' title='' target='_blank'>126</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/126.5.png' title='' target='_blank'>126</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/127.5.png' title='' target='_blank'>127</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/128.5.png' title='' target='_blank'>128</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/129.4.png' title='' target='_blank'>129</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/129.5.png' title='' target='_blank'>129</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/130.5.png' title='' target='_blank'>130</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/131.4.png' title='' target='_blank'>131</a>
-            <a class='good' href='sport/71-140/thumbnails/inner/132.3.png' title='' target='_blank'>132</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/131.5.png' title='' target='_blank'>131</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/132.5.png' title='' target='_blank'>132</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/133.4.png' title='' target='_blank'>133</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/134.5.png' title='' target='_blank'>134</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/134.4.png' title='' target='_blank'>134</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/135.4.png' title='' target='_blank'>135</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/136.5.png' title='' target='_blank'>136</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/137.5.png' title='' target='_blank'>137</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/138.5.png' title='' target='_blank'>138</a>
-            <a class='enough' href='sport/71-140/thumbnails/inner/139.4.png' title='' target='_blank'>139</a>
+            <a class='perfect' href='sport/71-140/thumbnails/inner/139.5.png' title='' target='_blank'>139</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>
         </td>
     </tr>
