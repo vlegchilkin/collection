@@ -3276,12 +3276,6 @@ layout: default
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.3'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.4'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.5'/></a>
-            <br/>2007.03 [4449-R0] No Super with PCT<br/>
-            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/1.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.1'/></a>
-            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/2.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.2'/></a>
-            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/3.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.3'/></a>
-            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/4.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.4'/></a>
-            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/5.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.5'/></a>
             <br/>2007.06 [4449-R0] No Super with PCT<br/>
             <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/1.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.1'/></a>
             <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/2.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.2'/></a>
