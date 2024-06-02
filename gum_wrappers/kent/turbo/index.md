@@ -818,12 +818,18 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1994 11 - 1995 03<br/>
-            <a href='super/331-400/thumbnails/outer/1994_11_-_1995_03.1.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11_-_1995_03.1.5.png' width='50' alt='1994_11_-_1995_03.1'/></a>
-            <a href='super/331-400/thumbnails/outer/1994_11_-_1995_03.2.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11_-_1995_03.2.5.png' width='50' alt='1994_11_-_1995_03.2'/></a>
-            <a href='super/331-400/thumbnails/outer/1994_11_-_1995_03.3.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11_-_1995_03.3.5.png' width='50' alt='1994_11_-_1995_03.3'/></a>
-            <a href='super/331-400/thumbnails/outer/1994_11_-_1995_03.4.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11_-_1995_03.4.5.png' width='50' alt='1994_11_-_1995_03.4'/></a>
-            <a href='super/331-400/thumbnails/outer/1994_11_-_1995_03.5.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11_-_1995_03.5.5.png' width='50' alt='1994_11_-_1995_03.5'/></a>
+            1994.11 K94 <br/>
+            <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' width='50' alt='1994.11 K94 .1'/></a>
+            <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' width='50' alt='1994.11 K94 .2'/></a>
+            <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' width='50' alt='1994.11 K94 .3'/></a>
+            <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' width='50' alt='1994.11 K94 .4'/></a>
+            <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/../missed.png' width='50' alt='1994.11 K94 .5'/></a>
+            <br/>1995.3 C95 <br/>
+            <a href='super/331-400/thumbnails/outer/1995_03{C95}[5]/1.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1995_03{C95}[5]/1.5.png' width='50' alt='1995.3 C95 .1'/></a>
+            <a href='super/331-400/thumbnails/outer/1995_03{C95}[5]/2.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1995_03{C95}[5]/2.5.png' width='50' alt='1995.3 C95 .2'/></a>
+            <a href='super/331-400/thumbnails/outer/1995_03{C95}[5]/3.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1995_03{C95}[5]/3.5.png' width='50' alt='1995.3 C95 .3'/></a>
+            <a href='super/331-400/thumbnails/outer/1995_03{C95}[5]/4.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1995_03{C95}[5]/4.5.png' width='50' alt='1995.3 C95 .4'/></a>
+            <a href='super/331-400/thumbnails/outer/1995_03{C95}[5]/5.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1995_03{C95}[5]/5.5.png' width='50' alt='1995.3 C95 .5'/></a>
             <br/>
         </td>
         <td>
