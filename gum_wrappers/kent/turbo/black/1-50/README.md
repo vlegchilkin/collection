@@ -42,19 +42,19 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/2.B_circle.4.png' title='B circle'><img src='thumbnails/inner/2.B_circle.4.png' alt='B circle'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/3.0.png' title=''><img src='thumbnails/inner/3.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/4.0.png' title=''><img src='thumbnails/inner/4.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/5.0.png' title=''><img src='thumbnails/inner/5.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/6.0.png' title=''><img src='thumbnails/inner/6.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/7.0.png' title=''><img src='thumbnails/inner/7.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/8.4.png' title=''><img src='thumbnails/inner/8.4.png' alt=''></a>
@@ -66,7 +66,7 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/10.3.png' title=''><img src='thumbnails/inner/10.3.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/11.0.png' title=''><img src='thumbnails/inner/11.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/12.4.png' title=''><img src='thumbnails/inner/12.4.png' alt=''></a>
@@ -87,25 +87,25 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/17.3.png' title=''><img src='thumbnails/inner/17.3.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/18.1.png' title=''><img src='thumbnails/inner/18.1.png' alt=''></a>
+	<a href='thumbnails/inner/18.4.png' title=''><img src='thumbnails/inner/18.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/19.0.png' title=''><img src='thumbnails/inner/19.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/20.0.png' title=''><img src='thumbnails/inner/20.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/21.0.png' title=''><img src='thumbnails/inner/21.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/22.0.png' title=''><img src='thumbnails/inner/22.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/23.4.png' title=''><img src='thumbnails/inner/23.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/24.0.png' title=''><img src='thumbnails/inner/24.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/25.4.png' title=''><img src='thumbnails/inner/25.4.png' alt=''></a>
@@ -120,7 +120,7 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/28.4.png' title=''><img src='thumbnails/inner/28.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/29.0.png' title=''><img src='thumbnails/inner/29.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/30.4.png' title=''><img src='thumbnails/inner/30.4.png' alt=''></a>
@@ -132,7 +132,7 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/32.4.png' title=''><img src='thumbnails/inner/32.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/33.1.png' title=''><img src='thumbnails/inner/33.1.png' alt=''></a>
+	<a href='thumbnails/inner/33.4.png' title=''><img src='thumbnails/inner/33.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/34.3.png' title=''><img src='thumbnails/inner/34.3.png' alt=''></a>
@@ -147,22 +147,22 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/37.4.png' title=''><img src='thumbnails/inner/37.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/38.0.png' title=''><img src='thumbnails/inner/38.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/39.0.png' title=''><img src='thumbnails/inner/39.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/40.0.png' title=''><img src='thumbnails/inner/40.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/41.0.png' title=''><img src='thumbnails/inner/41.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/42.0.png' title=''><img src='thumbnails/inner/42.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/43.0.png' title=''><img src='thumbnails/inner/43.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/44.3.png' title=''><img src='thumbnails/inner/44.3.png' alt=''></a>
@@ -177,12 +177,12 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/47.4.png' title=''><img src='thumbnails/inner/47.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/48.0.png' title=''><img src='thumbnails/inner/48.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/49.4.png' title=''><img src='thumbnails/inner/49.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/50.0.png' title=''><img src='thumbnails/inner/50.0.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
 </span>
 
