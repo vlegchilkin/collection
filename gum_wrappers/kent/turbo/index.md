@@ -913,18 +913,42 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1995 03 - 1996 07<br/>
-            <a href='super/401-470/thumbnails/outer/1995_03_-_1996_07.1.3.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03_-_1996_07.1.3.png' width='50' alt='1995_03_-_1996_07.1'/></a>
-            <a href='super/401-470/thumbnails/outer/1995_03_-_1996_07.2.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03_-_1996_07.2.5.png' width='50' alt='1995_03_-_1996_07.2'/></a>
-            <a href='super/401-470/thumbnails/outer/1995_03_-_1996_07.3.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03_-_1996_07.3.5.png' width='50' alt='1995_03_-_1996_07.3'/></a>
-            <a href='super/401-470/thumbnails/outer/1995_03_-_1996_07.4.4.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03_-_1996_07.4.4.png' width='50' alt='1995_03_-_1996_07.4'/></a>
-            <a href='super/401-470/thumbnails/outer/1995_03_-_1996_07.5.4.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03_-_1996_07.5.4.png' width='50' alt='1995_03_-_1996_07.5'/></a>
+            1995.3 B 95 <br/>
+            <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/1.4.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/1.4.png' width='50' alt='1995.3 B 95 .1'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/../missed.png' width='50' alt='1995.3 B 95 .2'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/3.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/3.5.png' width='50' alt='1995.3 B 95 .3'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/4.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/4.5.png' width='50' alt='1995.3 B 95 .4'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/../missed.png' width='50' alt='1995.3 B 95 .5'/></a>
+            <br/>1995.6 F 95 <br/>
+            <a href='super/401-470/thumbnails/outer/1995_06{F 95}[5]/1.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_06{F 95}[5]/1.5.png' width='50' alt='1995.6 F 95 .1'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_06{F 95}[5]/2.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_06{F 95}[5]/2.5.png' width='50' alt='1995.6 F 95 .2'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_06{F 95}[5]/3.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_06{F 95}[5]/3.5.png' width='50' alt='1995.6 F 95 .3'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_06{F 95}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_06{F 95}[5]/../missed.png' width='50' alt='1995.6 F 95 .4'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_06{F 95}[5]/5.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_06{F 95}[5]/5.5.png' width='50' alt='1995.6 F 95 .5'/></a>
+            <br/>1995.9 I 95 <br/>
+            <a href='super/401-470/thumbnails/outer/1995_09{I 95}[5]/1.3.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_09{I 95}[5]/1.3.png' width='50' alt='1995.9 I 95 .1'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_09{I 95}[5]/2.2.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_09{I 95}[5]/2.2.png' width='50' alt='1995.9 I 95 .2'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_09{I 95}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_09{I 95}[5]/../missed.png' width='50' alt='1995.9 I 95 .3'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_09{I 95}[5]/4.2.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_09{I 95}[5]/4.2.png' width='50' alt='1995.9 I 95 .4'/></a>
+            <a href='super/401-470/thumbnails/outer/1995_09{I 95}[5]/5.2.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_09{I 95}[5]/5.2.png' width='50' alt='1995.9 I 95 .5'/></a>
+            <br/>1996.1 A96 <br/>
+            <a href='super/401-470/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .1'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_01{A96}[5]/2.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_01{A96}[5]/2.5.png' width='50' alt='1996.1 A96 .2'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .3'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_01{A96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_01{A96}[5]/../missed.png' width='50' alt='1996.1 A96 .4'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_01{A96}[5]/5.4.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_01{A96}[5]/5.4.png' width='50' alt='1996.1 A96 .5'/></a>
+            <br/>1996.7 G96 <br/>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .1'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .2'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .3'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .4'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/../missed.png' width='50' alt='1996.7 G96 .5'/></a>
             <br/>
         </td>
         <td>
             (70/70)<br/>
             <a class='perfect' href='super/401-470/thumbnails/inner/401.5.png' title='' target='_blank'>401</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/402.5.png' title='' target='_blank'>402</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/402.4.png' title='' target='_blank'>402</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/403.5.png' title='' target='_blank'>403</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/404.5.png' title='' target='_blank'>404</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/405.5.png' title='' target='_blank'>405</a>
@@ -938,26 +962,26 @@ layout: default
             <a class='perfect' href='super/401-470/thumbnails/inner/413.5.png' title='' target='_blank'>413</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/414.5.png' title='' target='_blank'>414</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/415.5.png' title='' target='_blank'>415</a>
-            <a class='enough' href='super/401-470/thumbnails/inner/416.4.png' title='' target='_blank'>416</a>
+            <a class='perfect' href='super/401-470/thumbnails/inner/416.5.png' title='' target='_blank'>416</a>
             <a class='enough' href='super/401-470/thumbnails/inner/417.4.png' title='' target='_blank'>417</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/418.5.png' title='' target='_blank'>418</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/418.4.png' title='' target='_blank'>418</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/419.5.png' title='' target='_blank'>419</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/420.5.png' title='' target='_blank'>420</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/421.5.png' title='' target='_blank'>421</a>
-            <a class='enough' href='super/401-470/thumbnails/inner/422.4.png' title='' target='_blank'>422</a>
+            <a class='perfect' href='super/401-470/thumbnails/inner/422.5.png' title='' target='_blank'>422</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/423.5.png' title='' target='_blank'>423</a>
             <a class='enough' href='super/401-470/thumbnails/inner/424.4.png' title='' target='_blank'>424</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/425.5.png' title='' target='_blank'>425</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/426.5.png' title='' target='_blank'>426</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/427.5.png' title='' target='_blank'>427</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/425.4.png' title='' target='_blank'>425</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/426.4.png' title='' target='_blank'>426</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/427.4.png' title='' target='_blank'>427</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/428.5.png' title='' target='_blank'>428</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/429.5.png' title='' target='_blank'>429</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/430.5.png' title='' target='_blank'>430</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/430.4.png' title='' target='_blank'>430</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/431.5.png' title='' target='_blank'>431</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/432.5.png' title='' target='_blank'>432</a>
             <a class='enough' href='super/401-470/thumbnails/inner/433.4.png' title='' target='_blank'>433</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/434.5.png' title='' target='_blank'>434</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/435.5.png' title='' target='_blank'>435</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/435.4.png' title='' target='_blank'>435</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/436.5.png' title='' target='_blank'>436</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/437.5.png' title='' target='_blank'>437</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/438.5.png' title='' target='_blank'>438</a>
@@ -968,13 +992,13 @@ layout: default
             <a class='perfect' href='super/401-470/thumbnails/inner/443.5.png' title='' target='_blank'>443</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/444.5.png' title='' target='_blank'>444</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/445.5.png' title='' target='_blank'>445</a>
-            <a class='enough' href='super/401-470/thumbnails/inner/446.4.png' title='' target='_blank'>446</a>
+            <a class='perfect' href='super/401-470/thumbnails/inner/446.5.png' title='' target='_blank'>446</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/447.5.png' title='' target='_blank'>447</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/448.5.png' title='' target='_blank'>448</a>
             <a class='enough' href='super/401-470/thumbnails/inner/449.4.png' title='' target='_blank'>449</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/450.5.png' title='' target='_blank'>450</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/451.5.png' title='' target='_blank'>451</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/452.5.png' title='' target='_blank'>452</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/452.4.png' title='' target='_blank'>452</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/453.5.png' title='' target='_blank'>453</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/454.5.png' title='' target='_blank'>454</a>
             <a class='enough' href='super/401-470/thumbnails/inner/455.4.png' title='' target='_blank'>455</a>
@@ -982,13 +1006,13 @@ layout: default
             <a class='perfect' href='super/401-470/thumbnails/inner/457.5.png' title='' target='_blank'>457</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/458.5.png' title='' target='_blank'>458</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/459.5.png' title='' target='_blank'>459</a>
-            <a class='enough' href='super/401-470/thumbnails/inner/460.4.png' title='' target='_blank'>460</a>
+            <a class='perfect' href='super/401-470/thumbnails/inner/460.5.png' title='' target='_blank'>460</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/461.5.png' title='' target='_blank'>461</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/462.5.png' title='' target='_blank'>462</a>
-            <a class='perfect' href='super/401-470/thumbnails/inner/463.5.png' title='' target='_blank'>463</a>
+            <a class='enough' href='super/401-470/thumbnails/inner/463.4.png' title='' target='_blank'>463</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/464.5.png' title='' target='_blank'>464</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/465.5.png' title='' target='_blank'>465</a>
-            <a class='enough' href='super/401-470/thumbnails/inner/466.4.png' title='' target='_blank'>466</a>
+            <a class='perfect' href='super/401-470/thumbnails/inner/466.5.png' title='' target='_blank'>466</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/467.5.png' title='' target='_blank'>467</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/468.5.png' title='' target='_blank'>468</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/469.5.png' title='' target='_blank'>469</a>
