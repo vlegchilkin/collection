@@ -64,5 +64,6 @@ a:active {
 
 .missed {
   @extend .item;
-  background-color: grey;
+  background-color: transparent;
+  color: red;
 }
