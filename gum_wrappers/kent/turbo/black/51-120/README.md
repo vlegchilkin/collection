@@ -24,25 +24,56 @@ image orientation - BMW 82.
 
 ### My collection
 
-|       Year        |                                                  1                                                   |                                                  2                                                   |                                                  3                                                   |                                                  4                                                   |                                                  5                                                   |
-|:-----------------:|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
-| 1987 09 - 1988 06 | [<img src='thumbnails/outer/1987_09_-_1988_06.1.4.png'>](thumbnails/outer/1987_09_-_1988_06.1.4.png) | [<img src='thumbnails/outer/1987_09_-_1988_06.2.4.png'>](thumbnails/outer/1987_09_-_1988_06.2.4.png) | [<img src='thumbnails/outer/1987_09_-_1988_06.3.0.png'>](thumbnails/outer/1987_09_-_1988_06.3.0.png) | [<img src='thumbnails/outer/1987_09_-_1988_06.4.0.png'>](thumbnails/outer/1987_09_-_1988_06.4.0.png) | [<img src='thumbnails/outer/1987_09_-_1988_06.5.4.png'>](thumbnails/outer/1987_09_-_1988_06.5.4.png) |
-| 1988 07 - 1990 06 | [<img src='thumbnails/outer/1988_07_-_1990_06.1.5.png'>](thumbnails/outer/1988_07_-_1990_06.1.5.png) | [<img src='thumbnails/outer/1988_07_-_1990_06.2.4.png'>](thumbnails/outer/1988_07_-_1990_06.2.4.png) | [<img src='thumbnails/outer/1988_07_-_1990_06.3.4.png'>](thumbnails/outer/1988_07_-_1990_06.3.4.png) | [<img src='thumbnails/outer/1988_07_-_1990_06.4.4.png'>](thumbnails/outer/1988_07_-_1990_06.4.4.png) | [<img src='thumbnails/outer/1988_07_-_1990_06.5.4.png'>](thumbnails/outer/1988_07_-_1990_06.5.4.png) |
-| 1990 07 - 1991 03 | [<img src='thumbnails/outer/1990_07_-_1991_03.1.5.png'>](thumbnails/outer/1990_07_-_1991_03.1.5.png) | [<img src='thumbnails/outer/1990_07_-_1991_03.2.0.png'>](thumbnails/outer/1990_07_-_1991_03.2.0.png) | [<img src='thumbnails/outer/1990_07_-_1991_03.3.0.png'>](thumbnails/outer/1990_07_-_1991_03.3.0.png) | [<img src='thumbnails/outer/1990_07_-_1991_03.4.0.png'>](thumbnails/outer/1990_07_-_1991_03.4.0.png) | [<img src='thumbnails/outer/1990_07_-_1991_03.5.0.png'>](thumbnails/outer/1990_07_-_1991_03.5.0.png) |
+|                            Release                            |                                                             1                                                              |                                                             2                                                              |                                                             3                                                              |                                                             4                                                              |                                                             5                                                              |
+|:-------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+| 1987.9 987 White_colour_no_meyva_aromali_and_no_mini_posterli | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                 1987.10 1087 No_meyva_aromali                 | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                 1988.1 0188 No_meyva_aromali                  | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                 1988.3 0388 No_meyva_aromali                  | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                 1988.4 0488 No_meyva_aromali                  | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1988.6 0688 Bht                        |          [<img src='thumbnails/outer/1988_06{0688}[5]BHT/1.5.png'>](thumbnails/outer/1988_06{0688}[5]BHT/1.5.png)          |          [<img src='thumbnails/outer/1988_06{0688}[5]BHT/2.5.png'>](thumbnails/outer/1988_06{0688}[5]BHT/2.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1988_06{0688}[5]BHT/5.5.png'>](thumbnails/outer/1988_06{0688}[5]BHT/5.5.png)          |
+|                        1988.9 0988 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                       1988.10 1088 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                       1988.11 1188 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1988_11{1188}[5]BHT/3.5.png'>](thumbnails/outer/1988_11{1188}[5]BHT/3.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.1 0189 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.3 0389 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.4 0489 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.5 0589 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.6 0689 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.7 0789 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1989.8 0889 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1989_08{0889}[5]BHT/3.5.png'>](thumbnails/outer/1989_08{0889}[5]BHT/3.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1989_08{0889}[5]BHT/5.5.png'>](thumbnails/outer/1989_08{0889}[5]BHT/5.5.png)          |
+|                       1989.10 1089 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                       1989.11 1189 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                       1989.12 1289 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1989_12{1289}[5]BHT/2.5.png'>](thumbnails/outer/1989_12{1289}[5]BHT/2.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1989_12{1289}[5]BHT/4.5.png'>](thumbnails/outer/1989_12{1289}[5]BHT/4.5.png)          |          [<img src='thumbnails/outer/1989_12{1289}[5]BHT/5.5.png'>](thumbnails/outer/1989_12{1289}[5]BHT/5.5.png)          |
+|                        1990.1 0190 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |          [<img src='thumbnails/outer/1990_01{0190}[5]BHT/2.5.png'>](thumbnails/outer/1990_01{0190}[5]BHT/2.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1990.3 0390 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1990.5 0590 Bht                        |          [<img src='thumbnails/outer/1990_05{0590}[5]BHT/1.5.png'>](thumbnails/outer/1990_05{0590}[5]BHT/1.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1990.6 0690 Bht                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1990.7 0790 Bha                        |          [<img src='thumbnails/outer/1990_07{0790}[5]BHA/1.5.png'>](thumbnails/outer/1990_07{0790}[5]BHA/1.5.png)          | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1990.8 0890 Bha                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                       1990.10 1090 Bha                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                       1990.12 1290 Bha                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1991.1 0191 Bha                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|                        1991.3 0391 Bha                        | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
 
 <span style="display: inline-block;">
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/51.hair.5.png' title='Hair'><img src='thumbnails/inner/51.hair.5.png' alt='Hair'></a>
-	<a href='thumbnails/inner/51.sticker.4.png' title='Sticker'><img src='thumbnails/inner/51.sticker.4.png' alt='Sticker'></a>
 	<a href='thumbnails/inner/51.sticker_small.3.png' title='Sticker small'><img src='thumbnails/inner/51.sticker_small.3.png' alt='Sticker small'></a>
+	<a href='thumbnails/inner/51.sticker.4.png' title='Sticker'><img src='thumbnails/inner/51.sticker.4.png' alt='Sticker'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/52.5.png' title=''><img src='thumbnails/inner/52.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/53.4.png' title=''><img src='thumbnails/inner/53.4.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/54.5.png' title=''><img src='thumbnails/inner/54.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/55.4.png' title=''><img src='thumbnails/inner/55.4.png' alt=''></a>
@@ -50,39 +81,50 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/56.5.png' title=''><img src='thumbnails/inner/56.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/57.5.png' title=''><img src='thumbnails/inner/57.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/57.cleaned.4.png' title='Cleaned'><img src='thumbnails/inner/57.cleaned.4.png' alt='Cleaned'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/58.3.png' title=''><img src='thumbnails/inner/58.3.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/58.square.5.png' title='Square'><img src='thumbnails/inner/58.square.5.png' alt='Square'></a>
 	<a href='thumbnails/inner/58.square_dirty.4.png' title='Square dirty'><img src='thumbnails/inner/58.square_dirty.4.png' alt='Square dirty'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/59.5.png' title=''><img src='thumbnails/inner/59.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/60.5.png' title=''><img src='thumbnails/inner/60.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/61.5.png' title=''><img src='thumbnails/inner/61.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/62.5.png' title=''><img src='thumbnails/inner/62.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/63.5.png' title=''><img src='thumbnails/inner/63.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/64.5.png' title=''><img src='thumbnails/inner/64.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/65.5.png' title=''><img src='thumbnails/inner/65.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/66.5.png' title=''><img src='thumbnails/inner/66.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/67.4.png' title=''><img src='thumbnails/inner/67.4.png' alt=''></a>
@@ -90,72 +132,93 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/68.5.png' title=''><img src='thumbnails/inner/68.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/69.5.png' title=''><img src='thumbnails/inner/69.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/69.dot.5.png' title='Dot'><img src='thumbnails/inner/69.dot.5.png' alt='Dot'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/70.5.png' title=''><img src='thumbnails/inner/70.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/70.dirty.5.png' title='Dirty'><img src='thumbnails/inner/70.dirty.5.png' alt='Dirty'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/71.5.png' title=''><img src='thumbnails/inner/71.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/71.green.5.png' title='Green'><img src='thumbnails/inner/71.green.5.png' alt='Green'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/72.5.png' title=''><img src='thumbnails/inner/72.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/73.5.png' title=''><img src='thumbnails/inner/73.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/74.5.png' title=''><img src='thumbnails/inner/74.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/74.red_dot.5.png' title='Red dot'><img src='thumbnails/inner/74.red_dot.5.png' alt='Red dot'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/75.5.png' title=''><img src='thumbnails/inner/75.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/76.5.png' title=''><img src='thumbnails/inner/76.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/77.5.png' title=''><img src='thumbnails/inner/77.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/77.mark.5.png' title='Mark'><img src='thumbnails/inner/77.mark.5.png' alt='Mark'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/78.5.png' title=''><img src='thumbnails/inner/78.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/79.5.png' title=''><img src='thumbnails/inner/79.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/80.5.png' title=''><img src='thumbnails/inner/80.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
+	<a href='thumbnails/inner/missed.png' title=''><img src='thumbnails/inner/missed.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/81.green_0.4.png' title='Green 0'><img src='thumbnails/inner/81.green_0.4.png' alt='Green 0'></a>
-	<a href='thumbnails/inner/81.green_1.4.png' title='Green 1'><img src='thumbnails/inner/81.green_1.4.png' alt='Green 1'></a>
 	<a href='thumbnails/inner/81.green_2.4.png' title='Green 2'><img src='thumbnails/inner/81.green_2.4.png' alt='Green 2'></a>
+	<a href='thumbnails/inner/81.green_1.4.png' title='Green 1'><img src='thumbnails/inner/81.green_1.4.png' alt='Green 1'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/82.5.png' title=''><img src='thumbnails/inner/82.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/83.5.png' title=''><img src='thumbnails/inner/83.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/84.4.png' title=''><img src='thumbnails/inner/84.4.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/85.3.png' title=''><img src='thumbnails/inner/85.3.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/85.dirty.5.png' title='Dirty'><img src='thumbnails/inner/85.dirty.5.png' alt='Dirty'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/86.5.png' title=''><img src='thumbnails/inner/86.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/86.circle.5.png' title='Circle'><img src='thumbnails/inner/86.circle.5.png' alt='Circle'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/87.3.png' title=''><img src='thumbnails/inner/87.3.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/87.rainbow.5.png' title='Rainbow'><img src='thumbnails/inner/87.rainbow.5.png' alt='Rainbow'></a>
 </span>
 <span style="display: inline-block;">
@@ -164,30 +227,37 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/89.5.png' title=''><img src='thumbnails/inner/89.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/90.5.png' title=''><img src='thumbnails/inner/90.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/90.cleaned.5.png' title='Cleaned'><img src='thumbnails/inner/90.cleaned.5.png' alt='Cleaned'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/91.5.png' title=''><img src='thumbnails/inner/91.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/92.5.png' title=''><img src='thumbnails/inner/92.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/93.5.png' title=''><img src='thumbnails/inner/93.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/94.5.png' title=''><img src='thumbnails/inner/94.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/95.5.png' title=''><img src='thumbnails/inner/95.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/96.5.png' title=''><img src='thumbnails/inner/96.5.png' alt=''></a>
-	<a href='thumbnails/inner/96.dirty.5.png' title='Dirty'><img src='thumbnails/inner/96.dirty.5.png' alt='Dirty'></a>
 	<a href='thumbnails/inner/96.x.4.png' title='X'><img src='thumbnails/inner/96.x.4.png' alt='X'></a>
+	<a href='thumbnails/inner/96.dirty.5.png' title='Dirty'><img src='thumbnails/inner/96.dirty.5.png' alt='Dirty'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/97.4.png' title=''><img src='thumbnails/inner/97.4.png' alt=''></a>
@@ -195,12 +265,15 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/98.5.png' title=''><img src='thumbnails/inner/98.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/99.5.png' title=''><img src='thumbnails/inner/99.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/100.5.png' title=''><img src='thumbnails/inner/100.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/101.5.png' title=''><img src='thumbnails/inner/101.5.png' alt=''></a>
@@ -208,9 +281,11 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/102.5.png' title=''><img src='thumbnails/inner/102.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/103.5.png' title=''><img src='thumbnails/inner/103.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/104.5.png' title=''><img src='thumbnails/inner/104.5.png' alt=''></a>
@@ -226,13 +301,16 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/107.5.png' title=''><img src='thumbnails/inner/107.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/107.rainbow.5.png' title='Rainbow'><img src='thumbnails/inner/107.rainbow.5.png' alt='Rainbow'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/108.4.png' title=''><img src='thumbnails/inner/108.4.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/109.4.png' title=''><img src='thumbnails/inner/109.4.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/110.5.png' title=''><img src='thumbnails/inner/110.5.png' alt=''></a>
@@ -248,35 +326,43 @@ image orientation - BMW 82.
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/113.3.png' title=''><img src='thumbnails/inner/113.3.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/113.rainbow.5.png' title='Rainbow'><img src='thumbnails/inner/113.rainbow.5.png' alt='Rainbow'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/114.3.png' title=''><img src='thumbnails/inner/114.3.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/114.green.5.png' title='Green'><img src='thumbnails/inner/114.green.5.png' alt='Green'></a>
 	<a href='thumbnails/inner/114.green_1.5.png' title='Green 1'><img src='thumbnails/inner/114.green_1.5.png' alt='Green 1'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/115.5.png' title=''><img src='thumbnails/inner/115.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/116.5.png' title=''><img src='thumbnails/inner/116.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/116.circle.5.png' title='Circle'><img src='thumbnails/inner/116.circle.5.png' alt='Circle'></a>
 	<a href='thumbnails/inner/116.line.5.png' title='Line'><img src='thumbnails/inner/116.line.5.png' alt='Line'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/117.5.png' title=''><img src='thumbnails/inner/117.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/117.white.5.png' title='White'><img src='thumbnails/inner/117.white.5.png' alt='White'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/118.5.png' title=''><img src='thumbnails/inner/118.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/119.5.png' title=''><img src='thumbnails/inner/119.5.png' alt=''></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/119.before_clean.3.png' title='Before clean'><img src='thumbnails/inner/119.before_clean.3.png' alt='Before clean'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/120.5.png' title=''><img src='thumbnails/inner/120.5.png' alt=''></a>
-	<a href='thumbnails/inner/120.blue.5.png' title='Blue'><img src='thumbnails/inner/120.blue.5.png' alt='Blue'></a>
+	<a href='thumbnails/inner/missed.png' title='X'><img src='thumbnails/inner/missed.png' alt='X'></a>
 	<a href='thumbnails/inner/120.footballer.3.png' title='Footballer'><img src='thumbnails/inner/120.footballer.3.png' alt='Footballer'></a>
+	<a href='thumbnails/inner/120.blue.5.png' title='Blue'><img src='thumbnails/inner/120.blue.5.png' alt='Blue'></a>
 </span>
 

@@ -98,6 +98,8 @@ class OuterRelease:
 
 
 MISSED_PNG = "missed.png"
+MISSED_OUTER_PNG = "missed_outer.png"
+MISSED_ROOT = "/collection/gum_wrappers/kent/turbo/"
 
 
 def outers(index_root: Path, series_context: Path):
@@ -138,12 +140,16 @@ def outers(index_root: Path, series_context: Path):
         readme_section += f"|{title}|"
         for opt in opt_column:
             if opt <= release.total:
-                filename, quality = release.collection.get(opt, (f"../{MISSED_PNG}", 0))
+                filename, quality = release.collection.get(opt, (None, 0))
 
-                ref = f"thumbnails/outer/{release.folder}/{filename}"
+                if filename is not None:
+                    ref = f"thumbnails/outer/{release.folder}/{filename}"
+                    index_ref = f"{series_context}/{ref}"
+                else:
+                    ref = index_ref = f"{MISSED_ROOT}/{MISSED_OUTER_PNG}"
                 index_section += (
-                    f"\n{INDENT}<a href='{series_context}/{ref}' target='_blank'>"
-                    f"<img src='{series_context}/{ref}' width='50' alt='{title}.{opt}'/>"
+                    f"\n{INDENT}<a href='{index_ref}' target='_blank'>"
+                    f"<img src='{index_ref}' width='50' alt='{title}.{opt}'/>"
                     f"</a>"
                 )
                 readme_section += f"[<img src='{ref}'>]({ref})|"
@@ -202,5 +208,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs and root.endswith("super/401-470"):
+        if "thumbnails" in dirs and "black" in root:
             build(index_file, Path(root))
