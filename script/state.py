@@ -43,7 +43,7 @@ def inners(index_root: Path, series_context: Path):
         lo, hi = min(numbers), max(numbers)
 
     additional_groups = [k for k, v in numbers.items() if k is not None and len(v) > 3]
-    main_groups = [None] + sorted(additional_groups)
+    main_groups = ([None] if None in numbers else []) + sorted(additional_groups)
 
     index_section = ""
     for idx, option in enumerate(main_groups):
@@ -132,7 +132,7 @@ def outers(index_root: Path, series_context: Path):
     )
 
     for release in releases:
-        product_no = f" {release.product_no.replace("_", "")}" if release.product_no is not None else ""
+        product_no = f" [{release.product_no.replace("_", "")}]" if release.product_no is not None else ""
         caption = f" {release.caption.replace("_", " ")}" if release.caption is not None else ""
 
         title = f"{release.year}.{release.month}{product_no}{caption}"
@@ -208,5 +208,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs and "black" in root:
+        if "thumbnails" in dirs and "sport/141-" in root:
             build(index_file, Path(root))
