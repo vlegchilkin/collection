@@ -89,8 +89,8 @@ OUTER_REG = re.compile(r"^(\d{4})_(\d{2})(\{.*})?\[(\d{1,2})](.*)?$")
 @dataclasses.dataclass
 class OuterRelease:
     folder: str
-    year: int
-    month: int
+    year: str
+    month: str
     product_no: str | None
     total: int
     caption: str | None
@@ -115,8 +115,8 @@ def outers(index_root: Path, series_context: Path):
         releases.append(
             OuterRelease(
                 folder=folder,
-                year=int(groups[0]),
-                month=int(groups[1]),
+                year=groups[0],
+                month=groups[1],
                 product_no=groups[2].removeprefix("{").removesuffix("}") if groups[2] else None,
                 total=int(groups[3]),
                 caption=groups[4],
@@ -133,7 +133,7 @@ def outers(index_root: Path, series_context: Path):
 
     for release in releases:
         product_no = f" {release.product_no.replace("_", "")}" if release.product_no is not None else ""
-        caption = f" {release.caption.capitalize()}" if release.caption is not None else ""
+        caption = f" {release.caption.replace("_", " ")}" if release.caption is not None else ""
 
         title = f"{release.year}.{release.month}{product_no}{caption}"
         index_section += f"{title}<br/>"
