@@ -208,5 +208,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs and "black/1-" in root:
+        if "thumbnails" in dirs and "black/51-" in root:
             build(index_file, Path(root))
