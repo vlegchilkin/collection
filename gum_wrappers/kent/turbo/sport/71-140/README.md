@@ -25,7 +25,7 @@ of prototypes. Photo with a natural background is small. The series is considere
 	<a href='thumbnails/inner/73.5.png' title=''><img src='thumbnails/inner/73.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/74.5.png' title=''><img src='thumbnails/inner/74.5.png' alt=''></a>
+	<a href='thumbnails/inner/74.4.png' title=''><img src='thumbnails/inner/74.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/75.5.png' title=''><img src='thumbnails/inner/75.5.png' alt=''></a>
@@ -55,7 +55,7 @@ of prototypes. Photo with a natural background is small. The series is considere
 	<a href='thumbnails/inner/83.5.png' title=''><img src='thumbnails/inner/83.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/84.5.png' title=''><img src='thumbnails/inner/84.5.png' alt=''></a>
+	<a href='thumbnails/inner/84.4.png' title=''><img src='thumbnails/inner/84.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/85.5.png' title=''><img src='thumbnails/inner/85.5.png' alt=''></a>
@@ -88,7 +88,7 @@ of prototypes. Photo with a natural background is small. The series is considere
 	<a href='thumbnails/inner/94.5.png' title=''><img src='thumbnails/inner/94.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/95.5.png' title=''><img src='thumbnails/inner/95.5.png' alt=''></a>
+	<a href='thumbnails/inner/95.4.png' title=''><img src='thumbnails/inner/95.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/96.5.png' title=''><img src='thumbnails/inner/96.5.png' alt=''></a>
@@ -116,10 +116,10 @@ of prototypes. Photo with a natural background is small. The series is considere
 	<a href='thumbnails/inner/103.5.png' title=''><img src='thumbnails/inner/103.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/104.5.png' title=''><img src='thumbnails/inner/104.5.png' alt=''></a>
+	<a href='thumbnails/inner/104.4.png' title=''><img src='thumbnails/inner/104.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/105.5.png' title=''><img src='thumbnails/inner/105.5.png' alt=''></a>
+	<a href='thumbnails/inner/105.4.png' title=''><img src='thumbnails/inner/105.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/106.5.png' title=''><img src='thumbnails/inner/106.5.png' alt=''></a>
@@ -194,7 +194,7 @@ of prototypes. Photo with a natural background is small. The series is considere
 	<a href='thumbnails/inner/129.5.png' title=''><img src='thumbnails/inner/129.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/130.5.png' title=''><img src='thumbnails/inner/130.5.png' alt=''></a>
+	<a href='thumbnails/inner/130.4.png' title=''><img src='thumbnails/inner/130.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/131.5.png' title=''><img src='thumbnails/inner/131.5.png' alt=''></a>

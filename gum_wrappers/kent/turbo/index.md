@@ -1597,7 +1597,7 @@ layout: default
             <a class='perfect' href='sport/71-140/thumbnails/inner/71.5.png' title='' target='_blank'>71</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/74.5.png' title='' target='_blank'>74</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/74.4.png' title='' target='_blank'>74</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/75.5.png' title='' target='_blank'>75</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/76.5.png' title='' target='_blank'>76</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/77.5.png' title='' target='_blank'>77</a>
@@ -1607,7 +1607,7 @@ layout: default
             <a class='perfect' href='sport/71-140/thumbnails/inner/81.5.png' title='' target='_blank'>81</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/82.5.png' title='' target='_blank'>82</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/83.5.png' title='' target='_blank'>83</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/84.5.png' title='' target='_blank'>84</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/84.4.png' title='' target='_blank'>84</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/85.5.png' title='' target='_blank'>85</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/86.5.png' title='' target='_blank'>86</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/87.5.png' title='' target='_blank'>87</a>
@@ -1618,7 +1618,7 @@ layout: default
             <a class='enough' href='sport/71-140/thumbnails/inner/92.4.png' title='' target='_blank'>92</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/93.5.png' title='' target='_blank'>93</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/94.5.png' title='' target='_blank'>94</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/95.5.png' title='' target='_blank'>95</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/95.4.png' title='' target='_blank'>95</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/96.5.png' title='' target='_blank'>96</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/97.5.png' title='' target='_blank'>97</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/98.5.png' title='' target='_blank'>98</a>
@@ -1627,8 +1627,8 @@ layout: default
             <a class='perfect' href='sport/71-140/thumbnails/inner/101.5.png' title='' target='_blank'>101</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/102.5.png' title='' target='_blank'>102</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/103.5.png' title='' target='_blank'>103</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/104.5.png' title='' target='_blank'>104</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/105.5.png' title='' target='_blank'>105</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/104.4.png' title='' target='_blank'>104</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/105.4.png' title='' target='_blank'>105</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/106.5.png' title='' target='_blank'>106</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/107.5.png' title='' target='_blank'>107</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/108.5.png' title='' target='_blank'>108</a>
@@ -1653,7 +1653,7 @@ layout: default
             <a class='perfect' href='sport/71-140/thumbnails/inner/127.5.png' title='' target='_blank'>127</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/128.5.png' title='' target='_blank'>128</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/129.5.png' title='' target='_blank'>129</a>
-            <a class='perfect' href='sport/71-140/thumbnails/inner/130.5.png' title='' target='_blank'>130</a>
+            <a class='enough' href='sport/71-140/thumbnails/inner/130.4.png' title='' target='_blank'>130</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/131.5.png' title='' target='_blank'>131</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/132.5.png' title='' target='_blank'>132</a>
             <a class='enough' href='sport/71-140/thumbnails/inner/133.4.png' title='' target='_blank'>133</a>
@@ -1673,47 +1673,124 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1998 01 - 2000 03<br/>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.1.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.1.0.png' width='50' alt='1998_01_-_2000_03.1'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.2.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.2.0.png' width='50' alt='1998_01_-_2000_03.2'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.3.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.3.0.png' width='50' alt='1998_01_-_2000_03.3'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.4.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.4.5.png' width='50' alt='1998_01_-_2000_03.4'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.5.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.5.0.png' width='50' alt='1998_01_-_2000_03.5'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.6.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.6.0.png' width='50' alt='1998_01_-_2000_03.6'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.7.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.7.0.png' width='50' alt='1998_01_-_2000_03.7'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.8.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.8.0.png' width='50' alt='1998_01_-_2000_03.8'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.9.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.9.0.png' width='50' alt='1998_01_-_2000_03.9'/></a>
-            <a href='sport/141-210/thumbnails/outer/1998_01_-_2000_03.10.0.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01_-_2000_03.10.0.png' width='50' alt='1998_01_-_2000_03.10'/></a>
+            1998.1 A-98 <br/>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/7.4.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/7.4.png' width='50' alt='1998.1 A-98 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/../missed.png' width='50' alt='1998.1 A-98 .10'/></a>
+            <br/>1998.3 C-98 <br/>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/../missed.png' width='50' alt='1998.3 C-98 .10'/></a>
+            <br/>1998.4 D-98 <br/>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/../missed.png' width='50' alt='1998.4 D-98 .10'/></a>
+            <br/>1998.5 E-98 <br/>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/../missed.png' width='50' alt='1998.5 E-98 .10'/></a>
+            <br/>1998.6 F-98 <br/>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/1.5.png' width='50' alt='1998.6 F-98 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/3.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/3.5.png' width='50' alt='1998.6 F-98 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/5.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/5.5.png' width='50' alt='1998.6 F-98 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/../missed.png' width='50' alt='1998.6 F-98 .10'/></a>
+            <br/>1998.7 G-98 <br/>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/../missed.png' width='50' alt='1998.7 G-98 .10'/></a>
+            <br/>1999.5 E-99 <br/>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/1.5.png' width='50' alt='1999.5 E-99 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/2.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/2.5.png' width='50' alt='1999.5 E-99 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' width='50' alt='1999.5 E-99 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/4.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/4.5.png' width='50' alt='1999.5 E-99 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' width='50' alt='1999.5 E-99 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/6.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/6.5.png' width='50' alt='1999.5 E-99 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' width='50' alt='1999.5 E-99 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' width='50' alt='1999.5 E-99 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/../missed.png' width='50' alt='1999.5 E-99 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/10.4.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/10.4.png' width='50' alt='1999.5 E-99 .10'/></a>
+            <br/>2000.3 C-2000 <br/>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .1'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .2'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .3'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .4'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .5'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .6'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .7'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .8'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .9'/></a>
+            <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/../missed.png' width='50' alt='2000.3 C-2000 .10'/></a>
             <br/>
         </td>
         <td>
             (70/70)<br/>
             <a class='perfect' href='sport/141-210/thumbnails/inner/141.5.png' title='' target='_blank'>141</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/142.4.png' title='' target='_blank'>142</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/142.5.png' title='' target='_blank'>142</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/143.5.png' title='' target='_blank'>143</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/144.4.png' title='' target='_blank'>144</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/145.4.png' title='' target='_blank'>145</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/144.5.png' title='' target='_blank'>144</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/145.5.png' title='' target='_blank'>145</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/146.5.png' title='' target='_blank'>146</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/147.5.png' title='' target='_blank'>147</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/148.5.png' title='' target='_blank'>148</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/149.5.png' title='' target='_blank'>149</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/150.4.png' title='' target='_blank'>150</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/150.5.png' title='' target='_blank'>150</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/151.5.png' title='' target='_blank'>151</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/152.5.png' title='' target='_blank'>152</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/153.4.png' title='' target='_blank'>153</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/154.4.png' title='' target='_blank'>154</a>
-            <a class='good' href='sport/141-210/thumbnails/inner/155.3.png' title='' target='_blank'>155</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/153.5.png' title='' target='_blank'>153</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/154.5.png' title='' target='_blank'>154</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/155.5.png' title='' target='_blank'>155</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/156.5.png' title='' target='_blank'>156</a>
             <a class='enough' href='sport/141-210/thumbnails/inner/157.4.png' title='' target='_blank'>157</a>
-            <a class='perfect' href='sport/141-210/thumbnails/inner/158.5.png' title='' target='_blank'>158</a>
+            <a class='enough' href='sport/141-210/thumbnails/inner/158.4.png' title='' target='_blank'>158</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/159.5.png' title='' target='_blank'>159</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/160.5.png' title='' target='_blank'>160</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/161.5.png' title='' target='_blank'>161</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/162.5.png' title='' target='_blank'>162</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/163.5.png' title='' target='_blank'>163</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/164.4.png' title='' target='_blank'>164</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/165.4.png' title='' target='_blank'>165</a>
-            <a class='perfect' href='sport/141-210/thumbnails/inner/166.5.png' title='' target='_blank'>166</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/164.5.png' title='' target='_blank'>164</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/165.5.png' title='' target='_blank'>165</a>
+            <a class='enough' href='sport/141-210/thumbnails/inner/166.4.png' title='' target='_blank'>166</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/167.5.png' title='' target='_blank'>167</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/168.5.png' title='' target='_blank'>168</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/169.5.png' title='' target='_blank'>169</a>
@@ -1722,14 +1799,14 @@ layout: default
             <a class='perfect' href='sport/141-210/thumbnails/inner/172.5.png' title='' target='_blank'>172</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/173.5.png' title='' target='_blank'>173</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/174.5.png' title='' target='_blank'>174</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/175.4.png' title='' target='_blank'>175</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/176.4.png' title='' target='_blank'>176</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/177.4.png' title='' target='_blank'>177</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/175.5.png' title='' target='_blank'>175</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/176.5.png' title='' target='_blank'>176</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/177.5.png' title='' target='_blank'>177</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/178.5.png' title='' target='_blank'>178</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/179.5.png' title='' target='_blank'>179</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/180.5.png' title='' target='_blank'>180</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/181.5.png' title='' target='_blank'>181</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/182.4.png' title='' target='_blank'>182</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/182.5.png' title='' target='_blank'>182</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/183.5.png' title='' target='_blank'>183</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/184.5.png' title='' target='_blank'>184</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/185.5.png' title='' target='_blank'>185</a>
@@ -1741,7 +1818,7 @@ layout: default
             <a class='perfect' href='sport/141-210/thumbnails/inner/191.5.png' title='' target='_blank'>191</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/192.5.png' title='' target='_blank'>192</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/193.5.png' title='' target='_blank'>193</a>
-            <a class='perfect' href='sport/141-210/thumbnails/inner/194.5.png' title='' target='_blank'>194</a>
+            <a class='enough' href='sport/141-210/thumbnails/inner/194.4.png' title='' target='_blank'>194</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/195.5.png' title='' target='_blank'>195</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/196.5.png' title='' target='_blank'>196</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/197.5.png' title='' target='_blank'>197</a>
@@ -1749,12 +1826,12 @@ layout: default
             <a class='perfect' href='sport/141-210/thumbnails/inner/199.5.png' title='' target='_blank'>199</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/200.5.png' title='' target='_blank'>200</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/201.5.png' title='' target='_blank'>201</a>
-            <a class='perfect' href='sport/141-210/thumbnails/inner/202.5.png' title='' target='_blank'>202</a>
+            <a class='enough' href='sport/141-210/thumbnails/inner/202.4.png' title='' target='_blank'>202</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/203.5.png' title='' target='_blank'>203</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/204.5.png' title='' target='_blank'>204</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/205.5.png' title='' target='_blank'>205</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/206.5.png' title='' target='_blank'>206</a>
-            <a class='enough' href='sport/141-210/thumbnails/inner/207.4.png' title='' target='_blank'>207</a>
+            <a class='perfect' href='sport/141-210/thumbnails/inner/207.5.png' title='' target='_blank'>207</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/208.5.png' title='' target='_blank'>208</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/209.5.png' title='' target='_blank'>209</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/210.5.png' title='' target='_blank'>210</a>
