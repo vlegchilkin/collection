@@ -38,28 +38,28 @@ a:active {
 
 .perfect {
   @extend .item;
-  background-color: darkgreen;
+  background-color: black;
 }
 
 .enough {
   @extend .item;
-  background-color: green;
+  background-color: darkgreen;
 }
 
 
 .good {
   @extend .item;
-  background-color: greenyellow;
+  background-color: yellow;
 }
 
 .poor {
   @extend .item;
-  background-color: yellow;
+  background-color: orange;
 }
 
 .bad {
   @extend .item;
-  background-color: orange;
+  background-color: grey;
 }
 
 .missed {
