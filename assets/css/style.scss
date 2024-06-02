@@ -49,20 +49,20 @@ a:active {
 
 .good {
   @extend .item;
-  background-color: yellow;
+  background-color: orange;
 }
 
 .poor {
   @extend .item;
-  background-color: orange;
+  background-color: darkorange;
 }
 
 .bad {
   @extend .item;
-  background-color: grey;
+  background-color: brown;
 }
 
 .missed {
   @extend .item;
-  background-color: brown;
+  background-color: grey;
 }
