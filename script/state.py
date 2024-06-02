@@ -56,11 +56,11 @@ def inners(index_root: Path, series_context: Path):
         for number in range(lo, hi + 1):
             filename, quality = numbers[option][number] if number in numbers[option] else (None, None)
             counter += 1 if filename else 0
-            inner_view_url = f"thumbnails/inner/{filename or MISSED_PNG}"
+            inner_view_url = f"{series_context}/thumbnails/inner/{filename}" if filename else MISSED_PNG
             option_section += (
                 f"\n{INDENT}"
                 f"<a class='{qualities[quality or 0]}' "
-                f"href='{series_context}/{inner_view_url}' "
+                f"href='{inner_view_url}' "
                 f"title='{opt_title}' target='_blank'>{number}</a>"
             )
         index_section += f"{opt_title} ({counter}/{hi - lo + 1})<br/>" + option_section
@@ -72,7 +72,7 @@ def inners(index_root: Path, series_context: Path):
         for option in groups:
             filename, quality = numbers[option][number] if number in numbers[option] else (None, None)
             opt_title = (option or "").replace("_", " ").capitalize()
-            inner_view_url = f"thumbnails/inner/{filename or MISSED_PNG}"
+            inner_view_url = f"thumbnails/inner/{filename}" if filename else f"{MISSED_ROOT}/{MISSED_PNG}"
             readme_section += (
                 f"\t<a href='{inner_view_url}' title='{opt_title}'>"
                 f"<img src='{inner_view_url}' alt='{opt_title}'>"
