@@ -40,7 +40,7 @@ def inners(index_root: Path, series_context: Path):
     if match := SERIES_PATH_REG.match(str(series_context)):
         lo, hi = map(int, match.groups()[1:])
     else:
-        lo, hi = min(numbers), max(numbers)
+        lo, hi = min(numbers[None]), max(numbers[None])
 
     additional_groups = [k for k, v in numbers.items() if k is not None and len(v) > 3]
     main_groups = ([None] if None in numbers else []) + sorted(additional_groups)
@@ -208,5 +208,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs and "black/51-" in root:
+        if "thumbnails" in dirs and "2007" in root:
             build(index_file, Path(root))

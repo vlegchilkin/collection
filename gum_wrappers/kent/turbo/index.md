@@ -3246,22 +3246,64 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            (super)<br/>2006 11 - 2008 01<br/>
-            <a href='2007/thumbnails/outer/(super)+2006_11_-_2008_01.1.5.png' target='_blank'><img src='2007/thumbnails/outer/(super)+2006_11_-_2008_01.1.5.png' width='50' alt='(super)+2006_11_-_2008_01.1'/></a>
-            <a href='2007/thumbnails/outer/(super)+2006_11_-_2008_01.2.5.png' target='_blank'><img src='2007/thumbnails/outer/(super)+2006_11_-_2008_01.2.5.png' width='50' alt='(super)+2006_11_-_2008_01.2'/></a>
-            <a href='2007/thumbnails/outer/(super)+2006_11_-_2008_01.3.5.png' target='_blank'><img src='2007/thumbnails/outer/(super)+2006_11_-_2008_01.3.5.png' width='50' alt='(super)+2006_11_-_2008_01.3'/></a>
-            <a href='2007/thumbnails/outer/(super)+2006_11_-_2008_01.4.5.png' target='_blank'><img src='2007/thumbnails/outer/(super)+2006_11_-_2008_01.4.5.png' width='50' alt='(super)+2006_11_-_2008_01.4'/></a>
-            <a href='2007/thumbnails/outer/(super)+2006_11_-_2008_01.5.5.png' target='_blank'><img src='2007/thumbnails/outer/(super)+2006_11_-_2008_01.5.5.png' width='50' alt='(super)+2006_11_-_2008_01.5'/></a>
-            <br/>2007 03 - 2008 01<br/>
-            <a href='2007/thumbnails/outer/2007_03_-_2008_01.1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03_-_2008_01.1.5.png' width='50' alt='2007_03_-_2008_01.1'/></a>
-            <a href='2007/thumbnails/outer/2007_03_-_2008_01.2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03_-_2008_01.2.5.png' width='50' alt='2007_03_-_2008_01.2'/></a>
-            <a href='2007/thumbnails/outer/2007_03_-_2008_01.3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03_-_2008_01.3.5.png' width='50' alt='2007_03_-_2008_01.3'/></a>
-            <a href='2007/thumbnails/outer/2007_03_-_2008_01.4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03_-_2008_01.4.5.png' width='50' alt='2007_03_-_2008_01.4'/></a>
-            <a href='2007/thumbnails/outer/2007_03_-_2008_01.5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03_-_2008_01.5.5.png' width='50' alt='2007_03_-_2008_01.5'/></a>
+            2006.11 [4438-R0] Super<br/>
+            <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/1.5.png' width='50' alt='2006.11 [4438-R0] Super.1'/></a>
+            <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/2.5.png' width='50' alt='2006.11 [4438-R0] Super.2'/></a>
+            <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/3.5.png' width='50' alt='2006.11 [4438-R0] Super.3'/></a>
+            <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/4.5.png' width='50' alt='2006.11 [4438-R0] Super.4'/></a>
+            <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/5.5.png' width='50' alt='2006.11 [4438-R0] Super.5'/></a>
+            <br/>2007.01 [4438-R0] Super<br/>
+            <a href='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/1.5.png' width='50' alt='2007.01 [4438-R0] Super.1'/></a>
+            <a href='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/2.5.png' width='50' alt='2007.01 [4438-R0] Super.2'/></a>
+            <a href='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/3.5.png' width='50' alt='2007.01 [4438-R0] Super.3'/></a>
+            <a href='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/4.5.png' width='50' alt='2007.01 [4438-R0] Super.4'/></a>
+            <a href='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_01{4438-R0}[5]Super/5.5.png' width='50' alt='2007.01 [4438-R0] Super.5'/></a>
+            <br/>2007.02 [4438-R0] Super<br/>
+            <a href='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/1.5.png' width='50' alt='2007.02 [4438-R0] Super.1'/></a>
+            <a href='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/2.5.png' width='50' alt='2007.02 [4438-R0] Super.2'/></a>
+            <a href='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/3.5.png' width='50' alt='2007.02 [4438-R0] Super.3'/></a>
+            <a href='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/4.5.png' width='50' alt='2007.02 [4438-R0] Super.4'/></a>
+            <a href='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_02{4438-R0}[5]Super/5.5.png' width='50' alt='2007.02 [4438-R0] Super.5'/></a>
+            <br/>2007.03 [4438-R0] Super<br/>
+            <a href='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/1.5.png' width='50' alt='2007.03 [4438-R0] Super.1'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/2.5.png' width='50' alt='2007.03 [4438-R0] Super.2'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/3.5.png' width='50' alt='2007.03 [4438-R0] Super.3'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/4.5.png' width='50' alt='2007.03 [4438-R0] Super.4'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4438-R0}[5]Super/5.5.png' width='50' alt='2007.03 [4438-R0] Super.5'/></a>
+            <br/>2007.03 [4449-R0] No Super 2001<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2007.03 [4449-R0] No Super 2001.5'/></a>
+            <br/>2007.03 [4449-R0] No Super with PCT<br/>
+            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/1.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.1'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/2.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.2'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/3.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.3'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/4.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.4'/></a>
+            <a href='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_03{4449-R0}[5]No_Super_with_PCT/5.5.png' width='50' alt='2007.03 [4449-R0] No Super with PCT.5'/></a>
+            <br/>2007.06 [4449-R0] No Super with PCT<br/>
+            <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/1.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.1'/></a>
+            <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/2.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.2'/></a>
+            <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/3.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.3'/></a>
+            <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/4.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.4'/></a>
+            <a href='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_06{4449-R0}[5]No_Super_with_PCT/5.5.png' width='50' alt='2007.06 [4449-R0] No Super with PCT.5'/></a>
+            <br/>2007.09 [4449-R0] No Super with PCT<br/>
+            <a href='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/1.5.png' width='50' alt='2007.09 [4449-R0] No Super with PCT.1'/></a>
+            <a href='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/2.5.png' width='50' alt='2007.09 [4449-R0] No Super with PCT.2'/></a>
+            <a href='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/3.5.png' width='50' alt='2007.09 [4449-R0] No Super with PCT.3'/></a>
+            <a href='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/4.5.png' width='50' alt='2007.09 [4449-R0] No Super with PCT.4'/></a>
+            <a href='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2007_09{4449-R0}[5]No_Super_with_PCT/5.5.png' width='50' alt='2007.09 [4449-R0] No Super with PCT.5'/></a>
+            <br/>2008.01 [4449-R0] No Super with PCT<br/>
+            <a href='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/1.5.png' width='50' alt='2008.01 [4449-R0] No Super with PCT.1'/></a>
+            <a href='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/2.5.png' width='50' alt='2008.01 [4449-R0] No Super with PCT.2'/></a>
+            <a href='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/3.5.png' target='_blank'><img src='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/3.5.png' width='50' alt='2008.01 [4449-R0] No Super with PCT.3'/></a>
+            <a href='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/4.5.png' target='_blank'><img src='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/4.5.png' width='50' alt='2008.01 [4449-R0] No Super with PCT.4'/></a>
+            <a href='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/5.5.png' target='_blank'><img src='2007/thumbnails/outer/2008_01{4449-R0}[5]No_Super_with_PCT/5.5.png' width='50' alt='2008.01 [4449-R0] No Super with PCT.5'/></a>
             <br/>
         </td>
         <td>
-            (44/54)<br/>
+            (54/54)<br/>
             <a class='perfect' href='2007/thumbnails/inner/101.5.png' title='' target='_blank'>101</a>
             <a class='perfect' href='2007/thumbnails/inner/102.5.png' title='' target='_blank'>102</a>
             <a class='good' href='2007/thumbnails/inner/103.3.png' title='' target='_blank'>103</a>
@@ -3271,26 +3313,26 @@ layout: default
             <a class='perfect' href='2007/thumbnails/inner/107.5.png' title='' target='_blank'>107</a>
             <a class='perfect' href='2007/thumbnails/inner/108.5.png' title='' target='_blank'>108</a>
             <a class='perfect' href='2007/thumbnails/inner/109.5.png' title='' target='_blank'>109</a>
-            <a class='missed' href='2007/thumbnails/inner/110.0.png' title='' target='_blank'>110</a>
-            <a class='missed' href='2007/thumbnails/inner/111.0.png' title='' target='_blank'>111</a>
-            <a class='missed' href='2007/thumbnails/inner/112.0.png' title='' target='_blank'>112</a>
-            <a class='missed' href='2007/thumbnails/inner/113.0.png' title='' target='_blank'>113</a>
+            <a class='poor' href='2007/thumbnails/inner/110.2.png' title='' target='_blank'>110</a>
+            <a class='poor' href='2007/thumbnails/inner/111.2.png' title='' target='_blank'>111</a>
+            <a class='poor' href='2007/thumbnails/inner/112.2.png' title='' target='_blank'>112</a>
+            <a class='poor' href='2007/thumbnails/inner/113.2.png' title='' target='_blank'>113</a>
             <a class='enough' href='2007/thumbnails/inner/114.4.png' title='' target='_blank'>114</a>
-            <a class='missed' href='2007/thumbnails/inner/115.0.png' title='' target='_blank'>115</a>
-            <a class='missed' href='2007/thumbnails/inner/116.0.png' title='' target='_blank'>116</a>
-            <a class='missed' href='2007/thumbnails/inner/117.0.png' title='' target='_blank'>117</a>
-            <a class='missed' href='2007/thumbnails/inner/118.0.png' title='' target='_blank'>118</a>
+            <a class='poor' href='2007/thumbnails/inner/115.2.png' title='' target='_blank'>115</a>
+            <a class='poor' href='2007/thumbnails/inner/116.2.png' title='' target='_blank'>116</a>
+            <a class='poor' href='2007/thumbnails/inner/117.2.png' title='' target='_blank'>117</a>
+            <a class='poor' href='2007/thumbnails/inner/118.2.png' title='' target='_blank'>118</a>
             <a class='enough' href='2007/thumbnails/inner/119.4.png' title='' target='_blank'>119</a>
-            <a class='enough' href='2007/thumbnails/inner/120.4.png' title='' target='_blank'>120</a>
-            <a class='enough' href='2007/thumbnails/inner/121.4.png' title='' target='_blank'>121</a>
+            <a class='perfect' href='2007/thumbnails/inner/120.5.png' title='' target='_blank'>120</a>
+            <a class='perfect' href='2007/thumbnails/inner/121.5.png' title='' target='_blank'>121</a>
             <a class='perfect' href='2007/thumbnails/inner/122.5.png' title='' target='_blank'>122</a>
             <a class='perfect' href='2007/thumbnails/inner/123.5.png' title='' target='_blank'>123</a>
             <a class='enough' href='2007/thumbnails/inner/124.4.png' title='' target='_blank'>124</a>
             <a class='perfect' href='2007/thumbnails/inner/125.5.png' title='' target='_blank'>125</a>
-            <a class='enough' href='2007/thumbnails/inner/126.4.png' title='' target='_blank'>126</a>
+            <a class='perfect' href='2007/thumbnails/inner/126.5.png' title='' target='_blank'>126</a>
             <a class='perfect' href='2007/thumbnails/inner/127.5.png' title='' target='_blank'>127</a>
             <a class='perfect' href='2007/thumbnails/inner/128.5.png' title='' target='_blank'>128</a>
-            <a class='enough' href='2007/thumbnails/inner/129.4.png' title='' target='_blank'>129</a>
+            <a class='perfect' href='2007/thumbnails/inner/129.5.png' title='' target='_blank'>129</a>
             <a class='perfect' href='2007/thumbnails/inner/130.5.png' title='' target='_blank'>130</a>
             <a class='perfect' href='2007/thumbnails/inner/131.5.png' title='' target='_blank'>131</a>
             <a class='perfect' href='2007/thumbnails/inner/132.5.png' title='' target='_blank'>132</a>
@@ -3298,11 +3340,11 @@ layout: default
             <a class='perfect' href='2007/thumbnails/inner/134.5.png' title='' target='_blank'>134</a>
             <a class='perfect' href='2007/thumbnails/inner/135.5.png' title='' target='_blank'>135</a>
             <a class='perfect' href='2007/thumbnails/inner/136.5.png' title='' target='_blank'>136</a>
-            <a class='missed' href='2007/thumbnails/inner/137.0.png' title='' target='_blank'>137</a>
-            <a class='enough' href='2007/thumbnails/inner/138.4.png' title='' target='_blank'>138</a>
+            <a class='poor' href='2007/thumbnails/inner/137.2.png' title='' target='_blank'>137</a>
+            <a class='perfect' href='2007/thumbnails/inner/138.5.png' title='' target='_blank'>138</a>
             <a class='good' href='2007/thumbnails/inner/139.3.png' title='' target='_blank'>139</a>
             <a class='perfect' href='2007/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>
-            <a class='enough' href='2007/thumbnails/inner/141.4.png' title='' target='_blank'>141</a>
+            <a class='perfect' href='2007/thumbnails/inner/141.5.png' title='' target='_blank'>141</a>
             <a class='enough' href='2007/thumbnails/inner/142.4.png' title='' target='_blank'>142</a>
             <a class='perfect' href='2007/thumbnails/inner/143.5.png' title='' target='_blank'>143</a>
             <a class='good' href='2007/thumbnails/inner/144.3.png' title='' target='_blank'>144</a>
@@ -3311,65 +3353,65 @@ layout: default
             <a class='perfect' href='2007/thumbnails/inner/147.5.png' title='' target='_blank'>147</a>
             <a class='enough' href='2007/thumbnails/inner/148.4.png' title='' target='_blank'>148</a>
             <a class='perfect' href='2007/thumbnails/inner/149.5.png' title='' target='_blank'>149</a>
-            <a class='enough' href='2007/thumbnails/inner/150.4.png' title='' target='_blank'>150</a>
-            <a class='missed' href='2007/thumbnails/inner/151.0.png' title='' target='_blank'>151</a>
+            <a class='perfect' href='2007/thumbnails/inner/150.5.png' title='' target='_blank'>150</a>
+            <a class='poor' href='2007/thumbnails/inner/151.2.png' title='' target='_blank'>151</a>
             <a class='perfect' href='2007/thumbnails/inner/152.5.png' title='' target='_blank'>152</a>
             <a class='perfect' href='2007/thumbnails/inner/153.5.png' title='' target='_blank'>153</a>
-            <a class='good' href='2007/thumbnails/inner/154.3.png' title='' target='_blank'>154</a><br/>Super (49/54)<br/>
+            <a class='enough' href='2007/thumbnails/inner/154.4.png' title='' target='_blank'>154</a><br/>Super (53/54)<br/>
             <a class='perfect' href='2007/thumbnails/inner/101.super.5.png' title='Super' target='_blank'>101</a>
-            <a class='good' href='2007/thumbnails/inner/102.super.3.png' title='Super' target='_blank'>102</a>
-            <a class='perfect' href='2007/thumbnails/inner/103.super.5.png' title='Super' target='_blank'>103</a>
-            <a class='perfect' href='2007/thumbnails/inner/104.super.5.png' title='Super' target='_blank'>104</a>
+            <a class='enough' href='2007/thumbnails/inner/102.super.4.png' title='Super' target='_blank'>102</a>
+            <a class='enough' href='2007/thumbnails/inner/103.super.4.png' title='Super' target='_blank'>103</a>
+            <a class='enough' href='2007/thumbnails/inner/104.super.4.png' title='Super' target='_blank'>104</a>
             <a class='perfect' href='2007/thumbnails/inner/105.super.5.png' title='Super' target='_blank'>105</a>
             <a class='perfect' href='2007/thumbnails/inner/106.super.5.png' title='Super' target='_blank'>106</a>
             <a class='enough' href='2007/thumbnails/inner/107.super.4.png' title='Super' target='_blank'>107</a>
             <a class='good' href='2007/thumbnails/inner/108.super.3.png' title='Super' target='_blank'>108</a>
-            <a class='good' href='2007/thumbnails/inner/109.super.3.png' title='Super' target='_blank'>109</a>
+            <a class='perfect' href='2007/thumbnails/inner/109.super.5.png' title='Super' target='_blank'>109</a>
             <a class='perfect' href='2007/thumbnails/inner/110.super.5.png' title='Super' target='_blank'>110</a>
             <a class='perfect' href='2007/thumbnails/inner/111.super.5.png' title='Super' target='_blank'>111</a>
             <a class='perfect' href='2007/thumbnails/inner/112.super.5.png' title='Super' target='_blank'>112</a>
             <a class='perfect' href='2007/thumbnails/inner/113.super.5.png' title='Super' target='_blank'>113</a>
-            <a class='missed' href='2007/thumbnails/inner/114.super.0.png' title='Super' target='_blank'>114</a>
+            <a class='perfect' href='2007/thumbnails/inner/114.super.5.png' title='Super' target='_blank'>114</a>
             <a class='perfect' href='2007/thumbnails/inner/115.super.5.png' title='Super' target='_blank'>115</a>
             <a class='perfect' href='2007/thumbnails/inner/116.super.5.png' title='Super' target='_blank'>116</a>
             <a class='enough' href='2007/thumbnails/inner/117.super.4.png' title='Super' target='_blank'>117</a>
-            <a class='missed' href='2007/thumbnails/inner/118.super.0.png' title='Super' target='_blank'>118</a>
+            <a class='perfect' href='2007/thumbnails/inner/118.super.5.png' title='Super' target='_blank'>118</a>
             <a class='perfect' href='2007/thumbnails/inner/119.super.5.png' title='Super' target='_blank'>119</a>
             <a class='perfect' href='2007/thumbnails/inner/120.super.5.png' title='Super' target='_blank'>120</a>
             <a class='perfect' href='2007/thumbnails/inner/121.super.5.png' title='Super' target='_blank'>121</a>
-            <a class='enough' href='2007/thumbnails/inner/122.super.4.png' title='Super' target='_blank'>122</a>
+            <a class='perfect' href='2007/thumbnails/inner/122.super.5.png' title='Super' target='_blank'>122</a>
             <a class='perfect' href='2007/thumbnails/inner/123.super.5.png' title='Super' target='_blank'>123</a>
-            <a class='enough' href='2007/thumbnails/inner/124.super.4.png' title='Super' target='_blank'>124</a>
+            <a class='perfect' href='2007/thumbnails/inner/124.super.5.png' title='Super' target='_blank'>124</a>
             <a class='perfect' href='2007/thumbnails/inner/125.super.5.png' title='Super' target='_blank'>125</a>
-            <a class='enough' href='2007/thumbnails/inner/126.super.4.png' title='Super' target='_blank'>126</a>
-            <a class='enough' href='2007/thumbnails/inner/127.super.4.png' title='Super' target='_blank'>127</a>
+            <a class='perfect' href='2007/thumbnails/inner/126.super.5.png' title='Super' target='_blank'>126</a>
+            <a class='perfect' href='2007/thumbnails/inner/127.super.5.png' title='Super' target='_blank'>127</a>
             <a class='perfect' href='2007/thumbnails/inner/128.super.5.png' title='Super' target='_blank'>128</a>
-            <a class='missed' href='2007/thumbnails/inner/129.super.0.png' title='Super' target='_blank'>129</a>
+            <a class='perfect' href='2007/thumbnails/inner/129.super.5.png' title='Super' target='_blank'>129</a>
             <a class='perfect' href='2007/thumbnails/inner/130.super.5.png' title='Super' target='_blank'>130</a>
             <a class='perfect' href='2007/thumbnails/inner/131.super.5.png' title='Super' target='_blank'>131</a>
-            <a class='enough' href='2007/thumbnails/inner/132.super.4.png' title='Super' target='_blank'>132</a>
+            <a class='perfect' href='2007/thumbnails/inner/132.super.5.png' title='Super' target='_blank'>132</a>
             <a class='perfect' href='2007/thumbnails/inner/133.super.5.png' title='Super' target='_blank'>133</a>
             <a class='perfect' href='2007/thumbnails/inner/134.super.5.png' title='Super' target='_blank'>134</a>
-            <a class='missed' href='2007/thumbnails/inner/135.super.0.png' title='Super' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Super' target='_blank'>135</a>
             <a class='perfect' href='2007/thumbnails/inner/136.super.5.png' title='Super' target='_blank'>136</a>
             <a class='perfect' href='2007/thumbnails/inner/137.super.5.png' title='Super' target='_blank'>137</a>
             <a class='perfect' href='2007/thumbnails/inner/138.super.5.png' title='Super' target='_blank'>138</a>
-            <a class='enough' href='2007/thumbnails/inner/139.super.4.png' title='Super' target='_blank'>139</a>
-            <a class='enough' href='2007/thumbnails/inner/140.super.4.png' title='Super' target='_blank'>140</a>
-            <a class='enough' href='2007/thumbnails/inner/141.super.4.png' title='Super' target='_blank'>141</a>
-            <a class='missed' href='2007/thumbnails/inner/142.super.0.png' title='Super' target='_blank'>142</a>
+            <a class='perfect' href='2007/thumbnails/inner/139.super.5.png' title='Super' target='_blank'>139</a>
+            <a class='perfect' href='2007/thumbnails/inner/140.super.5.png' title='Super' target='_blank'>140</a>
+            <a class='perfect' href='2007/thumbnails/inner/141.super.5.png' title='Super' target='_blank'>141</a>
+            <a class='perfect' href='2007/thumbnails/inner/142.super.5.png' title='Super' target='_blank'>142</a>
             <a class='enough' href='2007/thumbnails/inner/143.super.4.png' title='Super' target='_blank'>143</a>
-            <a class='enough' href='2007/thumbnails/inner/144.super.4.png' title='Super' target='_blank'>144</a>
-            <a class='enough' href='2007/thumbnails/inner/145.super.4.png' title='Super' target='_blank'>145</a>
-            <a class='enough' href='2007/thumbnails/inner/146.super.4.png' title='Super' target='_blank'>146</a>
+            <a class='perfect' href='2007/thumbnails/inner/144.super.5.png' title='Super' target='_blank'>144</a>
+            <a class='perfect' href='2007/thumbnails/inner/145.super.5.png' title='Super' target='_blank'>145</a>
+            <a class='perfect' href='2007/thumbnails/inner/146.super.5.png' title='Super' target='_blank'>146</a>
             <a class='perfect' href='2007/thumbnails/inner/147.super.5.png' title='Super' target='_blank'>147</a>
-            <a class='good' href='2007/thumbnails/inner/148.super.3.png' title='Super' target='_blank'>148</a>
-            <a class='enough' href='2007/thumbnails/inner/149.super.4.png' title='Super' target='_blank'>149</a>
-            <a class='enough' href='2007/thumbnails/inner/150.super.4.png' title='Super' target='_blank'>150</a>
-            <a class='enough' href='2007/thumbnails/inner/151.super.4.png' title='Super' target='_blank'>151</a>
-            <a class='enough' href='2007/thumbnails/inner/152.super.4.png' title='Super' target='_blank'>152</a>
+            <a class='perfect' href='2007/thumbnails/inner/148.super.5.png' title='Super' target='_blank'>148</a>
+            <a class='perfect' href='2007/thumbnails/inner/149.super.5.png' title='Super' target='_blank'>149</a>
+            <a class='perfect' href='2007/thumbnails/inner/150.super.5.png' title='Super' target='_blank'>150</a>
+            <a class='perfect' href='2007/thumbnails/inner/151.super.5.png' title='Super' target='_blank'>151</a>
+            <a class='perfect' href='2007/thumbnails/inner/152.super.5.png' title='Super' target='_blank'>152</a>
             <a class='perfect' href='2007/thumbnails/inner/153.super.5.png' title='Super' target='_blank'>153</a>
-            <a class='enough' href='2007/thumbnails/inner/154.super.4.png' title='Super' target='_blank'>154</a>
+            <a class='perfect' href='2007/thumbnails/inner/154.super.5.png' title='Super' target='_blank'>154</a>
         </td>
     </tr>
 </table>
