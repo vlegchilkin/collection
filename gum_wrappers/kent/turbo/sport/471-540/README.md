@@ -2,10 +2,16 @@
 
 ### My collection
 
-|    Year    |                                           4                                            |                                           7                                            | 8 |
-|:----------:|:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:-:|
-| 1997 01-12 | [<img src='thumbnails/outer/1997_01-12.7.5.png'>](thumbnails/outer/1997_01-12.7.5.png) | [<img src='thumbnails/outer/1997_01-12.8.5.png'>](thumbnails/outer/1997_01-12.8.5.png) |
-| 1998 01-06 | [<img src='thumbnails/outer/1998_01-06.4.5.png'>](thumbnails/outer/1998_01-06.4.5.png) |
+|         Release          |                                                             1                                                              |
+|:------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+| 1997.01 [A-97] R0 thin s | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+| 1997.05 [E-97] R1 thin s | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+| 1997.07 [G-97] R1 thin s |    [<img src='thumbnails/outer/1997_07{G-97}[1]R1_thin_s/1.5.png'>](thumbnails/outer/1997_07{G-97}[1]R1_thin_s/1.5.png)    |
+|    1997.08 [H-97] R1     |           [<img src='thumbnails/outer/1997_08{H-97}[1]R1/1.5.png'>](thumbnails/outer/1997_08{H-97}[1]R1/1.5.png)           |
+|    1998.03 [C-98] R1     | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|    1998.04 [D-98] R1     |           [<img src='thumbnails/outer/1998_04{D-98}[1]R1/1.5.png'>](thumbnails/outer/1998_04{D-98}[1]R1/1.5.png)           |
+|    1998.05 [E-98] R1     | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
+|    1998.06 [F-98] R1     | [<img src='/collection/gum_wrappers/kent/turbo//missed_outer.png'>](/collection/gum_wrappers/kent/turbo//missed_outer.png) |
 
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/471.thick_s.5.png' title='Thick s'><img src='thumbnails/inner/471.thick_s.5.png' alt='Thick s'></a>

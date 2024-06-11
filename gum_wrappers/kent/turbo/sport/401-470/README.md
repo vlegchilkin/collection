@@ -2,9 +2,9 @@
 
 ### My collection
 
-|  Year   |                                        1                                         |
-|:-------:|:--------------------------------------------------------------------------------:|
-| 1998 03 | [<img src='thumbnails/outer/1998_03.1.4.png'>](thumbnails/outer/1998_03.1.4.png) |
+| Release |                                           1                                            |
+|:-------:|:--------------------------------------------------------------------------------------:|
+| 1998.03 | [<img src='thumbnails/outer/1998_03[1]/1.4.png'>](thumbnails/outer/1998_03[1]/1.4.png) |
 
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/401.4.png' title=''><img src='thumbnails/inner/401.4.png' alt=''></a>

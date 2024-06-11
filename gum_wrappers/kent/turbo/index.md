@@ -2344,8 +2344,8 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1998 03<br/>
-            <a href='sport/401-470/thumbnails/outer/1998_03.1.4.png' target='_blank'><img src='sport/401-470/thumbnails/outer/1998_03.1.4.png' width='50' alt='1998_03.1'/></a>
+            1998.03 <br/>
+            <a href='sport/401-470/thumbnails/outer/1998_03[1]/1.4.png' target='_blank'><img src='sport/401-470/thumbnails/outer/1998_03[1]/1.4.png' width='50' alt='1998.03 .1'/></a>
             <br/>
         </td>
         <td>
@@ -2429,15 +2429,26 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1997 01-12<br/>
-            <a href='sport/471-540/thumbnails/outer/1997_01-12.7.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_01-12.7.5.png' width='50' alt='1997_01-12.7'/></a>
-            <a href='sport/471-540/thumbnails/outer/1997_01-12.8.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_01-12.8.5.png' width='50' alt='1997_01-12.8'/></a>
-            <br/>1998 01-06<br/>
-            <a href='sport/471-540/thumbnails/outer/1998_01-06.4.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1998_01-06.4.5.png' width='50' alt='1998_01-06.4'/></a>
+            1997.01 [A-97] R0 thin s<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.01 [A-97] R0 thin s.1'/></a>
+            <br/>1997.05 [E-97] R1 thin s<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E-97] R1 thin s.1'/></a>
+            <br/>1997.07 [G-97] R1 thin s<br/>
+            <a href='sport/471-540/thumbnails/outer/1997_07{G-97}[1]R1_thin_s/1.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_07{G-97}[1]R1_thin_s/1.5.png' width='50' alt='1997.07 [G-97] R1 thin s.1'/></a>
+            <br/>1997.08 [H-97] R1<br/>
+            <a href='sport/471-540/thumbnails/outer/1997_08{H-97}[1]R1/1.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_08{H-97}[1]R1/1.5.png' width='50' alt='1997.08 [H-97] R1.1'/></a>
+            <br/>1998.03 [C-98] R1<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R1.1'/></a>
+            <br/>1998.04 [D-98] R1<br/>
+            <a href='sport/471-540/thumbnails/outer/1998_04{D-98}[1]R1/1.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1998_04{D-98}[1]R1/1.5.png' width='50' alt='1998.04 [D-98] R1.1'/></a>
+            <br/>1998.05 [E-98] R1<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R1.1'/></a>
+            <br/>1998.06 [F-98] R1<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.1'/></a>
             <br/>
         </td>
         <td>
-            Thick s (65/70)<br/>
+            Thick s (70/70)<br/>
             <a class='perfect' href='sport/471-540/thumbnails/inner/471.thick_s.5.png' title='Thick s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thick_s.4.png' title='Thick s' target='_blank'>472</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/473.thick_s.4.png' title='Thick s' target='_blank'>473</a>
