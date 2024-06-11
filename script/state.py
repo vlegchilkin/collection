@@ -109,7 +109,14 @@ def outers(index_root: Path, series_context: Path):
     for folder in folders:
         collection = {}
         for filename in os.listdir(root_folder / folder):
-            number, quality, _ = filename.split(".")
+            if filename.endswith(".gitkeep"):
+                continue
+            try:
+                number, quality, _ = filename.split(".")
+            except Exception as ex:
+                print(filename)
+                raise ex
+
             collection[int(number)] = (filename, int(quality))
         groups = OUTER_REG.match(folder).groups()
         releases.append(
@@ -208,5 +215,5 @@ if __name__ == "__main__":
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
-        if "thumbnails" in dirs and "2007" in root:
+        if "thumbnails" in dirs and "2003" in root:
             build(index_file, Path(root))

@@ -2765,21 +2765,21 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            2002 03<br/>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.1.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.1.0.png' width='50' alt='2002_03.1'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.2.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.2.0.png' width='50' alt='2002_03.2'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.3.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.3.0.png' width='50' alt='2002_03.3'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.4.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.4.0.png' width='50' alt='2002_03.4'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.5.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.5.0.png' width='50' alt='2002_03.5'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.6.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.6.0.png' width='50' alt='2002_03.6'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.7.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.7.0.png' width='50' alt='2002_03.7'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.8.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.8.0.png' width='50' alt='2002_03.8'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.9.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.9.0.png' width='50' alt='2002_03.9'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03.10.0.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03.10.0.png' width='50' alt='2002_03.10'/></a>
+            2002.03 [4374-R0] <br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .10'/></a>
             <br/>
         </td>
         <td>
-            (0/99)<br/>
+            (99/99)<br/>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/1.0.png' title='' target='_blank'>1</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/2.0.png' title='' target='_blank'>2</a>
             <a class='missed' href='2003/RUS/sport/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
@@ -2888,17 +2888,17 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            2002 03<br/>
-            <a href='2003/RUS/super/thumbnails/outer/2002_03.1.3.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.1.3.png' width='50' alt='2002_03.1'/></a>
-            <a href='2003/RUS/super/thumbnails/outer/2002_03.2.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.2.5.png' width='50' alt='2002_03.2'/></a>
-            <a href='2003/RUS/super/thumbnails/outer/2002_03.3.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.3.5.png' width='50' alt='2002_03.3'/></a>
-            <a href='2003/RUS/super/thumbnails/outer/2002_03.4.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.4.4.png' width='50' alt='2002_03.4'/></a>
-            <a href='2003/RUS/super/thumbnails/outer/2002_03.5.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.5.4.png' width='50' alt='2002_03.5'/></a>
-            <a href='2003/RUS/super/thumbnails/outer/2002_03.6.0.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03.6.0.png' width='50' alt='2002_03.6'/></a>
+            2002.03 [4372-R0] <br/>
+            <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/1.3.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/1.3.png' width='50' alt='2002.03 [4372-R0] .1'/></a>
+            <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/2.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/2.5.png' width='50' alt='2002.03 [4372-R0] .2'/></a>
+            <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/3.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/3.5.png' width='50' alt='2002.03 [4372-R0] .3'/></a>
+            <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/4.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/4.4.png' width='50' alt='2002.03 [4372-R0] .4'/></a>
+            <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/5.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/5.4.png' width='50' alt='2002.03 [4372-R0] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4372-R0] .6'/></a>
             <br/>
         </td>
         <td>
-            (0/99)<br/>
+            (99/99)<br/>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/1.0.png' title='' target='_blank'>1</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/2.0.png' title='' target='_blank'>2</a>
             <a class='missed' href='2003/RUS/super/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
@@ -3007,15 +3007,24 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            2006 02-12<br/>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.1.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.1.5.png' width='50' alt='2006_02-12.1'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.2.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.2.5.png' width='50' alt='2006_02-12.2'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.3.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.3.5.png' width='50' alt='2006_02-12.3'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.4.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.4.5.png' width='50' alt='2006_02-12.4'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.5.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.5.5.png' width='50' alt='2006_02-12.5'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.6.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.6.5.png' width='50' alt='2006_02-12.6'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.7.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.7.5.png' width='50' alt='2006_02-12.7'/></a>
-            <a href='2003/TUR/sport/thumbnails/outer/2006_02-12.8.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02-12.8.5.png' width='50' alt='2006_02-12.8'/></a>
+            2006.02 [4386-R0] <br/>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/1.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/1.5.png' width='50' alt='2006.02 [4386-R0] .1'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/2.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/2.5.png' width='50' alt='2006.02 [4386-R0] .2'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/3.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/3.5.png' width='50' alt='2006.02 [4386-R0] .3'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/4.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/4.5.png' width='50' alt='2006.02 [4386-R0] .4'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/5.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[5]/5.5.png' width='50' alt='2006.02 [4386-R0] .5'/></a>
+            <br/>2006.10 [4386-R0] <br/>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/1.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/1.5.png' width='50' alt='2006.10 [4386-R0] .1'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/2.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/2.5.png' width='50' alt='2006.10 [4386-R0] .2'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/3.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/3.5.png' width='50' alt='2006.10 [4386-R0] .3'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/4.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/4.5.png' width='50' alt='2006.10 [4386-R0] .4'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/5.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_10{4386-R0}[5]/5.5.png' width='50' alt='2006.10 [4386-R0] .5'/></a>
+            <br/>2006.11 [4386-R0] <br/>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/1.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/1.5.png' width='50' alt='2006.11 [4386-R0] .1'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/2.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/2.5.png' width='50' alt='2006.11 [4386-R0] .2'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/3.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/3.5.png' width='50' alt='2006.11 [4386-R0] .3'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/4.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/4.5.png' width='50' alt='2006.11 [4386-R0] .4'/></a>
+            <a href='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/5.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_11{4386-R0}[5]/5.5.png' width='50' alt='2006.11 [4386-R0] .5'/></a>
             <br/>
         </td>
         <td>
@@ -3128,12 +3137,12 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            2006 02<br/>
-            <a href='2003/TUR/super/thumbnails/outer/2006_02.1.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02.1.5.png' width='50' alt='2006_02.1'/></a>
-            <a href='2003/TUR/super/thumbnails/outer/2006_02.2.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02.2.5.png' width='50' alt='2006_02.2'/></a>
-            <a href='2003/TUR/super/thumbnails/outer/2006_02.3.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02.3.5.png' width='50' alt='2006_02.3'/></a>
-            <a href='2003/TUR/super/thumbnails/outer/2006_02.4.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02.4.5.png' width='50' alt='2006_02.4'/></a>
-            <a href='2003/TUR/super/thumbnails/outer/2006_02.5.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02.5.5.png' width='50' alt='2006_02.5'/></a>
+            2006.02 [4376-R0] <br/>
+            <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/1.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/1.5.png' width='50' alt='2006.02 [4376-R0] .1'/></a>
+            <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/2.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/2.5.png' width='50' alt='2006.02 [4376-R0] .2'/></a>
+            <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/3.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/3.5.png' width='50' alt='2006.02 [4376-R0] .3'/></a>
+            <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/4.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/4.5.png' width='50' alt='2006.02 [4376-R0] .4'/></a>
+            <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/5.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/5.5.png' width='50' alt='2006.02 [4376-R0] .5'/></a>
             <br/>
         </td>
         <td>
