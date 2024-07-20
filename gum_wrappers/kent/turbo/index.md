@@ -3076,7 +3076,7 @@ layout: default
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
             1999.07 [G-99] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.07 [G-99] .1'/></a>
+            <a href='2000/71-140/thumbnails/outer/1999_07{G-99}[5]/1.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/1999_07{G-99}[5]/1.5.png' width='50' alt='1999.07 [G-99] .1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.07 [G-99] .2'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.07 [G-99] .3'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.07 [G-99] .4'/></a>
