@@ -40,7 +40,7 @@ layout: default
             <br/>
         </td>
         <td>
-            (30/50)<br/>
+            (32/50)<br/>
             <a class='good' href='black/1-50/thumbnails/inner/1.3.png' title='' target='_blank'>1</a>
             <a class='enough' href='black/1-50/thumbnails/inner/2.4.png' title='' target='_blank'>2</a>
             <a class='missed' href='missed.png' title='' target='_blank'>3</a>
@@ -64,7 +64,7 @@ layout: default
             <a class='missed' href='missed.png' title='' target='_blank'>21</a>
             <a class='missed' href='missed.png' title='' target='_blank'>22</a>
             <a class='enough' href='black/1-50/thumbnails/inner/23.4.png' title='' target='_blank'>23</a>
-            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='perfect' href='black/1-50/thumbnails/inner/24.5.png' title='' target='_blank'>24</a>
             <a class='enough' href='black/1-50/thumbnails/inner/25.4.png' title='' target='_blank'>25</a>
             <a class='enough' href='black/1-50/thumbnails/inner/26.4.png' title='' target='_blank'>26</a>
             <a class='enough' href='black/1-50/thumbnails/inner/27.4.png' title='' target='_blank'>27</a>
@@ -84,13 +84,13 @@ layout: default
             <a class='missed' href='missed.png' title='' target='_blank'>41</a>
             <a class='missed' href='missed.png' title='' target='_blank'>42</a>
             <a class='missed' href='missed.png' title='' target='_blank'>43</a>
-            <a class='good' href='black/1-50/thumbnails/inner/44.3.png' title='' target='_blank'>44</a>
+            <a class='perfect' href='black/1-50/thumbnails/inner/44.5.png' title='' target='_blank'>44</a>
             <a class='enough' href='black/1-50/thumbnails/inner/45.4.png' title='' target='_blank'>45</a>
             <a class='good' href='black/1-50/thumbnails/inner/46.3.png' title='' target='_blank'>46</a>
             <a class='enough' href='black/1-50/thumbnails/inner/47.4.png' title='' target='_blank'>47</a>
             <a class='missed' href='missed.png' title='' target='_blank'>48</a>
             <a class='enough' href='black/1-50/thumbnails/inner/49.4.png' title='' target='_blank'>49</a>
-            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='perfect' href='black/1-50/thumbnails/inner/50.5.png' title='' target='_blank'>50</a>
         </td>
     </tr>
 </table>
