@@ -93,13 +93,13 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/20.5.png' title=''><img src='thumbnails/inner/20.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/21.5.png' title=''><img src='thumbnails/inner/21.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/22.5.png' title=''><img src='thumbnails/inner/22.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/23.4.png' title=''><img src='thumbnails/inner/23.4.png' alt=''></a>
@@ -156,13 +156,13 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/41.5.png' title=''><img src='thumbnails/inner/41.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/43.5.png' title=''><img src='thumbnails/inner/43.5.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/44.5.png' title=''><img src='thumbnails/inner/44.5.png' alt=''></a>
