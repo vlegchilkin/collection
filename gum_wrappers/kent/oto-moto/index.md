@@ -9,30 +9,30 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1991 07-12<br/>
-            <a href='1-100/thumbnails/outer/1991_07-12.1.0.png' target='_blank'><img src='1-100/thumbnails/outer/1991_07-12.1.0.png' width='50' alt='1991_07-12.1'/></a>
-            <a href='1-100/thumbnails/outer/1991_07-12.2.0.png' target='_blank'><img src='1-100/thumbnails/outer/1991_07-12.2.0.png' width='50' alt='1991_07-12.2'/></a>
-            <a href='1-100/thumbnails/outer/1991_07-12.3.0.png' target='_blank'><img src='1-100/thumbnails/outer/1991_07-12.3.0.png' width='50' alt='1991_07-12.3'/></a>
-            <a href='1-100/thumbnails/outer/1991_07-12.4.0.png' target='_blank'><img src='1-100/thumbnails/outer/1991_07-12.4.0.png' width='50' alt='1991_07-12.4'/></a>
-            <a href='1-100/thumbnails/outer/1991_07-12.5.0.png' target='_blank'><img src='1-100/thumbnails/outer/1991_07-12.5.0.png' width='50' alt='1991_07-12.5'/></a>
-            <br/>1992 02<br/>
-            <a href='1-100/thumbnails/outer/1992_02.1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.1.5.png' width='50' alt='1992_02.1'/></a>
-            <a href='1-100/thumbnails/outer/1992_02.2.0.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.2.0.png' width='50' alt='1992_02.2'/></a>
-            <a href='1-100/thumbnails/outer/1992_02.3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.3.5.png' width='50' alt='1992_02.3'/></a>
-            <a href='1-100/thumbnails/outer/1992_02.4.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.4.5.png' width='50' alt='1992_02.4'/></a>
-            <a href='1-100/thumbnails/outer/1992_02.5.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02.5.5.png' width='50' alt='1992_02.5'/></a>
-            <br/>1992 03 - 1993 04<br/>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.1.5.png' width='50' alt='1992_03_-_1993_04.1'/></a>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.2.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.2.5.png' width='50' alt='1992_03_-_1993_04.2'/></a>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.3.5.png' width='50' alt='1992_03_-_1993_04.3'/></a>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.4.0.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.4.0.png' width='50' alt='1992_03_-_1993_04.4'/></a>
-            <a href='1-100/thumbnails/outer/1992_03_-_1993_04.5.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03_-_1993_04.5.5.png' width='50' alt='1992_03_-_1993_04.5'/></a>
-            <br/>1993 06<br/>
-            <a href='1-100/thumbnails/outer/1993_06.1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.1.5.png' width='50' alt='1993_06.1'/></a>
-            <a href='1-100/thumbnails/outer/1993_06.2.0.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.2.0.png' width='50' alt='1993_06.2'/></a>
-            <a href='1-100/thumbnails/outer/1993_06.3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.3.5.png' width='50' alt='1993_06.3'/></a>
-            <a href='1-100/thumbnails/outer/1993_06.4.5.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.4.5.png' width='50' alt='1993_06.4'/></a>
-            <a href='1-100/thumbnails/outer/1993_06.5.0.png' target='_blank'><img src='1-100/thumbnails/outer/1993_06.5.0.png' width='50' alt='1993_06.5'/></a>
+            1992.02 [B-92] <br/>
+            <a href='1-100/thumbnails/outer/1992_02{B-92}[5]/1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02{B-92}[5]/1.5.png' width='50' alt='1992.02 [B-92] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.02 [B-92] .2'/></a>
+            <a href='1-100/thumbnails/outer/1992_02{B-92}[5]/3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02{B-92}[5]/3.5.png' width='50' alt='1992.02 [B-92] .3'/></a>
+            <a href='1-100/thumbnails/outer/1992_02{B-92}[5]/4.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02{B-92}[5]/4.5.png' width='50' alt='1992.02 [B-92] .4'/></a>
+            <a href='1-100/thumbnails/outer/1992_02{B-92}[5]/5.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_02{B-92}[5]/5.5.png' width='50' alt='1992.02 [B-92] .5'/></a>
+            <br/>1992.03 [C-92] <br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.03 [C-92] .1'/></a>
+            <a href='1-100/thumbnails/outer/1992_03{C-92}[5]/2.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03{C-92}[5]/2.5.png' width='50' alt='1992.03 [C-92] .2'/></a>
+            <a href='1-100/thumbnails/outer/1992_03{C-92}[5]/3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_03{C-92}[5]/3.5.png' width='50' alt='1992.03 [C-92] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.03 [C-92] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.03 [C-92] .5'/></a>
+            <br/>1992.05 [E-92] <br/>
+            <a href='1-100/thumbnails/outer/1992_05{E-92}[5]/1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_05{E-92}[5]/1.5.png' width='50' alt='1992.05 [E-92] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.05 [E-92] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.05 [E-92] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.05 [E-92] .4'/></a>
+            <a href='1-100/thumbnails/outer/1992_05{E-92}[5]/5.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_05{E-92}[5]/5.5.png' width='50' alt='1992.05 [E-92] .5'/></a>
+            <br/>1992.06 [F-93] <br/>
+            <a href='1-100/thumbnails/outer/1992_06{F-93}[5]/1.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_06{F-93}[5]/1.5.png' width='50' alt='1992.06 [F-93] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.06 [F-93] .2'/></a>
+            <a href='1-100/thumbnails/outer/1992_06{F-93}[5]/3.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_06{F-93}[5]/3.5.png' width='50' alt='1992.06 [F-93] .3'/></a>
+            <a href='1-100/thumbnails/outer/1992_06{F-93}[5]/4.5.png' target='_blank'><img src='1-100/thumbnails/outer/1992_06{F-93}[5]/4.5.png' width='50' alt='1992.06 [F-93] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.06 [F-93] .5'/></a>
             <br/>
         </td>
         <td>
@@ -146,116 +146,115 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1993 08-12<br/>
-            <a href='101-200/thumbnails/outer/1993_08-12.1.4.png' target='_blank'><img src='101-200/thumbnails/outer/1993_08-12.1.4.png' width='50' alt='1993_08-12.1'/></a>
-            <a href='101-200/thumbnails/outer/1993_08-12.2.4.png' target='_blank'><img src='101-200/thumbnails/outer/1993_08-12.2.4.png' width='50' alt='1993_08-12.2'/></a>
-            <a href='101-200/thumbnails/outer/1993_08-12.3.4.png' target='_blank'><img src='101-200/thumbnails/outer/1993_08-12.3.4.png' width='50' alt='1993_08-12.3'/></a>
-            <a href='101-200/thumbnails/outer/1993_08-12.4.4.png' target='_blank'><img src='101-200/thumbnails/outer/1993_08-12.4.4.png' width='50' alt='1993_08-12.4'/></a>
-            <a href='101-200/thumbnails/outer/1993_08-12.5.4.png' target='_blank'><img src='101-200/thumbnails/outer/1993_08-12.5.4.png' width='50' alt='1993_08-12.5'/></a>
+            1993.12 [L-93] <br/>
+            <a href='101-200/thumbnails/outer/1993_12{L-93}[5]/1.5.png' target='_blank'><img src='101-200/thumbnails/outer/1993_12{L-93}[5]/1.5.png' width='50' alt='1993.12 [L-93] .1'/></a>
+            <a href='101-200/thumbnails/outer/1993_12{L-93}[5]/2.5.png' target='_blank'><img src='101-200/thumbnails/outer/1993_12{L-93}[5]/2.5.png' width='50' alt='1993.12 [L-93] .2'/></a>
+            <a href='101-200/thumbnails/outer/1993_12{L-93}[5]/3.5.png' target='_blank'><img src='101-200/thumbnails/outer/1993_12{L-93}[5]/3.5.png' width='50' alt='1993.12 [L-93] .3'/></a>
+            <a href='101-200/thumbnails/outer/1993_12{L-93}[5]/4.5.png' target='_blank'><img src='101-200/thumbnails/outer/1993_12{L-93}[5]/4.5.png' width='50' alt='1993.12 [L-93] .4'/></a>
+            <a href='101-200/thumbnails/outer/1993_12{L-93}[5]/5.5.png' target='_blank'><img src='101-200/thumbnails/outer/1993_12{L-93}[5]/5.5.png' width='50' alt='1993.12 [L-93] .5'/></a>
             <br/>
         </td>
         <td>
-            (49/100)<br/>
+            (73/99)<br/>
             <a class='enough' href='101-200/thumbnails/inner/101.4.png' title='' target='_blank'>101</a>
-            <a class='missed' href='101-200/thumbnails/inner/102.0.png' title='' target='_blank'>102</a>
-            <a class='missed' href='101-200/thumbnails/inner/103.0.png' title='' target='_blank'>103</a>
-            <a class='missed' href='101-200/thumbnails/inner/104.0.png' title='' target='_blank'>104</a>
-            <a class='missed' href='101-200/thumbnails/inner/105.0.png' title='' target='_blank'>105</a>
-            <a class='missed' href='101-200/thumbnails/inner/106.0.png' title='' target='_blank'>106</a>
+            <a class='perfect' href='101-200/thumbnails/inner/102.5.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='perfect' href='101-200/thumbnails/inner/104.5.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
             <a class='perfect' href='101-200/thumbnails/inner/107.5.png' title='' target='_blank'>107</a>
             <a class='perfect' href='101-200/thumbnails/inner/108.5.png' title='' target='_blank'>108</a>
-            <a class='missed' href='101-200/thumbnails/inner/109.0.png' title='' target='_blank'>109</a>
-            <a class='missed' href='101-200/thumbnails/inner/110.0.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
             <a class='perfect' href='101-200/thumbnails/inner/111.5.png' title='' target='_blank'>111</a>
             <a class='perfect' href='101-200/thumbnails/inner/112.5.png' title='' target='_blank'>112</a>
             <a class='perfect' href='101-200/thumbnails/inner/113.5.png' title='' target='_blank'>113</a>
             <a class='enough' href='101-200/thumbnails/inner/114.4.png' title='' target='_blank'>114</a>
-            <a class='enough' href='101-200/thumbnails/inner/115.4.png' title='' target='_blank'>115</a>
+            <a class='perfect' href='101-200/thumbnails/inner/115.5.png' title='' target='_blank'>115</a>
             <a class='enough' href='101-200/thumbnails/inner/116.4.png' title='' target='_blank'>116</a>
             <a class='perfect' href='101-200/thumbnails/inner/117.5.png' title='' target='_blank'>117</a>
             <a class='perfect' href='101-200/thumbnails/inner/118.5.png' title='' target='_blank'>118</a>
             <a class='perfect' href='101-200/thumbnails/inner/119.5.png' title='' target='_blank'>119</a>
             <a class='perfect' href='101-200/thumbnails/inner/120.5.png' title='' target='_blank'>120</a>
-            <a class='missed' href='101-200/thumbnails/inner/121.0.png' title='' target='_blank'>121</a>
+            <a class='enough' href='101-200/thumbnails/inner/121.4.png' title='' target='_blank'>121</a>
             <a class='perfect' href='101-200/thumbnails/inner/122.5.png' title='' target='_blank'>122</a>
             <a class='perfect' href='101-200/thumbnails/inner/123.5.png' title='' target='_blank'>123</a>
-            <a class='missed' href='101-200/thumbnails/inner/124.0.png' title='' target='_blank'>124</a>
-            <a class='missed' href='101-200/thumbnails/inner/125.0.png' title='' target='_blank'>125</a>
-            <a class='missed' href='101-200/thumbnails/inner/126.0.png' title='' target='_blank'>126</a>
-            <a class='missed' href='101-200/thumbnails/inner/127.0.png' title='' target='_blank'>127</a>
-            <a class='missed' href='101-200/thumbnails/inner/128.0.png' title='' target='_blank'>128</a>
-            <a class='missed' href='101-200/thumbnails/inner/129.0.png' title='' target='_blank'>129</a>
-            <a class='missed' href='101-200/thumbnails/inner/130.0.png' title='' target='_blank'>130</a>
-            <a class='enough' href='101-200/thumbnails/inner/131.4.png' title='' target='_blank'>131</a>
-            <a class='missed' href='101-200/thumbnails/inner/132.0.png' title='' target='_blank'>132</a>
-            <a class='missed' href='101-200/thumbnails/inner/133.0.png' title='' target='_blank'>133</a>
-            <a class='good' href='101-200/thumbnails/inner/134.3.png' title='' target='_blank'>134</a>
-            <a class='missed' href='101-200/thumbnails/inner/135.0.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='perfect' href='101-200/thumbnails/inner/126.5.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='perfect' href='101-200/thumbnails/inner/128.5.png' title='' target='_blank'>128</a>
+            <a class='good' href='101-200/thumbnails/inner/129.3.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='perfect' href='101-200/thumbnails/inner/131.5.png' title='' target='_blank'>131</a>
+            <a class='perfect' href='101-200/thumbnails/inner/132.5.png' title='' target='_blank'>132</a>
+            <a class='perfect' href='101-200/thumbnails/inner/133.5.png' title='' target='_blank'>133</a>
+            <a class='perfect' href='101-200/thumbnails/inner/134.5.png' title='' target='_blank'>134</a>
+            <a class='perfect' href='101-200/thumbnails/inner/135.5.png' title='' target='_blank'>135</a>
             <a class='enough' href='101-200/thumbnails/inner/136.4.png' title='' target='_blank'>136</a>
-            <a class='enough' href='101-200/thumbnails/inner/137.4.png' title='' target='_blank'>137</a>
-            <a class='missed' href='101-200/thumbnails/inner/138.0.png' title='' target='_blank'>138</a>
+            <a class='perfect' href='101-200/thumbnails/inner/137.5.png' title='' target='_blank'>137</a>
+            <a class='perfect' href='101-200/thumbnails/inner/138.5.png' title='' target='_blank'>138</a>
             <a class='perfect' href='101-200/thumbnails/inner/139.5.png' title='' target='_blank'>139</a>
-            <a class='missed' href='101-200/thumbnails/inner/140.0.png' title='' target='_blank'>140</a>
+            <a class='perfect' href='101-200/thumbnails/inner/140.5.png' title='' target='_blank'>140</a>
             <a class='perfect' href='101-200/thumbnails/inner/141.5.png' title='' target='_blank'>141</a>
             <a class='perfect' href='101-200/thumbnails/inner/142.5.png' title='' target='_blank'>142</a>
             <a class='perfect' href='101-200/thumbnails/inner/143.5.png' title='' target='_blank'>143</a>
             <a class='enough' href='101-200/thumbnails/inner/144.4.png' title='' target='_blank'>144</a>
             <a class='perfect' href='101-200/thumbnails/inner/145.5.png' title='' target='_blank'>145</a>
-            <a class='good' href='101-200/thumbnails/inner/146.3.png' title='' target='_blank'>146</a>
+            <a class='perfect' href='101-200/thumbnails/inner/146.5.png' title='' target='_blank'>146</a>
             <a class='perfect' href='101-200/thumbnails/inner/147.5.png' title='' target='_blank'>147</a>
-            <a class='missed' href='101-200/thumbnails/inner/148.0.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
             <a class='perfect' href='101-200/thumbnails/inner/149.5.png' title='' target='_blank'>149</a>
             <a class='perfect' href='101-200/thumbnails/inner/150.5.png' title='' target='_blank'>150</a>
-            <a class='missed' href='101-200/thumbnails/inner/151.0.png' title='' target='_blank'>151</a>
-            <a class='missed' href='101-200/thumbnails/inner/152.0.png' title='' target='_blank'>152</a>
-            <a class='missed' href='101-200/thumbnails/inner/153.0.png' title='' target='_blank'>153</a>
-            <a class='missed' href='101-200/thumbnails/inner/154.0.png' title='' target='_blank'>154</a>
-            <a class='missed' href='101-200/thumbnails/inner/155.0.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='perfect' href='101-200/thumbnails/inner/152.5.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
             <a class='perfect' href='101-200/thumbnails/inner/156.5.png' title='' target='_blank'>156</a>
-            <a class='missed' href='101-200/thumbnails/inner/157.0.png' title='' target='_blank'>157</a>
-            <a class='missed' href='101-200/thumbnails/inner/158.0.png' title='' target='_blank'>158</a>
-            <a class='missed' href='101-200/thumbnails/inner/159.0.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='perfect' href='101-200/thumbnails/inner/159.5.png' title='' target='_blank'>159</a>
             <a class='perfect' href='101-200/thumbnails/inner/160.5.png' title='' target='_blank'>160</a>
-            <a class='missed' href='101-200/thumbnails/inner/161.0.png' title='' target='_blank'>161</a>
+            <a class='perfect' href='101-200/thumbnails/inner/161.5.png' title='' target='_blank'>161</a>
             <a class='perfect' href='101-200/thumbnails/inner/162.5.png' title='' target='_blank'>162</a>
-            <a class='missed' href='101-200/thumbnails/inner/163.0.png' title='' target='_blank'>163</a>
+            <a class='perfect' href='101-200/thumbnails/inner/163.5.png' title='' target='_blank'>163</a>
             <a class='perfect' href='101-200/thumbnails/inner/164.5.png' title='' target='_blank'>164</a>
             <a class='perfect' href='101-200/thumbnails/inner/165.5.png' title='' target='_blank'>165</a>
-            <a class='good' href='101-200/thumbnails/inner/166.3.png' title='' target='_blank'>166</a>
-            <a class='enough' href='101-200/thumbnails/inner/167.4.png' title='' target='_blank'>167</a>
+            <a class='enough' href='101-200/thumbnails/inner/166.4.png' title='' target='_blank'>166</a>
+            <a class='perfect' href='101-200/thumbnails/inner/167.5.png' title='' target='_blank'>167</a>
             <a class='perfect' href='101-200/thumbnails/inner/168.5.png' title='' target='_blank'>168</a>
             <a class='perfect' href='101-200/thumbnails/inner/169.5.png' title='' target='_blank'>169</a>
-            <a class='missed' href='101-200/thumbnails/inner/170.0.png' title='' target='_blank'>170</a>
-            <a class='enough' href='101-200/thumbnails/inner/171.4.png' title='' target='_blank'>171</a>
-            <a class='missed' href='101-200/thumbnails/inner/172.0.png' title='' target='_blank'>172</a>
+            <a class='perfect' href='101-200/thumbnails/inner/170.5.png' title='' target='_blank'>170</a>
+            <a class='perfect' href='101-200/thumbnails/inner/171.5.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
             <a class='perfect' href='101-200/thumbnails/inner/173.5.png' title='' target='_blank'>173</a>
-            <a class='good' href='101-200/thumbnails/inner/174.3.png' title='' target='_blank'>174</a>
-            <a class='missed' href='101-200/thumbnails/inner/175.0.png' title='' target='_blank'>175</a>
-            <a class='missed' href='101-200/thumbnails/inner/176.0.png' title='' target='_blank'>176</a>
-            <a class='missed' href='101-200/thumbnails/inner/177.0.png' title='' target='_blank'>177</a>
-            <a class='missed' href='101-200/thumbnails/inner/178.0.png' title='' target='_blank'>178</a>
-            <a class='missed' href='101-200/thumbnails/inner/179.0.png' title='' target='_blank'>179</a>
-            <a class='missed' href='101-200/thumbnails/inner/180.0.png' title='' target='_blank'>180</a>
-            <a class='missed' href='101-200/thumbnails/inner/181.0.png' title='' target='_blank'>181</a>
-            <a class='missed' href='101-200/thumbnails/inner/182.0.png' title='' target='_blank'>182</a>
+            <a class='enough' href='101-200/thumbnails/inner/174.4.png' title='' target='_blank'>174</a>
+            <a class='enough' href='101-200/thumbnails/inner/175.4.png' title='' target='_blank'>175</a>
+            <a class='perfect' href='101-200/thumbnails/inner/176.5.png' title='' target='_blank'>176</a>
+            <a class='perfect' href='101-200/thumbnails/inner/177.5.png' title='' target='_blank'>177</a>
+            <a class='perfect' href='101-200/thumbnails/inner/178.5.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
             <a class='enough' href='101-200/thumbnails/inner/183.4.png' title='' target='_blank'>183</a>
             <a class='enough' href='101-200/thumbnails/inner/184.4.png' title='' target='_blank'>184</a>
-            <a class='missed' href='101-200/thumbnails/inner/185.0.png' title='' target='_blank'>185</a>
+            <a class='perfect' href='101-200/thumbnails/inner/185.5.png' title='' target='_blank'>185</a>
             <a class='perfect' href='101-200/thumbnails/inner/186.5.png' title='' target='_blank'>186</a>
-            <a class='missed' href='101-200/thumbnails/inner/187.0.png' title='' target='_blank'>187</a>
-            <a class='missed' href='101-200/thumbnails/inner/188.0.png' title='' target='_blank'>188</a>
-            <a class='enough' href='101-200/thumbnails/inner/189.4.png' title='' target='_blank'>189</a>
-            <a class='missed' href='101-200/thumbnails/inner/190.0.png' title='' target='_blank'>190</a>
-            <a class='missed' href='101-200/thumbnails/inner/191.0.png' title='' target='_blank'>191</a>
+            <a class='perfect' href='101-200/thumbnails/inner/187.5.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='perfect' href='101-200/thumbnails/inner/189.5.png' title='' target='_blank'>189</a>
+            <a class='perfect' href='101-200/thumbnails/inner/190.5.png' title='' target='_blank'>190</a>
+            <a class='perfect' href='101-200/thumbnails/inner/191.5.png' title='' target='_blank'>191</a>
             <a class='perfect' href='101-200/thumbnails/inner/192.5.png' title='' target='_blank'>192</a>
-            <a class='enough' href='101-200/thumbnails/inner/193.4.png' title='' target='_blank'>193</a>
-            <a class='missed' href='101-200/thumbnails/inner/194.0.png' title='' target='_blank'>194</a>
-            <a class='missed' href='101-200/thumbnails/inner/195.0.png' title='' target='_blank'>195</a>
-            <a class='missed' href='101-200/thumbnails/inner/196.0.png' title='' target='_blank'>196</a>
-            <a class='enough' href='101-200/thumbnails/inner/197.4.png' title='' target='_blank'>197</a>
-            <a class='missed' href='101-200/thumbnails/inner/198.0.png' title='' target='_blank'>198</a>
-            <a class='enough' href='101-200/thumbnails/inner/199.4.png' title='' target='_blank'>199</a>
-            <a class='missed' href='101-200/thumbnails/inner/200.0.png' title='' target='_blank'>200</a>
+            <a class='perfect' href='101-200/thumbnails/inner/193.5.png' title='' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>196</a>
+            <a class='perfect' href='101-200/thumbnails/inner/197.5.png' title='' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>198</a>
+            <a class='perfect' href='101-200/thumbnails/inner/199.5.png' title='' target='_blank'>199</a>
         </td>
     </tr>
 </table>
