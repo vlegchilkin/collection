@@ -34,7 +34,7 @@
 	<a href='thumbnails/inner/475.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/475.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/476.thick_s.0.png' title='Thick s'><img src='thumbnails/inner/476.thick_s.0.png' alt='Thick s'></a>
+	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thick s'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/476.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/476.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -118,7 +118,7 @@
 	<a href='thumbnails/inner/496.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/496.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/497.thick_s.0.png' title='Thick s'><img src='thumbnails/inner/497.thick_s.0.png' alt='Thick s'></a>
+	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thick s'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/497.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/497.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -162,7 +162,7 @@
 	<a href='thumbnails/inner/507.thin_s.4.png' title='Thin s'><img src='thumbnails/inner/507.thin_s.4.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/508.thick_s.0.png' title='Thick s'><img src='thumbnails/inner/508.thick_s.0.png' alt='Thick s'></a>
+	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thick s'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/508.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/508.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -214,7 +214,7 @@
 	<a href='thumbnails/inner/520.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/520.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/521.thick_s.0.png' title='Thick s'><img src='thumbnails/inner/521.thick_s.0.png' alt='Thick s'></a>
+	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thick s'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/521.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/521.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
@@ -258,7 +258,7 @@
 	<a href='thumbnails/inner/531.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/531.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/532.thick_s.0.png' title='Thick s'><img src='thumbnails/inner/532.thick_s.0.png' alt='Thick s'></a>
+	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thick s'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thick s'></a>
 	<a href='thumbnails/inner/532.thin_s.5.png' title='Thin s'><img src='thumbnails/inner/532.thin_s.5.png' alt='Thin s'></a>
 </span>
 <span style="display: inline-block;">
