@@ -40,499 +40,423 @@ different, border hide partially a car image.
 
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/261.thick.5.png' title='Thick'><img src='thumbnails/inner/261.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/261.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/261.thin_brown.3.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/261.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/261.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/261.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/261.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/261.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/261.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/262.thick.5.png' title='Thick'><img src='thumbnails/inner/262.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/262.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/262.thin_brown.3.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/262.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/262.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/262.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/262.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/262.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/262.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/262.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/262.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/262.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/262.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/263.thick.5.png' title='Thick'><img src='thumbnails/inner/263.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/263.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/263.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/263.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/263.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/263.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/263.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/263.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/263.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/263.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/263.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/263.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/263.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/264.thick.4.png' title='Thick'><img src='thumbnails/inner/264.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/264.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/264.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/264.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/264.thin_brown.3.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/264.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/264.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/264.thick.5.png' title='Thick'><img src='thumbnails/inner/264.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/264.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/264.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/264.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/264.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/264.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/264.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/265.thick.5.png' title='Thick'><img src='thumbnails/inner/265.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/265.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/265.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/265.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/265.thin_brown.3.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/265.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/265.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/265.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/265.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/265.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/265.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/265.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/265.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/266.thick.5.png' title='Thick'><img src='thumbnails/inner/266.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
 	<a href='thumbnails/inner/266.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/266.thin_brown.5.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/266.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/266.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/266.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/266.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/266.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/266.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/267.thick.5.png' title='Thick'><img src='thumbnails/inner/267.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/267.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/267.thin_gold.4.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/267.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/267.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/267.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/267.thin_gold.5.png' alt='Thin gold'></a>
 	<a href='thumbnails/inner/267.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/267.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/268.thick.5.png' title='Thick'><img src='thumbnails/inner/268.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
 	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/268.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/268.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/268.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/268.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/268.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/268.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/269.thick.5.png' title='Thick'><img src='thumbnails/inner/269.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/269.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/269.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin gold'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/269.thin_silver.3.png' title='Thin silver'><img src='thumbnails/inner/269.thin_silver.3.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/269.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/269.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/269.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/269.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/269.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/269.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/270.thick.5.png' title='Thick'><img src='thumbnails/inner/270.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/270.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/270.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/270.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/270.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/270.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/270.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/270.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/270.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/271.thick.5.png' title='Thick'><img src='thumbnails/inner/271.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/271.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/271.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/271.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/271.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/271.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/271.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/271.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/271.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/271.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/271.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/272.thick.3.png' title='Thick'><img src='thumbnails/inner/272.thick.3.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/272.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/272.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/272.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/272.thin_gold.4.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/272.thick.5.png' title='Thick'><img src='thumbnails/inner/272.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/272.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/272.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/272.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/272.thin_gold.5.png' alt='Thin gold'></a>
 	<a href='thumbnails/inner/272.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/272.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/273.thick.5.png' title='Thick'><img src='thumbnails/inner/273.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/273.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/273.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/273.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/273.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/273.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/273.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/273.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/273.thin_silver.4.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/274.thick.4.png' title='Thick'><img src='thumbnails/inner/274.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/274.thick.5.png' title='Thick'><img src='thumbnails/inner/274.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/274.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/274.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/274.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/274.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/274.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/274.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/275.thick.4.png' title='Thick'><img src='thumbnails/inner/275.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/275.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/275.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/275.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/275.thin_brown.3.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/275.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/275.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/275.thick.5.png' title='Thick'><img src='thumbnails/inner/275.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/275.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/275.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/275.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/275.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/275.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/275.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/276.thick.5.png' title='Thick'><img src='thumbnails/inner/276.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/276.thin_bronze.3.png' title='Thin bronze'><img src='thumbnails/inner/276.thin_bronze.3.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/276.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/276.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/276.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/276.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/276.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/276.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/277.thick.4.png' title='Thick'><img src='thumbnails/inner/277.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/277.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/277.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/277.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/277.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/277.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/277.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/277.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/277.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/277.thick.5.png' title='Thick'><img src='thumbnails/inner/277.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/277.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/277.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/277.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/277.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/277.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/277.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/278.thick.3.png' title='Thick'><img src='thumbnails/inner/278.thick.3.png' alt='Thick'></a>
-	<a href='thumbnails/inner/278.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/278.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/278.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/278.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/278.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/278.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/278.thick.5.png' title='Thick'><img src='thumbnails/inner/278.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/278.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/278.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/278.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/278.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/278.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/278.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/279.thick.5.png' title='Thick'><img src='thumbnails/inner/279.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/279.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/279.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/279.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/279.thin_brown.3.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/279.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/279.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/279.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/279.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/279.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/279.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/279.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/279.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/280.thick.4.png' title='Thick'><img src='thumbnails/inner/280.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/280.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/280.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/280.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/280.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/280.thick.5.png' title='Thick'><img src='thumbnails/inner/280.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/280.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/280.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/280.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/280.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/280.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/280.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/281.thick.5.png' title='Thick'><img src='thumbnails/inner/281.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/281.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/281.thin_bronze.4.png' alt='Thin bronze'></a>
 	<a href='thumbnails/inner/281.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/281.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/281.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/281.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/281.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/281.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/282.thick.5.png' title='Thick'><img src='thumbnails/inner/282.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/282.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/282.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/282.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/282.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/282.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/282.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/282.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/282.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/282.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/282.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/282.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/282.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/283.thick.4.png' title='Thick'><img src='thumbnails/inner/283.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/283.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/283.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/283.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/283.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/283.thick.5.png' title='Thick'><img src='thumbnails/inner/283.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/283.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/283.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/283.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/283.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/283.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/283.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/284.thick.4.png' title='Thick'><img src='thumbnails/inner/284.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/284.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/284.thin_brown.3.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/284.thick.5.png' title='Thick'><img src='thumbnails/inner/284.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/284.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/284.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/284.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/284.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/284.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/284.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/285.thick.4.png' title='Thick'><img src='thumbnails/inner/285.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/285.thick.5.png' title='Thick'><img src='thumbnails/inner/285.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/285.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/285.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/285.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/285.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/285.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/285.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/286.thick.5.png' title='Thick'><img src='thumbnails/inner/286.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/286.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/286.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/286.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/286.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/286.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/286.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/286.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/286.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/286.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/286.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/287.thick.5.png' title='Thick'><img src='thumbnails/inner/287.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/287.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/287.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/287.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/287.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/287.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/287.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/287.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/287.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/287.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/287.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/288.thick.4.png' title='Thick'><img src='thumbnails/inner/288.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/288.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/288.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/288.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/288.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/288.thick.5.png' title='Thick'><img src='thumbnails/inner/288.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/288.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/288.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/288.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/288.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/288.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/288.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/289.thick.5.png' title='Thick'><img src='thumbnails/inner/289.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/289.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/289.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/289.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/289.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/289.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/289.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/289.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/289.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/290.thick.5.png' title='Thick'><img src='thumbnails/inner/290.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/290.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/290.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/290.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/290.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/290.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/290.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/290.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/290.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/291.thick.5.png' title='Thick'><img src='thumbnails/inner/291.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/291.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/291.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/291.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/291.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/291.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/291.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/292.thick.5.png' title='Thick'><img src='thumbnails/inner/292.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/292.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/292.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/292.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/292.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/292.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/292.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/292.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/292.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/292.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/292.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/293.thick.5.png' title='Thick'><img src='thumbnails/inner/293.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/293.thin_bronze.3.png' title='Thin bronze'><img src='thumbnails/inner/293.thin_bronze.3.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/293.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/293.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/293.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/293.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/293.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/293.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/294.thick.5.png' title='Thick'><img src='thumbnails/inner/294.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/294.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/294.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/294.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/294.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/294.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/294.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/294.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/294.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/295.thick.4.png' title='Thick'><img src='thumbnails/inner/295.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/295.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/295.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/295.thin_brown.3.png' title='Thin brown'><img src='thumbnails/inner/295.thin_brown.3.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/295.thin_gold.3.png' title='Thin gold'><img src='thumbnails/inner/295.thin_gold.3.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/295.thick.5.png' title='Thick'><img src='thumbnails/inner/295.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/295.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/295.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/295.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/295.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/295.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/295.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/296.thick.5.png' title='Thick'><img src='thumbnails/inner/296.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/296.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/296.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/296.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/296.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/296.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/296.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/296.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/296.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/296.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/296.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/297.thick.5.png' title='Thick'><img src='thumbnails/inner/297.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/297.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/297.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/297.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/297.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/297.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/297.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/297.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/297.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/297.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/297.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/298.thick.5.png' title='Thick'><img src='thumbnails/inner/298.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/298.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/298.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/298.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/298.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/298.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/298.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/298.thick_gold_gespanne.5.png' title='Thick gold gespanne'><img src='thumbnails/inner/298.thick_gold_gespanne.5.png' alt='Thick gold gespanne'></a>
+	<a href='thumbnails/inner/298.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/298.thin_silver.5.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/298.thick_non_gold.5.png' title='Thick non gold'><img src='thumbnails/inner/298.thick_non_gold.5.png' alt='Thick non gold'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/299.thick.5.png' title='Thick'><img src='thumbnails/inner/299.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/299.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/299.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/299.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/299.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/299.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/299.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/299.thin_silver.3.png' title='Thin silver'><img src='thumbnails/inner/299.thin_silver.3.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/299.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/299.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/300.thick.5.png' title='Thick'><img src='thumbnails/inner/300.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/300.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/300.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/300.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/300.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/300.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/300.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/300.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/300.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/301.thick.4.png' title='Thick'><img src='thumbnails/inner/301.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/301.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/301.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/301.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/301.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/301.thick.5.png' title='Thick'><img src='thumbnails/inner/301.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/301.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/301.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/301.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/301.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/301.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/301.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/302.thick.5.png' title='Thick'><img src='thumbnails/inner/302.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/302.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/302.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/302.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/302.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/302.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/302.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/302.thin_silver.2.png' title='Thin silver'><img src='thumbnails/inner/302.thin_silver.2.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/302.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/302.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/303.thick.5.png' title='Thick'><img src='thumbnails/inner/303.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/303.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/303.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/303.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/303.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/303.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/303.thin_gold.5.png' alt='Thin gold'></a>
 	<a href='thumbnails/inner/303.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/303.thin_silver.5.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/303.thick_no_shadow.5.png' title='Thick no shadow'><img src='thumbnails/inner/303.thick_no_shadow.5.png' alt='Thick no shadow'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/304.thick.5.png' title='Thick'><img src='thumbnails/inner/304.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/304.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/304.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/304.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/304.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/304.thick_2.5.png' title='Thick 2'><img src='thumbnails/inner/304.thick_2.5.png' alt='Thick 2'></a>
+	<a href='thumbnails/inner/304.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/304.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/304.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/304.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/304.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/304.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/305.thick.5.png' title='Thick'><img src='thumbnails/inner/305.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/305.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/305.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/305.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/305.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/305.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/305.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/305.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/305.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/306.thick.4.png' title='Thick'><img src='thumbnails/inner/306.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/306.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/306.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/306.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/306.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/306.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/306.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/306.thick.5.png' title='Thick'><img src='thumbnails/inner/306.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/306.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/306.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/306.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/306.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/306.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/306.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/307.thick.4.png' title='Thick'><img src='thumbnails/inner/307.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/307.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/307.thin_bronze.4.png' alt='Thin bronze'></a>
+	<a href='thumbnails/inner/307.thick.5.png' title='Thick'><img src='thumbnails/inner/307.thick.5.png' alt='Thick'></a>
 	<a href='thumbnails/inner/307.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/307.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/307.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/307.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/307.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/307.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/308.thick.4.png' title='Thick'><img src='thumbnails/inner/308.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/308.thin_bronze.3.png' title='Thin bronze'><img src='thumbnails/inner/308.thin_bronze.3.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/308.thin_gold.3.png' title='Thin gold'><img src='thumbnails/inner/308.thin_gold.3.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/308.thick.5.png' title='Thick'><img src='thumbnails/inner/308.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/308.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/308.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/308.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/308.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/308.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/308.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/309.thick.5.png' title='Thick'><img src='thumbnails/inner/309.thick.5.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/309.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/309.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/309.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/309.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/309.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/309.thin_gold.5.png' alt='Thin gold'></a>
 	<a href='thumbnails/inner/309.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/309.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/310.thick.5.png' title='Thick'><img src='thumbnails/inner/310.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/310.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/310.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/310.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/310.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/310.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/310.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/310.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/310.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/310.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/310.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/311.thick.4.png' title='Thick'><img src='thumbnails/inner/311.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/311.thin_bronze.3.png' title='Thin bronze'><img src='thumbnails/inner/311.thin_bronze.3.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/311.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/311.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/311.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/311.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/311.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/311.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/311.thick.5.png' title='Thick'><img src='thumbnails/inner/311.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/311.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/311.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/311.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/311.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/311.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/311.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/312.thick.4.png' title='Thick'><img src='thumbnails/inner/312.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/312.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/312.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/312.thick.5.png' title='Thick'><img src='thumbnails/inner/312.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/312.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/312.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/312.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/312.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/312.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/312.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/313.thick.4.png' title='Thick'><img src='thumbnails/inner/313.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/313.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/313.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/313.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/313.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/313.thick.5.png' title='Thick'><img src='thumbnails/inner/313.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/313.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/313.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/313.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/313.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/313.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/313.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/314.thick.4.png' title='Thick'><img src='thumbnails/inner/314.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/314.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/314.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/314.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/314.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/314.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/314.thin_silver.4.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/314.thick_no_skies.4.png' title='Thick no skies'><img src='thumbnails/inner/314.thick_no_skies.4.png' alt='Thick no skies'></a>
+	<a href='thumbnails/inner/314.thick.5.png' title='Thick'><img src='thumbnails/inner/314.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/314.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/314.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/314.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/314.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/314.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/314.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/315.thick.4.png' title='Thick'><img src='thumbnails/inner/315.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/315.thick.5.png' title='Thick'><img src='thumbnails/inner/315.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/315.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/315.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/315.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/315.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/315.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/315.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/316.thick.4.png' title='Thick'><img src='thumbnails/inner/316.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/316.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/316.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/316.thick.5.png' title='Thick'><img src='thumbnails/inner/316.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/316.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/316.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/316.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/316.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/316.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/316.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/316.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/316.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/317.thick.4.png' title='Thick'><img src='thumbnails/inner/317.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/317.thick.5.png' title='Thick'><img src='thumbnails/inner/317.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/317.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/317.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/317.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/317.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='thumbnails/inner/317.thin_silver.4.png' title='Thin silver'><img src='thumbnails/inner/317.thin_silver.4.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/317.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/317.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/318.thick.4.png' title='Thick'><img src='thumbnails/inner/318.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/318.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/318.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/318.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/318.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/318.thick.5.png' title='Thick'><img src='thumbnails/inner/318.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/318.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/318.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/318.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/318.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/318.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/318.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/319.thick.5.png' title='Thick'><img src='thumbnails/inner/319.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/319.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/319.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/319.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/319.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/319.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/319.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/319.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/319.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/320.thick.5.png' title='Thick'><img src='thumbnails/inner/320.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/320.thin_bronze.3.png' title='Thin bronze'><img src='thumbnails/inner/320.thin_bronze.3.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/320.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/320.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/320.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/320.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/320.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/320.thin_gold.5.png' alt='Thin gold'></a>
 	<a href='thumbnails/inner/320.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/320.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/321.thick.4.png' title='Thick'><img src='thumbnails/inner/321.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/321.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/321.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/321.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/321.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/321.thick.5.png' title='Thick'><img src='thumbnails/inner/321.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/321.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/321.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/321.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/321.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/321.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/321.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/322.thick.4.png' title='Thick'><img src='thumbnails/inner/322.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/322.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/322.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/322.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/322.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/322.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/322.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/322.thick.5.png' title='Thick'><img src='thumbnails/inner/322.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/322.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/322.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/322.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/322.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/322.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/322.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/323.thick.4.png' title='Thick'><img src='thumbnails/inner/323.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/323.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/323.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/323.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/323.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/323.thick.5.png' title='Thick'><img src='thumbnails/inner/323.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/323.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/323.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/323.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/323.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/323.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/323.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/324.thick.4.png' title='Thick'><img src='thumbnails/inner/324.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/324.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/324.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/324.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/324.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/324.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/324.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/324.thick_white_background.4.png' title='Thick white background'><img src='thumbnails/inner/324.thick_white_background.4.png' alt='Thick white background'></a>
+	<a href='thumbnails/inner/324.thick.5.png' title='Thick'><img src='thumbnails/inner/324.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/324.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/324.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/324.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/324.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/324.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/324.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/325.thick.4.png' title='Thick'><img src='thumbnails/inner/325.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/325.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/325.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/325.thick.5.png' title='Thick'><img src='thumbnails/inner/325.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/325.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/325.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/325.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/325.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/325.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/325.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/326.thick.4.png' title='Thick'><img src='thumbnails/inner/326.thick.4.png' alt='Thick'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin bronze'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/326.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/326.thin_brown.4.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/326.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/326.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/326.thick.5.png' title='Thick'><img src='thumbnails/inner/326.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/326.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/326.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/326.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/326.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/326.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/326.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/327.thick.5.png' title='Thick'><img src='thumbnails/inner/327.thick.5.png' alt='Thick'></a>
-	<a href='thumbnails/inner/327.thin_bronze.3.png' title='Thin bronze'><img src='thumbnails/inner/327.thin_bronze.3.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/327.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/327.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/327.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/327.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/327.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/327.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/327.thick_2.5.png' title='Thick 2'><img src='thumbnails/inner/327.thick_2.5.png' alt='Thick 2'></a>
+	<a href='thumbnails/inner/327.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/327.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/328.thick.4.png' title='Thick'><img src='thumbnails/inner/328.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/328.thin_bronze.5.png' title='Thin bronze'><img src='thumbnails/inner/328.thin_bronze.5.png' alt='Thin bronze'></a>
-	<a href='thumbnails/inner/328.thin_brown.4.png' title='Thin brown'><img src='thumbnails/inner/328.thin_brown.4.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/328.thick.5.png' title='Thick'><img src='thumbnails/inner/328.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/328.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/328.thin_brown.5.png' alt='Thin brown'></a>
 	<a href='thumbnails/inner/328.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/328.thin_gold.5.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
-	<a href='thumbnails/inner/328.thick_white_back.4.png' title='Thick white back'><img src='thumbnails/inner/328.thick_white_back.4.png' alt='Thick white back'></a>
+	<a href='thumbnails/inner/328.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/328.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/329.thick.4.png' title='Thick'><img src='thumbnails/inner/329.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/329.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/329.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/329.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/329.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/329.thick.5.png' title='Thick'><img src='thumbnails/inner/329.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/329.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/329.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/329.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/329.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/329.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/329.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/330.thick.4.png' title='Thick'><img src='thumbnails/inner/330.thick.4.png' alt='Thick'></a>
-	<a href='thumbnails/inner/330.thin_bronze.4.png' title='Thin bronze'><img src='thumbnails/inner/330.thin_bronze.4.png' alt='Thin bronze'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin brown'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin brown'></a>
-	<a href='thumbnails/inner/330.thin_gold.4.png' title='Thin gold'><img src='thumbnails/inner/330.thin_gold.4.png' alt='Thin gold'></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Thin silver'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Thin silver'></a>
+	<a href='thumbnails/inner/330.thick.5.png' title='Thick'><img src='thumbnails/inner/330.thick.5.png' alt='Thick'></a>
+	<a href='thumbnails/inner/330.thin_brown.5.png' title='Thin brown'><img src='thumbnails/inner/330.thin_brown.5.png' alt='Thin brown'></a>
+	<a href='thumbnails/inner/330.thin_gold.5.png' title='Thin gold'><img src='thumbnails/inner/330.thin_gold.5.png' alt='Thin gold'></a>
+	<a href='thumbnails/inner/330.thin_silver.5.png' title='Thin silver'><img src='thumbnails/inner/330.thin_silver.5.png' alt='Thin silver'></a>
 </span>
 
