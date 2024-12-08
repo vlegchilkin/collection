@@ -9,6 +9,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pillow = "*"
+matplotlib = "*"
+pandas = "*"
 
 [tool.poetry.dev-dependencies]
 pre-commit = { version = "^3.5.0", source = "pypi" }

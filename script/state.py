@@ -1,9 +1,12 @@
-import dataclasses
+import dataclasses as dc
 import os
 import re
 from pathlib import Path
 import collections as cl
 import subprocess
+
+from script import OuterRelease
+from script.production import update_production
 
 state_template = Path("../templates/state.html").read_text()
 qualities = {
@@ -86,23 +89,13 @@ def inners(index_root: Path, series_context: Path):
 OUTER_REG = re.compile(r"^(\d{4})_(\d{2})(\{.*})?\[(\d{1,2})](.*)?$")
 
 
-@dataclasses.dataclass
-class OuterRelease:
-    folder: str
-    year: str
-    month: str
-    product_no: str | None
-    total: int
-    caption: str | None
-    collection: dict
-
 
 MISSED_PNG = "missed.png"
 MISSED_OUTER_PNG = "missed_outer.png"
 MISSED_ROOT = "/collection/gum_wrappers/kent/turbo/"
 
 
-def outers(index_root: Path, series_context: Path):
+def outers(index_root: Path, series_context: Path) -> tuple[str, str, list[OuterRelease]]:
     root_folder = index_root / series_context / "thumbnails" / "outer"
     folders = sorted([name for name in os.listdir(root_folder) if os.path.isdir(root_folder / name)])
     releases = []
@@ -166,7 +159,7 @@ def outers(index_root: Path, series_context: Path):
         index_section += f"\n{INDENT}<br/>"
         readme_section += "\n"
 
-    return readme_section, index_section
+    return readme_section, index_section, releases
 
 
 def resolve_indent():
@@ -177,11 +170,32 @@ def resolve_indent():
 INDENT = resolve_indent()
 
 
-def build(index_filepath: Path, series_path: Path):
+@dc.dataclass
+class IndexSection:
+    title: str
+    body_start_offset: int
+    body_end_offset: int
+
+
+def find_section(index_text: str, series_context: Path) -> IndexSection:
+    x = re.compile(fr"## (\[.*\]\({series_context}\))\n\n")
+    match = re.search(x, index_text)
+    title = match.groups()[0]
+    start_offset = match.end()
+    try:
+        end_offset = index_text.index("\n## ", start_offset)
+    except ValueError:
+        end_offset = len(index_text)
+    return IndexSection(title, start_offset, end_offset)
+
+
+def build(index_filepath: Path, series_path: Path) -> tuple[str, list[OuterRelease]]:
+    print(f"build: {series_path}")
+
     index_root = index_filepath.parent
     series_context = series_path.relative_to(index_root)
     title = " ".join([v.capitalize() for v in series_path.parts[2:]])
-    outer_readme, outer_index = outers(index_root, series_context)
+    outer_readme, outer_index, releases = outers(index_root, series_context)
     inner_readme, inner_index = inners(index_root, series_context)
     result = (
         state_template
@@ -190,14 +204,9 @@ def build(index_filepath: Path, series_path: Path):
         .replace("{{ inners }}", inner_index)
     )
     state = index_filepath.read_text()
-    marker = f"({series_context})\n\n"
-    print(marker)
-    start_offset = state.index(marker) + len(marker)
-    try:
-        end_offset = state.index("\n## ", start_offset)
-    except ValueError:
-        end_offset = len(state)
-    state = state[0:start_offset] + result + state[end_offset:]
+
+    section = find_section(state, series_context)
+    state = state[0:section.body_start_offset] + result + state[section.body_end_offset:]
     with open(index_filepath, "w") as f:
         f.write(state)
 
@@ -209,11 +218,16 @@ def build(index_filepath: Path, series_path: Path):
     with open(readme_filepath, "w") as f:
         f.write(readme)
 
+    return section.title, releases
+
 
 if __name__ == "__main__":
     index_file = None
+    series_releases = dict()
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
         if "thumbnails" in dirs:
-            build(index_file, Path(root))
+            title, releases = build(index_file, Path(root))
+            series_releases[title] = releases
+    update_production(index_file, series_releases)
