@@ -41,7 +41,7 @@ def draw(releases: dict[str, List[OuterRelease]], output_file):
 
     # Adjust the tick positions and labels
     ax.set_xticks(np.arange(len(moments)) + 0.5)  # Center labels
-    ax.set_xticklabels(moments, rotation=90, ha="right", fontsize=10)
+    ax.set_xticklabels(moments, rotation=90, ha="center", fontsize=10)
     ax.set_yticks(np.arange(len(products)) + 0.5)  # Center labels
     ax.set_yticklabels(products, fontsize=10)
     ax.set_yticklabels([name_re.match(product).groups()[0] for product in products], fontsize=10)

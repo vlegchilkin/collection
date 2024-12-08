@@ -357,7 +357,13 @@ layout: default
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
-            1991.05 [0591] no TSE 3-line no TS 8000<br/>
+            1991.04 [0491] no TSE 3-line no TS 8000 aligned<br/>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.5'/></a>
+            <br/>1991.05 [0591] no TSE 3-line no TS 8000<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.2'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.3'/></a>
