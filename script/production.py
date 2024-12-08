@@ -1,12 +1,15 @@
 import datetime
 import re
 from pathlib import Path
-from typing import List
+from typing import List, Any
 
 import matplotlib.pyplot as plt
 from matplotlib import colors as mcolors
 import pandas as pd
 import numpy as np
+from matplotlib.axes import Axes
+from matplotlib.axis import Axis
+from matplotlib.figure import Figure
 
 from script import OuterRelease
 
@@ -42,6 +45,7 @@ def draw(releases: dict[str, List[OuterRelease]], output_file):
     ax.set_yticks(np.arange(len(products)) + 0.5)  # Center labels
     ax.set_yticklabels(products, fontsize=10)
     ax.set_yticklabels([name_re.match(product).groups()[0] for product in products], fontsize=10)
+    [t.set_color(colors[idx % len(colors)]) for idx, t in enumerate(ax.yaxis.get_ticklabels())]
 
     # Set labels, title
     ax.set_xlabel("(C) Vitaly Legchilkin", fontsize=12, loc="right")
@@ -52,11 +56,23 @@ def draw(releases: dict[str, List[OuterRelease]], output_file):
     ax.set_xlim(0, len(moments))  # Set limits to align edges
     ax.set_ylim(0, len(products))
 
-    # Add gridlines for clarity
+    # Manually add horizontal grid lines for each product
+    for i, product in enumerate(products):
+        y_center = i + 0.5  # Center the grid line
+        ax.axhline(y=y_center, color=colors[i % len(colors)], linestyle="--", linewidth=1)
+
+    # Add minor gridlines for overall clarity
     ax.set_xticks(np.arange(0, len(moments)), minor=True)
-    ax.set_yticks(np.arange(0, len(products)), minor=True)
     ax.grid(which="minor", color="gray", linestyle="--", linewidth=0.5)
     ax.tick_params(which="minor", bottom=False, left=False)
+
+    # Add gridlines for clarity
+    # ax.set_xticks(np.arange(0, len(moments)), minor=True)
+    # ax.set_yticks(np.arange(0, len(products)), minor=True)
+    # ax.grid(which="minor", color="gray", linestyle="--", linewidth=0.5)
+    # ax.tick_params(which="minor", bottom=False, left=False)
+    # [t.set_color(colors[idx % len(colors)]) for idx, t in enumerate(ax.yaxis.get_ticklines())]
+
 
     plt.tight_layout()
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
