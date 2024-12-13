@@ -8,7 +8,15 @@ layout: default
 
 ![producing](kent_turbo_producing.png "Kent Turbo Producing")
 
+## Statistic
+
+\[Covers: 323 of 1061\]
+\[Wrappers: 2226 of 2368\]
+
 ## [T1 – Turbo 1-50](black/1-50)
+
+Covers: 0 / 40
+Wrappers: 45 / 50
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -120,6 +128,9 @@ layout: default
 </table>
 
 ## [T2 – Turbo 51-120](black/51-120)
+
+Covers: 16 / 155
+Wrappers: 80 / 80
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -389,6 +400,9 @@ layout: default
 </table>
 
 ## [T3 – Turbo 121-190](black/121-190)
+
+Covers: 11 / 60
+Wrappers: 198 / 249
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -685,6 +699,9 @@ layout: default
 
 ## [T4 – Turbo 191-260](black/191-260)
 
+Covers: 21 / 60
+Wrappers: 98 / 151
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -909,6 +926,9 @@ layout: default
 </table>
 
 ## [T5 – Turbo 261-330](black/261-330)
+
+Covers: 35 / 45
+Wrappers: 280 / 281
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1257,6 +1277,9 @@ layout: default
 
 ## [U1 – Turbo Super 331-400](super/331-400)
 
+Covers: 7 / 10
+Wrappers: 70 / 70
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -1351,6 +1374,9 @@ layout: default
 </table>
 
 ## [U2 – Turbo Super 401-470](super/401-470)
+
+Covers: 13 / 25
+Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1464,6 +1490,9 @@ layout: default
 </table>
 
 ## [U3 – Turbo Super 471-540](super/471-540)
+
+Covers: 30 / 190
+Wrappers: 72 / 72
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1757,6 +1786,9 @@ layout: default
 
 ## [C1/C2 – Turbo Classic 1-70](classic/1-70)
 
+Covers: 16 / 25
+Wrappers: 140 / 140
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -1939,6 +1971,9 @@ layout: default
 </table>
 
 ## [C3 – Turbo Classic 71-140](classic/71-140)
+
+Covers: 38 / 150
+Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2188,6 +2223,9 @@ layout: default
 
 ## [S1/S2 – Turbo Sport 1-70](sport/1-70)
 
+Covers: 11 / 27
+Wrappers: 113 / 140
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -2374,6 +2412,9 @@ layout: default
 
 ## [S3 – Turbo Sport 71-140](sport/71-140)
 
+Covers: 27 / 50
+Wrappers: 71 / 71
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -2511,6 +2552,9 @@ layout: default
 </table>
 
 ## [S4 – Turbo Sport 141-210](sport/141-210)
+
+Covers: 9 / 80
+Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2683,6 +2727,9 @@ layout: default
 
 ## [S5 – Turbo Sport 401-470](sport/401-470)
 
+Covers: 1 / 1
+Wrappers: 70 / 70
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -2767,6 +2814,9 @@ layout: default
 </table>
 
 ## [S6 – Turbo Sport 471-540](sport/471-540)
+
+Covers: 5 / 8
+Wrappers: 135 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2937,6 +2987,9 @@ layout: default
 
 ## [E1 – Turbo 2000 Sport 211-280](2000/211-280)
 
+Covers: 5 / 20
+Wrappers: 70 / 70
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -3043,6 +3096,9 @@ layout: default
 </table>
 
 ## [E2 – Turbo 2000 Super 71-140](2000/71-140)
+
+Covers: 4 / 30
+Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -3162,6 +3218,9 @@ layout: default
 </table>
 
 ## [F1 – Turbo 2003 Sport RUS](2003/RUS/sport)
+
+Covers: 0 / 10
+Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -3286,6 +3345,9 @@ layout: default
 
 ## [F2 – Turbo 2003 Super RUS](2003/RUS/super)
 
+Covers: 5 / 6
+Wrappers: 99 / 99
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -3404,6 +3466,9 @@ layout: default
 </table>
 
 ## [F3 – Turbo 2003 Sport TUR](2003/TUR/sport)
+
+Covers: 24 / 24
+Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -3544,6 +3609,9 @@ layout: default
 
 ## [F4 – Turbo 2003 Super TUR](2003/TUR/super)
 
+Covers: 5 / 5
+Wrappers: 99 / 99
+
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
@@ -3661,6 +3729,9 @@ layout: default
 </table>
 
 ## [H1/H2 – Turbo 2007](2007)
+
+Covers: 40 / 40
+Wrappers: 108 / 108
 
 <table style="width:100%">
     <tr style="vertical-align: top;">

@@ -4,6 +4,7 @@ import re
 from pathlib import Path
 import collections as cl
 import subprocess
+from typing import List, Self
 
 from script import OuterRelease
 from script.production import update_production
@@ -32,7 +33,7 @@ def get_file_view_url(index_root: Path, series_context: Path, file_commits, file
 SERIES_PATH_REG = re.compile(r"^(.*)/(\d+)-(\d+)$")
 
 
-def inners(index_root: Path, series_context: Path):
+def inners(index_root: Path, series_context: Path) -> tuple[str, str, int, int]:
     numbers = cl.defaultdict(dict)
     for filename in os.listdir(index_root / series_context / "thumbnails" / "inner"):
         if filename == MISSED_PNG or not filename.endswith(".png"):
@@ -68,6 +69,7 @@ def inners(index_root: Path, series_context: Path):
             )
         index_section += f"{opt_title} ({counter}/{hi - lo + 1})<br/>" + option_section
 
+    inner_count, inner_total = 0, 0
     readme_section = ""
     for number in range(lo, hi + 1):
         readme_section += "<span style=\"display: inline-block;\">\n"
@@ -81,14 +83,14 @@ def inners(index_root: Path, series_context: Path):
                 f"<img src='{inner_view_url}' alt='{opt_title}'>"
                 f"</a>\n"
             )
+            inner_total += 1
+            inner_count += bool(filename)
         readme_section += "</span>\n"
 
-    return readme_section, index_section.strip()
+    return readme_section, index_section.strip(), inner_count, inner_total
 
 
 OUTER_REG = re.compile(r"^(\d{4})_(\d{2})(\{.*})?\[(\d{1,2})](.*)?$")
-
-
 
 MISSED_PNG = "missed.png"
 MISSED_OUTER_PNG = "missed_outer.png"
@@ -177,9 +179,36 @@ class IndexSection:
     body_end_offset: int
 
 
-def find_section(index_text: str, series_context: Path) -> IndexSection:
-    x = re.compile(fr"## (\[.*\]\({series_context}\))\n\n")
-    match = re.search(x, index_text)
+@dc.dataclass
+class Total:
+    outers_count: int = 0
+    outers_total: int = 0
+    inners_count: int = 0
+    inners_total: int = 0
+
+    def add_releases(self, outer_releases: List[OuterRelease]) -> Self:
+        for release in outer_releases:
+            self.outers_total += release.total
+            self.outers_count += len(release.collection)
+
+        return self
+
+    def add(self, other: 'Total') -> Self:
+        self.outers_count += other.outers_count
+        self.outers_total += other.outers_total
+        self.inners_count += other.inners_count
+        self.inners_total += other.inners_total
+
+        return self
+
+
+def update_series_section(index_filepath: Path, series_context: Path, body: str) -> str:
+    pattern = re.compile(fr"## (\[.*\]\({series_context}\))\n\n")
+    return update_section(index_filepath, pattern, body)
+
+
+def find_section(index_text: str, section_pattern: re.Pattern) -> IndexSection:
+    match = re.search(section_pattern, index_text)
     title = match.groups()[0]
     start_offset = match.end()
     try:
@@ -189,26 +218,39 @@ def find_section(index_text: str, series_context: Path) -> IndexSection:
     return IndexSection(title, start_offset, end_offset)
 
 
-def build(index_filepath: Path, series_path: Path) -> tuple[str, list[OuterRelease]]:
+def update_section(index_filepath: Path, section_pattern: re.Pattern, body: str) -> str:
+    state = index_filepath.read_text()
+
+    section = find_section(state, section_pattern)
+    state = state[0:section.body_start_offset] + body + state[section.body_end_offset:]
+    with open(index_filepath, "w") as f:
+        f.write(state)
+
+    return section.title
+
+
+def build(index_filepath: Path, series_path: Path) -> tuple[str, Total, list[OuterRelease]]:
     print(f"build: {series_path}")
 
     index_root = index_filepath.parent
     series_context = series_path.relative_to(index_root)
     title = " ".join([v.capitalize() for v in series_path.parts[2:]])
     outer_readme, outer_index, releases = outers(index_root, series_context)
-    inner_readme, inner_index = inners(index_root, series_context)
-    result = (
+    inner_readme, inner_index, inner_count, inner_total = inners(index_root, series_context)
+
+    total = Total(inners_count=inner_count, inners_total=inner_total).add_releases(releases)
+
+    section_body = (
         state_template
+        .replace("{{ outers_count }}", f"{total.outers_count}")
+        .replace("{{ outers_total }}", f"{total.outers_total}")
+        .replace("{{ inners_count }}", f"{total.inners_count}")
+        .replace("{{ inners_total }}", f"{total.inners_total}")
         .replace("{{ title }}", title)
         .replace("{{ outers }}", outer_index)
         .replace("{{ inners }}", inner_index)
     )
-    state = index_filepath.read_text()
-
-    section = find_section(state, series_context)
-    state = state[0:section.body_start_offset] + result + state[section.body_end_offset:]
-    with open(index_filepath, "w") as f:
-        f.write(state)
+    section_title = update_series_section(index_filepath, series_context, section_body)
 
     readme_filepath = index_root / series_context / "README.md"
     readme = readme_filepath.read_text()
@@ -218,16 +260,31 @@ def build(index_filepath: Path, series_path: Path) -> tuple[str, list[OuterRelea
     with open(readme_filepath, "w") as f:
         f.write(readme)
 
-    return section.title, releases
+    return section_title, total, releases
+
+
+def update_statistic():
+    pattern = re.compile(r"## (Statistic)\n\n")
+    stats = Total()
+    for other in totals.values():
+        stats.add(other)
+    body = f"""
+\[Covers: {stats.outers_count} of {stats.outers_total}\]
+\[Wrappers: {stats.inners_count} of {stats.inners_total}\]    
+"""
+    return update_section(index_file, pattern, body)
 
 
 if __name__ == "__main__":
     index_file = None
     series_releases = dict()
+    totals = dict()
     for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
         if "thumbnails" in dirs:
-            title, releases = build(index_file, Path(root))
+            title, total, releases = build(index_file, Path(root))
             series_releases[title] = releases
+            totals[title] = total
     update_production(index_file, series_releases)
+    update_statistic()
