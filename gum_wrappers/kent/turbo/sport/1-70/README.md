@@ -73,7 +73,7 @@
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/16.5.png' title=''><img src='thumbnails/inner/16.5.png' alt=''></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Violet'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Violet'></a>
+	<a href='thumbnails/inner/16.violet.4.png' title='Violet'><img src='thumbnails/inner/16.violet.4.png' alt='Violet'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/17.4.png' title=''><img src='thumbnails/inner/17.4.png' alt=''></a>
@@ -209,7 +209,7 @@
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/50.5.png' title=''><img src='thumbnails/inner/50.5.png' alt=''></a>
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title='Violet'><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt='Violet'></a>
+	<a href='thumbnails/inner/50.violet.3.png' title='Violet'><img src='thumbnails/inner/50.violet.3.png' alt='Violet'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/51.5.png' title=''><img src='thumbnails/inner/51.5.png' alt=''></a>

@@ -10,8 +10,9 @@ layout: default
 
 ## Statistic
 
+
 \[Covers: 323 of 1061\]
-\[Wrappers: 2226 of 2368\]
+\[Wrappers: 2228 of 2368\]
 
 ## [T1 – Turbo 1-50](black/1-50)
 
@@ -2224,7 +2225,7 @@ Wrappers: 70 / 70
 ## [S1/S2 – Turbo Sport 1-70](sport/1-70)
 
 Covers: 11 / 27
-Wrappers: 113 / 140
+Wrappers: 115 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2335,7 +2336,7 @@ Wrappers: 113 / 140
             <a class='perfect' href='sport/1-70/thumbnails/inner/67.5.png' title='' target='_blank'>67</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/68.5.png' title='' target='_blank'>68</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/69.5.png' title='' target='_blank'>69</a>
-            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='' target='_blank'>70</a><br/>Violet (43/70)<br/>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='' target='_blank'>70</a><br/>Violet (45/70)<br/>
             <a class='enough' href='sport/1-70/thumbnails/inner/1.violet.4.png' title='Violet' target='_blank'>1</a>
             <a class='good' href='sport/1-70/thumbnails/inner/2.violet.3.png' title='Violet' target='_blank'>2</a>
             <a class='missed' href='missed.png' title='Violet' target='_blank'>3</a>
@@ -2351,7 +2352,7 @@ Wrappers: 113 / 140
             <a class='missed' href='missed.png' title='Violet' target='_blank'>13</a>
             <a class='missed' href='missed.png' title='Violet' target='_blank'>14</a>
             <a class='good' href='sport/1-70/thumbnails/inner/15.violet.3.png' title='Violet' target='_blank'>15</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>16</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/16.violet.4.png' title='Violet' target='_blank'>16</a>
             <a class='missed' href='missed.png' title='Violet' target='_blank'>17</a>
             <a class='good' href='sport/1-70/thumbnails/inner/18.violet.3.png' title='Violet' target='_blank'>18</a>
             <a class='good' href='sport/1-70/thumbnails/inner/19.violet.3.png' title='Violet' target='_blank'>19</a>
@@ -2385,7 +2386,7 @@ Wrappers: 113 / 140
             <a class='good' href='sport/1-70/thumbnails/inner/47.violet.3.png' title='Violet' target='_blank'>47</a>
             <a class='missed' href='missed.png' title='Violet' target='_blank'>48</a>
             <a class='good' href='sport/1-70/thumbnails/inner/49.violet.3.png' title='Violet' target='_blank'>49</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>50</a>
+            <a class='good' href='sport/1-70/thumbnails/inner/50.violet.3.png' title='Violet' target='_blank'>50</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/51.violet.4.png' title='Violet' target='_blank'>51</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/52.violet.4.png' title='Violet' target='_blank'>52</a>
             <a class='good' href='sport/1-70/thumbnails/inner/53.violet.3.png' title='Violet' target='_blank'>53</a>
