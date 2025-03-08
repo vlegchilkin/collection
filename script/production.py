@@ -28,6 +28,9 @@ COLORS = {
     "2000": "tab:pink",
     "2003": "tab:olive",
     "2007": "tab:cyan",
+
+    "1-100": "black",
+    "101-200": "tab:orange",
 }
 
 SERIES_RE = re.compile(r"^\[(.*)\]\((.*)\)$")
