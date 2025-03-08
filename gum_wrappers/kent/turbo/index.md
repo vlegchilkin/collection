@@ -10,7 +10,7 @@ layout: default
 
 ## Statistic
 
-\[Covers: 498 of 1061\]
+\[Covers: 507 of 1061\]
 \[Wrappers: 2159 of 2193\]
 
 ## [T1 – Turbo 1-50](black/1-50)
@@ -1646,14 +1646,14 @@ Wrappers: 72 / 72
 
 ## [C1/C2 – Turbo Classic 1-70](classic/1-70)
 
-Covers: 16 / 25
+Covers: 25 / 25
 Wrappers: 140 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:30%;text-align: center">
             1995.03 [C95] no classic<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.03 [C95] no classic.1'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/1.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/1.5.png' width='50' alt='1995.03 [C95] no classic.1'/></a>
             <a href='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/2.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/2.5.png' width='50' alt='1995.03 [C95] no classic.2'/></a>
             <a href='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/3.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/3.5.png' width='50' alt='1995.03 [C95] no classic.3'/></a>
             <a href='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/4.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/4.5.png' width='50' alt='1995.03 [C95] no classic.4'/></a>
@@ -1666,18 +1666,18 @@ Wrappers: 140 / 140
             <a href='classic/1-70/thumbnails/outer/1995_05{E_95}[5]no_classic/5.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_05{E_95}[5]no_classic/5.5.png' width='50' alt='1995.05 [E95] no classic.5'/></a>
             <br/>1995.06 [F95] with classic<br/>
             <a href='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/1.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/1.5.png' width='50' alt='1995.06 [F95] with classic.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.06 [F95] with classic.2'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/2.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/2.5.png' width='50' alt='1995.06 [F95] with classic.2'/></a>
             <a href='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/3.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/3.5.png' width='50' alt='1995.06 [F95] with classic.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.06 [F95] with classic.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.06 [F95] with classic.5'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/4.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/4.5.png' width='50' alt='1995.06 [F95] with classic.4'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/5.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_06{F_95}[5]with_classic/5.5.png' width='50' alt='1995.06 [F95] with classic.5'/></a>
             <br/>1995.09 [I95] with classic<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.09 [I95] with classic.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.09 [I95] with classic.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.09 [I95] with classic.3'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/1.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/1.5.png' width='50' alt='1995.09 [I95] with classic.1'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/2.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/2.5.png' width='50' alt='1995.09 [I95] with classic.2'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/3.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/3.5.png' width='50' alt='1995.09 [I95] with classic.3'/></a>
             <a href='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/4.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/4.5.png' width='50' alt='1995.09 [I95] with classic.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.09 [I95] with classic.5'/></a>
+            <a href='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/5.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_09{I_95}[5]with_classic/5.5.png' width='50' alt='1995.09 [I95] with classic.5'/></a>
             <br/>1996.01 [A96] with classic<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.01 [A96] with classic.1'/></a>
+            <a href='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/1.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/1.5.png' width='50' alt='1996.01 [A96] with classic.1'/></a>
             <a href='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/2.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/2.5.png' width='50' alt='1996.01 [A96] with classic.2'/></a>
             <a href='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/3.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/3.5.png' width='50' alt='1996.01 [A96] with classic.3'/></a>
             <a href='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/4.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1996_01{A96}[5]with_classic/4.5.png' width='50' alt='1996.01 [A96] with classic.4'/></a>
