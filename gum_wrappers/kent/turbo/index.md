@@ -10,8 +10,9 @@ layout: default
 
 ## Statistic
 
+
 \[Covers: 434 of 1061\]
-\[Wrappers: 2212 of 2273\]
+\[Wrappers: 2186 of 2273\]
 
 ## [T1 – Turbo 1-50](black/1-50)
 
@@ -402,7 +403,7 @@ Wrappers: 80 / 80
 ## [T3 – Turbo 121-190](black/121-190)
 
 Covers: 37 / 60
-Wrappers: 154 / 154
+Wrappers: 128 / 154
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -482,7 +483,7 @@ Wrappers: 154 / 154
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (67/70)<br/>
             <a class='enough' href='black/121-190/thumbnails/inner/121.4.png' title='' target='_blank'>121</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/122.5.png' title='' target='_blank'>122</a>
             <a class='enough' href='black/121-190/thumbnails/inner/123.4.png' title='' target='_blank'>123</a>
@@ -552,7 +553,7 @@ Wrappers: 154 / 154
             <a class='enough' href='black/121-190/thumbnails/inner/187.4.png' title='' target='_blank'>187</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/188.5.png' title='' target='_blank'>188</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/189.5.png' title='' target='_blank'>189</a>
-            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='' target='_blank'>190</a><br/>Oil (70/70)<br/>
+            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='' target='_blank'>190</a><br/>Oil (47/70)<br/>
             <a class='enough' href='black/121-190/thumbnails/inner/121.oil.4.png' title='Oil' target='_blank'>121</a>
             <a class='enough' href='black/121-190/thumbnails/inner/122.oil.4.png' title='Oil' target='_blank'>122</a>
             <a class='missed' href='black/121-190/thumbnails/inner/123.oil.0.png' title='Oil' target='_blank'>123</a>

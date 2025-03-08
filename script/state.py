@@ -59,7 +59,7 @@ def inners(index_root: Path, series_context: Path) -> tuple[str, str, int, int]:
         counter = 0
         for number in range(lo, hi + 1):
             filename, quality = numbers[option][number] if number in numbers[option] else (None, None)
-            counter += 1 if filename else 0
+            counter += 1 if quality else 0
             inner_view_url = f"{series_context}/thumbnails/inner/{filename}" if filename else MISSED_PNG
             option_section += (
                 f"\n{INDENT}"
@@ -84,7 +84,7 @@ def inners(index_root: Path, series_context: Path) -> tuple[str, str, int, int]:
                 f"</a>\n"
             )
             inner_total += 1
-            inner_count += bool(filename)
+            inner_count += bool(quality)
         readme_section += "</span>\n"
 
     return readme_section, index_section.strip(), inner_count, inner_total
