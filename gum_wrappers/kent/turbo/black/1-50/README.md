@@ -93,7 +93,7 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/18.4.png' title=''><img src='thumbnails/inner/18.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/19.4.png' title=''><img src='thumbnails/inner/19.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/20.5.png' title=''><img src='thumbnails/inner/20.5.png' alt=''></a>
@@ -138,7 +138,7 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='thumbnails/inner/33.4.png' title=''><img src='thumbnails/inner/33.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='thumbnails/inner/34.3.png' title=''><img src='thumbnails/inner/34.3.png' alt=''></a>
+	<a href='thumbnails/inner/34.4.png' title=''><img src='thumbnails/inner/34.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/35.4.png' title=''><img src='thumbnails/inner/35.4.png' alt=''></a>
@@ -153,10 +153,10 @@ Size of wrappers is bigger than on next series - width 85-87 mm, height 62-65 mm
 	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/39.3.png' title=''><img src='thumbnails/inner/39.3.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
-	<a href='/collection/gum_wrappers/kent/turbo//missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo//missed.png' alt=''></a>
+	<a href='thumbnails/inner/40.4.png' title=''><img src='thumbnails/inner/40.4.png' alt=''></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/41.5.png' title=''><img src='thumbnails/inner/41.5.png' alt=''></a>

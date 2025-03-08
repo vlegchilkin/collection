@@ -12,12 +12,12 @@ layout: default
 
 
 \[Covers: 323 of 1061\]
-\[Wrappers: 2253 of 2368\]
+\[Wrappers: 2256 of 2368\]
 
 ## [T1 – Turbo 1-50](black/1-50)
 
 Covers: 0 / 40
-Wrappers: 45 / 50
+Wrappers: 48 / 50
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -73,7 +73,7 @@ Wrappers: 45 / 50
             <br/>
         </td>
         <td>
-            (45/50)<br/>
+            (48/50)<br/>
             <a class='good' href='black/1-50/thumbnails/inner/1.3.png' title='' target='_blank'>1</a>
             <a class='enough' href='black/1-50/thumbnails/inner/2.4.png' title='' target='_blank'>2</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/3.5.png' title='' target='_blank'>3</a>
@@ -92,7 +92,7 @@ Wrappers: 45 / 50
             <a class='enough' href='black/1-50/thumbnails/inner/16.4.png' title='' target='_blank'>16</a>
             <a class='good' href='black/1-50/thumbnails/inner/17.3.png' title='' target='_blank'>17</a>
             <a class='enough' href='black/1-50/thumbnails/inner/18.4.png' title='' target='_blank'>18</a>
-            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='enough' href='black/1-50/thumbnails/inner/19.4.png' title='' target='_blank'>19</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/20.5.png' title='' target='_blank'>20</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/21.5.png' title='' target='_blank'>21</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/22.5.png' title='' target='_blank'>22</a>
@@ -107,13 +107,13 @@ Wrappers: 45 / 50
             <a class='enough' href='black/1-50/thumbnails/inner/31.4.png' title='' target='_blank'>31</a>
             <a class='enough' href='black/1-50/thumbnails/inner/32.4.png' title='' target='_blank'>32</a>
             <a class='enough' href='black/1-50/thumbnails/inner/33.4.png' title='' target='_blank'>33</a>
-            <a class='good' href='black/1-50/thumbnails/inner/34.3.png' title='' target='_blank'>34</a>
+            <a class='enough' href='black/1-50/thumbnails/inner/34.4.png' title='' target='_blank'>34</a>
             <a class='enough' href='black/1-50/thumbnails/inner/35.4.png' title='' target='_blank'>35</a>
             <a class='enough' href='black/1-50/thumbnails/inner/36.4.png' title='' target='_blank'>36</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/37.5.png' title='' target='_blank'>37</a>
             <a class='missed' href='missed.png' title='' target='_blank'>38</a>
-            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
-            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='good' href='black/1-50/thumbnails/inner/39.3.png' title='' target='_blank'>39</a>
+            <a class='enough' href='black/1-50/thumbnails/inner/40.4.png' title='' target='_blank'>40</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/41.5.png' title='' target='_blank'>41</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/42.5.png' title='' target='_blank'>42</a>
             <a class='perfect' href='black/1-50/thumbnails/inner/43.5.png' title='' target='_blank'>43</a>
