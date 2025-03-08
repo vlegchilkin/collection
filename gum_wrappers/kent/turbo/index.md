@@ -10,7 +10,7 @@ layout: default
 
 ## Statistic
 
-\[Covers: 407 of 1061\]
+\[Covers: 408 of 1061\]
 \[Wrappers: 2256 of 2368\]
 
 ## [T1 – Turbo 1-50](black/1-50)
@@ -129,7 +129,7 @@ Wrappers: 48 / 50
 
 ## [T2 – Turbo 51-120](black/51-120)
 
-Covers: 100 / 155
+Covers: 101 / 155
 Wrappers: 80 / 80
 
 <table style="width:100%">
@@ -182,7 +182,7 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/2.5.png' width='50' alt='1988.09 [0988] BHT.2'/></a>
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/3.4.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/3.4.png' width='50' alt='1988.09 [0988] BHT.3'/></a>
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/4.5.png' width='50' alt='1988.09 [0988] BHT.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.09 [0988] BHT.5'/></a>
+            <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/5.5.png' width='50' alt='1988.09 [0988] BHT.5'/></a>
             <br/>1988.10 [1088] BHT<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.10 [1088] BHT.1'/></a>
             <a href='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/2.5.png' width='50' alt='1988.10 [1088] BHT.2'/></a>
