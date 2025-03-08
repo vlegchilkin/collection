@@ -12,7 +12,7 @@ layout: default
 
 
 \[Covers: 323 of 1061\]
-\[Wrappers: 2228 of 2368\]
+\[Wrappers: 2253 of 2368\]
 
 ## [T1 – Turbo 1-50](black/1-50)
 
@@ -2225,7 +2225,7 @@ Wrappers: 70 / 70
 ## [S1/S2 – Turbo Sport 1-70](sport/1-70)
 
 Covers: 11 / 27
-Wrappers: 115 / 140
+Wrappers: 140 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2336,77 +2336,77 @@ Wrappers: 115 / 140
             <a class='perfect' href='sport/1-70/thumbnails/inner/67.5.png' title='' target='_blank'>67</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/68.5.png' title='' target='_blank'>68</a>
             <a class='perfect' href='sport/1-70/thumbnails/inner/69.5.png' title='' target='_blank'>69</a>
-            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='' target='_blank'>70</a><br/>Violet (45/70)<br/>
-            <a class='enough' href='sport/1-70/thumbnails/inner/1.violet.4.png' title='Violet' target='_blank'>1</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/2.violet.3.png' title='Violet' target='_blank'>2</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>3</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/4.violet.3.png' title='Violet' target='_blank'>4</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>5</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>6</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>7</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/8.violet.3.png' title='Violet' target='_blank'>8</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>9</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/10.violet.3.png' title='Violet' target='_blank'>10</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/11.violet.4.png' title='Violet' target='_blank'>11</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/12.violet.4.png' title='Violet' target='_blank'>12</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>13</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>14</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/15.violet.3.png' title='Violet' target='_blank'>15</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/16.violet.4.png' title='Violet' target='_blank'>16</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>17</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/18.violet.3.png' title='Violet' target='_blank'>18</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/19.violet.3.png' title='Violet' target='_blank'>19</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/70.5.png' title='' target='_blank'>70</a><br/>Violet (70/70)<br/>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/1.violet.5.png' title='Violet' target='_blank'>1</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/2.violet.4.png' title='Violet' target='_blank'>2</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/3.violet.5.png' title='Violet' target='_blank'>3</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/4.violet.4.png' title='Violet' target='_blank'>4</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/5.violet.4.png' title='Violet' target='_blank'>5</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/6.violet.5.png' title='Violet' target='_blank'>6</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/7.violet.5.png' title='Violet' target='_blank'>7</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/8.violet.5.png' title='Violet' target='_blank'>8</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/9.violet.5.png' title='Violet' target='_blank'>9</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/10.violet.5.png' title='Violet' target='_blank'>10</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/11.violet.5.png' title='Violet' target='_blank'>11</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/12.violet.5.png' title='Violet' target='_blank'>12</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/13.violet.5.png' title='Violet' target='_blank'>13</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/14.violet.5.png' title='Violet' target='_blank'>14</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/15.violet.4.png' title='Violet' target='_blank'>15</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/16.violet.5.png' title='Violet' target='_blank'>16</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/17.violet.4.png' title='Violet' target='_blank'>17</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/18.violet.5.png' title='Violet' target='_blank'>18</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/19.violet.4.png' title='Violet' target='_blank'>19</a>
             <a class='good' href='sport/1-70/thumbnails/inner/20.violet.3.png' title='Violet' target='_blank'>20</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/21.violet.4.png' title='Violet' target='_blank'>21</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/22.violet.4.png' title='Violet' target='_blank'>22</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/23.violet.4.png' title='Violet' target='_blank'>23</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/23.violet.5.png' title='Violet' target='_blank'>23</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/24.violet.4.png' title='Violet' target='_blank'>24</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/25.violet.3.png' title='Violet' target='_blank'>25</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>26</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/27.violet.3.png' title='Violet' target='_blank'>27</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>28</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/29.violet.4.png' title='Violet' target='_blank'>29</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>30</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/25.violet.4.png' title='Violet' target='_blank'>25</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/26.violet.5.png' title='Violet' target='_blank'>26</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/27.violet.5.png' title='Violet' target='_blank'>27</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/28.violet.5.png' title='Violet' target='_blank'>28</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/29.violet.5.png' title='Violet' target='_blank'>29</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/30.violet.5.png' title='Violet' target='_blank'>30</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/31.violet.4.png' title='Violet' target='_blank'>31</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/32.violet.4.png' title='Violet' target='_blank'>32</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>33</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>34</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>35</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>36</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/37.violet.4.png' title='Violet' target='_blank'>37</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>38</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/39.violet.4.png' title='Violet' target='_blank'>39</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/40.violet.4.png' title='Violet' target='_blank'>40</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/41.violet.4.png' title='Violet' target='_blank'>41</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/42.violet.4.png' title='Violet' target='_blank'>42</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>43</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>44</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/45.violet.4.png' title='Violet' target='_blank'>45</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/32.violet.5.png' title='Violet' target='_blank'>32</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/33.violet.4.png' title='Violet' target='_blank'>33</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/34.violet.4.png' title='Violet' target='_blank'>34</a>
+            <a class='good' href='sport/1-70/thumbnails/inner/35.violet.3.png' title='Violet' target='_blank'>35</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/36.violet.5.png' title='Violet' target='_blank'>36</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/37.violet.5.png' title='Violet' target='_blank'>37</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/38.violet.5.png' title='Violet' target='_blank'>38</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/39.violet.5.png' title='Violet' target='_blank'>39</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/40.violet.5.png' title='Violet' target='_blank'>40</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/41.violet.5.png' title='Violet' target='_blank'>41</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/42.violet.5.png' title='Violet' target='_blank'>42</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/43.violet.5.png' title='Violet' target='_blank'>43</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/44.violet.5.png' title='Violet' target='_blank'>44</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/45.violet.5.png' title='Violet' target='_blank'>45</a>
             <a class='good' href='sport/1-70/thumbnails/inner/46.violet.3.png' title='Violet' target='_blank'>46</a>
             <a class='good' href='sport/1-70/thumbnails/inner/47.violet.3.png' title='Violet' target='_blank'>47</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>48</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/49.violet.3.png' title='Violet' target='_blank'>49</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/50.violet.3.png' title='Violet' target='_blank'>50</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/51.violet.4.png' title='Violet' target='_blank'>51</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/52.violet.4.png' title='Violet' target='_blank'>52</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/53.violet.3.png' title='Violet' target='_blank'>53</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/54.violet.3.png' title='Violet' target='_blank'>54</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/48.violet.5.png' title='Violet' target='_blank'>48</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/49.violet.5.png' title='Violet' target='_blank'>49</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/50.violet.4.png' title='Violet' target='_blank'>50</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/51.violet.5.png' title='Violet' target='_blank'>51</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/52.violet.5.png' title='Violet' target='_blank'>52</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/53.violet.5.png' title='Violet' target='_blank'>53</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/54.violet.5.png' title='Violet' target='_blank'>54</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/55.violet.4.png' title='Violet' target='_blank'>55</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>56</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>57</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/58.violet.3.png' title='Violet' target='_blank'>58</a>
-            <a class='good' href='sport/1-70/thumbnails/inner/59.violet.3.png' title='Violet' target='_blank'>59</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/60.violet.4.png' title='Violet' target='_blank'>60</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/61.violet.4.png' title='Violet' target='_blank'>61</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/62.violet.4.png' title='Violet' target='_blank'>62</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/63.violet.4.png' title='Violet' target='_blank'>63</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/56.violet.5.png' title='Violet' target='_blank'>56</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/57.violet.4.png' title='Violet' target='_blank'>57</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/58.violet.4.png' title='Violet' target='_blank'>58</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/59.violet.4.png' title='Violet' target='_blank'>59</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/60.violet.5.png' title='Violet' target='_blank'>60</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/61.violet.5.png' title='Violet' target='_blank'>61</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/62.violet.5.png' title='Violet' target='_blank'>62</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/63.violet.5.png' title='Violet' target='_blank'>63</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/64.violet.4.png' title='Violet' target='_blank'>64</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>65</a>
-            <a class='enough' href='sport/1-70/thumbnails/inner/66.violet.4.png' title='Violet' target='_blank'>66</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>67</a>
+            <a class='enough' href='sport/1-70/thumbnails/inner/65.violet.4.png' title='Violet' target='_blank'>65</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/66.violet.5.png' title='Violet' target='_blank'>66</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/67.violet.5.png' title='Violet' target='_blank'>67</a>
             <a class='enough' href='sport/1-70/thumbnails/inner/68.violet.4.png' title='Violet' target='_blank'>68</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>69</a>
-            <a class='missed' href='missed.png' title='Violet' target='_blank'>70</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/69.violet.5.png' title='Violet' target='_blank'>69</a>
+            <a class='perfect' href='sport/1-70/thumbnails/inner/70.violet.5.png' title='Violet' target='_blank'>70</a>
         </td>
     </tr>
 </table>
