@@ -6,7 +6,7 @@ layout: default
 
 ## Producing
 
-![producing](kent_turbo_producing.png "Kent Turbo Producing")
+![producing](kent_turbo_production.png "Kent Turbo Production")
 
 ## Statistic
 

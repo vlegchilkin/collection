@@ -54,7 +54,7 @@ class Product(Number):
         return self.path
 
 
-def draw(releases: dict[str, List[OuterRelease]], output_file):
+def draw(releases: dict[str, List[OuterRelease]], output_file, chart_caption):
     dates = set()
     for outers in releases.values():
         for release in outers:
@@ -93,7 +93,7 @@ def draw(releases: dict[str, List[OuterRelease]], output_file):
 
     # Set labels, title
     ax.set_xlabel("(C) Vitaly Legchilkin", fontsize=12, loc="right")
-    ax.set_title("Kent Turbo Series Production", fontsize=16, pad=20)
+    ax.set_title(chart_caption, fontsize=16, pad=20)
 
     # Set limits to align edges
     ax.set_xlim(0, len(moments))
@@ -112,10 +112,14 @@ def draw(releases: dict[str, List[OuterRelease]], output_file):
 
 
 def update_production(index_filepath: Path, title_releases: dict[str, list[OuterRelease]]):
+    chunks = str(index_filepath.relative_to("../gum_wrappers").parent).split("/")
+
+    filename = f"{"_".join(chunks)}_production.png".replace("-", "_")
+    chart_caption = f"{" ".join([chunk.capitalize() for chunk in chunks])} Series Production"
     state = index_filepath.read_text()
     series_offsets = {title: state.find(title) for title in title_releases.keys()}
     sorted_titles = sorted(series_offsets.keys(), key=lambda x: series_offsets[x])
     sorted_releases = {title: title_releases[title] for title in sorted_titles}
 
-    png_path = index_filepath.parent / "kent_turbo_producing.png"
-    draw(sorted_releases, str(png_path.absolute()))
+    png_path = index_filepath.parent / filename
+    draw(sorted_releases, str(png_path.absolute()), chart_caption)
