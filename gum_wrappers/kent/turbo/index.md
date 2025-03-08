@@ -10,7 +10,7 @@ layout: default
 
 ## Statistic
 
-\[Covers: 507 of 1061\]
+\[Covers: 543 of 1061\]
 \[Wrappers: 2159 of 2193\]
 
 ## [T1 – Turbo 1-50](black/1-50)
@@ -1832,7 +1832,7 @@ Wrappers: 140 / 140
 
 ## [C3 – Turbo Classic 71-140](classic/71-140)
 
-Covers: 38 / 150
+Covers: 57 / 150
 Wrappers: 70 / 70
 
 <table style="width:100%">
@@ -1862,15 +1862,15 @@ Wrappers: 70 / 70
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.10'/></a>
             <br/>1997.03 [C-97] R0<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.2'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/2.5.png' width='50' alt='1997.03 [C-97] R0.2'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.3'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.6'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/5.5.png' width='50' alt='1997.03 [C-97] R0.5'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/6.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/6.5.png' width='50' alt='1997.03 [C-97] R0.6'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/7.5.png' width='50' alt='1997.03 [C-97] R0.7'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/8.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/8.5.png' width='50' alt='1997.03 [C-97] R0.8'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.10'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/10.5.png' width='50' alt='1997.03 [C-97] R0.10'/></a>
             <br/>1997.04 [D-97] R0<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.04 [D-97] R0.1'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/2.5.png' width='50' alt='1997.04 [D-97] R0.2'/></a>
@@ -1885,10 +1885,10 @@ Wrappers: 70 / 70
             <br/>1997.05 [E-97] R0<br/>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/1.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/1.5.png' width='50' alt='1997.05 [E-97] R0.1'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/2.5.png' width='50' alt='1997.05 [E-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E-97] R0.3'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/3.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/3.5.png' width='50' alt='1997.05 [E-97] R0.3'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/4.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/4.5.png' width='50' alt='1997.05 [E-97] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/5.5.png' width='50' alt='1997.05 [E-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E-97] R0.6'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/6.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/6.5.png' width='50' alt='1997.05 [E-97] R0.6'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/7.5.png' width='50' alt='1997.05 [E-97] R0.7'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/8.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/8.5.png' width='50' alt='1997.05 [E-97] R0.8'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/9.5.png' width='50' alt='1997.05 [E-97] R0.9'/></a>
@@ -1900,21 +1900,21 @@ Wrappers: 70 / 70
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.4'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.5'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.8'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/7.5.png' width='50' alt='1997.06 [F-97] R0.7'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/8.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/8.5.png' width='50' alt='1997.06 [F-97] R0.8'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/9.5.png' width='50' alt='1997.06 [F-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.10'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/10.5.png' width='50' alt='1997.06 [F-97] R0.10'/></a>
             <br/>1997.07 [G-97] R0<br/>
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/1.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/1.5.png' width='50' alt='1997.07 [G-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.5'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/2.5.png' width='50' alt='1997.07 [G-97] R0.2'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/3.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/3.5.png' width='50' alt='1997.07 [G-97] R0.3'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/4.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/4.5.png' width='50' alt='1997.07 [G-97] R0.4'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/5.5.png' width='50' alt='1997.07 [G-97] R0.5'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/6.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/6.5.png' width='50' alt='1997.07 [G-97] R0.6'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/7.5.png' width='50' alt='1997.07 [G-97] R0.7'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/8.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/8.5.png' width='50' alt='1997.07 [G-97] R0.8'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/9.4.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/9.4.png' width='50' alt='1997.07 [G-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.10'/></a>
+            <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/10.5.png' width='50' alt='1997.07 [G-97] R0.10'/></a>
             <br/>1997.09 [I-97] R0<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.2'/></a>
@@ -1955,20 +1955,20 @@ Wrappers: 70 / 70
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/5.5.png' width='50' alt='1998.04 [D-98] R0.5'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.7'/></a>
+            <a href='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/7.5.png' width='50' alt='1998.04 [D-98] R0.7'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.8'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.9'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.10'/></a>
             <br/>1998.05 [E-98] R0<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.2'/></a>
+            <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/2.5.png' width='50' alt='1998.05 [E-98] R0.2'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.3'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/4.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/4.5.png' width='50' alt='1998.05 [E-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.5'/></a>
+            <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/5.5.png' width='50' alt='1998.05 [E-98] R0.5'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.7'/></a>
+            <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/7.5.png' width='50' alt='1998.05 [E-98] R0.7'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.9'/></a>
+            <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/9.5.png' width='50' alt='1998.05 [E-98] R0.9'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.10'/></a>
             <br/>1998.06 [F-98] R1<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.1'/></a>
@@ -2272,7 +2272,7 @@ Wrappers: 140 / 140
 
 ## [S3 – Turbo Sport 71-140](sport/71-140)
 
-Covers: 27 / 50
+Covers: 44 / 50
 Wrappers: 71 / 71
 
 <table style="width:100%">
@@ -2290,30 +2290,30 @@ Wrappers: 71 / 71
             <a href='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/9.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/9.5.png' width='50' alt='1996.08 [H96] R0 2 line.9'/></a>
             <a href='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/10.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/10.5.png' width='50' alt='1996.08 [H96] R0 2 line.10'/></a>
             <br/>1996.11 [L96] R0 2 line<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.1'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/1.5.png' width='50' alt='1996.11 [L96] R0 2 line.1'/></a>
             <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/2.5.png' width='50' alt='1996.11 [L96] R0 2 line.2'/></a>
             <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/3.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/3.5.png' width='50' alt='1996.11 [L96] R0 2 line.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.7'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/4.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/4.5.png' width='50' alt='1996.11 [L96] R0 2 line.4'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/5.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/5.5.png' width='50' alt='1996.11 [L96] R0 2 line.5'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/6.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/6.5.png' width='50' alt='1996.11 [L96] R0 2 line.6'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/7.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/7.5.png' width='50' alt='1996.11 [L96] R0 2 line.7'/></a>
             <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/8.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/8.5.png' width='50' alt='1996.11 [L96] R0 2 line.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.11 [L96] R0 2 line.10'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/9.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/9.5.png' width='50' alt='1996.11 [L96] R0 2 line.9'/></a>
+            <a href='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/10.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_11{L_96}[10]R0_2_line/10.5.png' width='50' alt='1996.11 [L96] R0 2 line.10'/></a>
             <br/>1997.05 [E97] R0 3 line centered<br/>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/1.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.2'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/2.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.2'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/3.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/3.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.3'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.4'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.6'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/6.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/6.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.6'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/7.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/7.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.7'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.8'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.9'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/10.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/10.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.10'/></a>
             <br/>1997.05 [K97] R0 2 line<br/>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/1.5.png' width='50' alt='1997.05 [K97] R0 2 line.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [K97] R0 2 line.2'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/2.5.png' width='50' alt='1997.05 [K97] R0 2 line.2'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [K97] R0 2 line.3'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/4.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/4.5.png' width='50' alt='1997.05 [K97] R0 2 line.4'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/5.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/5.5.png' width='50' alt='1997.05 [K97] R0 2 line.5'/></a>
@@ -2323,15 +2323,15 @@ Wrappers: 71 / 71
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/9.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/9.5.png' width='50' alt='1997.05 [K97] R0 2 line.9'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/10.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/10.5.png' width='50' alt='1997.05 [K97] R0 2 line.10'/></a>
             <br/>1997.08 [H97] R1 3 line<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.5'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/1.5.png' width='50' alt='1997.08 [H97] R1 3 line.1'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/2.5.png' width='50' alt='1997.08 [H97] R1 3 line.2'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/3.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/3.5.png' width='50' alt='1997.08 [H97] R1 3 line.3'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/4.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/4.5.png' width='50' alt='1997.08 [H97] R1 3 line.4'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/5.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/5.5.png' width='50' alt='1997.08 [H97] R1 3 line.5'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/6.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/6.5.png' width='50' alt='1997.08 [H97] R1 3 line.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.7'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/7.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/7.5.png' width='50' alt='1997.08 [H97] R1 3 line.7'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/8.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/8.5.png' width='50' alt='1997.08 [H97] R1 3 line.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H97] R1 3 line.9'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/9.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/9.5.png' width='50' alt='1997.08 [H97] R1 3 line.9'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/10.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_08{H_97}[10]R1_3_line/10.5.png' width='50' alt='1997.08 [H97] R1 3 line.10'/></a>
             <br/>
         </td>
