@@ -21,7 +21,7 @@ Wrappers: 48 / 50
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1986.06 [06] <br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] .1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] .2'/></a>
@@ -135,7 +135,7 @@ Wrappers: 80 / 80
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1987.09 [987] White colour no Meyva Aromali and no Mini Posterli<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.2'/></a>
@@ -407,7 +407,7 @@ Wrappers: 128 / 154
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1991.04 [0491] no TSE 3-line no TS 8000 aligned<br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.2'/></a>
@@ -635,7 +635,7 @@ Wrappers: 71 / 71
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1992.07 [G-92] 2-line<br/>
             <a href='black/191-260/thumbnails/outer/1992_07{G-92}[5]2-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_07{G-92}[5]2-line/1.5.png' width='50' alt='1992.07 [G-92] 2-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1992_07{G-92}[5]2-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_07{G-92}[5]2-line/2.5.png' width='50' alt='1992.07 [G-92] 2-line.2'/></a>
@@ -793,7 +793,7 @@ Wrappers: 280 / 281
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1993.08 [H93] thin<br/>
             <a href='black/261-330/thumbnails/outer/1993_08{H93}[5]thin/1.5.png' target='_blank'><img src='black/261-330/thumbnails/outer/1993_08{H93}[5]thin/1.5.png' width='50' alt='1993.08 [H93] thin.1'/></a>
             <a href='black/261-330/thumbnails/outer/1993_08{H93}[5]thin/2.5.png' target='_blank'><img src='black/261-330/thumbnails/outer/1993_08{H93}[5]thin/2.5.png' width='50' alt='1993.08 [H93] thin.2'/></a>
@@ -1143,7 +1143,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1994.11 [K94] <br/>
             <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/1.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/1.5.png' width='50' alt='1994.11 [K94] .1'/></a>
             <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/2.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/2.5.png' width='50' alt='1994.11 [K94] .2'/></a>
@@ -1241,7 +1241,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1995.03 [B 95] <br/>
             <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/1.4.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/1.4.png' width='50' alt='1995.03 [B 95] .1'/></a>
             <a href='super/401-470/thumbnails/outer/1995_03{B 95}[5]/2.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1995_03{B 95}[5]/2.5.png' width='50' alt='1995.03 [B 95] .2'/></a>
@@ -1357,7 +1357,7 @@ Wrappers: 72 / 72
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1996.10 [J96] R0<br/>
             <a href='super/471-540/thumbnails/outer/1996_10{J_96}[10]R0/1.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1996_10{J_96}[10]R0/1.5.png' width='50' alt='1996.10 [J96] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1996_10{J_96}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1996_10{J_96}[10]R0/2.5.png' width='50' alt='1996.10 [J96] R0.2'/></a>
@@ -1652,7 +1652,7 @@ Wrappers: 140 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1995.03 [C95] no classic<br/>
             <a href='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/1.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/1.5.png' width='50' alt='1995.03 [C95] no classic.1'/></a>
             <a href='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/2.5.png' target='_blank'><img src='classic/1-70/thumbnails/outer/1995_03{C_95}[5]no_classic/2.5.png' width='50' alt='1995.03 [C95] no classic.2'/></a>
@@ -1838,7 +1838,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1996.12 [L96] R0<br/>
             <a href='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/1.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/1.5.png' width='50' alt='1996.12 [L96] R0.1'/></a>
             <a href='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/2.5.png' width='50' alt='1996.12 [L96] R0.2'/></a>
@@ -2089,7 +2089,7 @@ Wrappers: 140 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1995.03 [C95] <br/>
             <a href='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/1.5.png' width='50' alt='1995.03 [C95] .1'/></a>
             <a href='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_03{C_95}[4]/2.5.png' width='50' alt='1995.03 [C95] .2'/></a>
@@ -2278,7 +2278,7 @@ Wrappers: 71 / 71
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1996.08 [H96] R0 2 line<br/>
             <a href='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/1.5.png' width='50' alt='1996.08 [H96] R0 2 line.1'/></a>
             <a href='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1996_08{H_96}[10]R0_2_line/2.5.png' width='50' alt='1996.08 [H96] R0 2 line.2'/></a>
@@ -2419,7 +2419,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1998.01 [A-98] <br/>
             <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/1.5.png' width='50' alt='1998.01 [A-98] .1'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/2.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/2.5.png' width='50' alt='1998.01 [A-98] .2'/></a>
@@ -2593,7 +2593,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1998.03 <br/>
             <a href='sport/401-470/thumbnails/outer/1998_03[1]/1.4.png' target='_blank'><img src='sport/401-470/thumbnails/outer/1998_03[1]/1.4.png' width='50' alt='1998.03 .1'/></a>
             <br/>
@@ -2681,7 +2681,7 @@ Wrappers: 135 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1997.01 [A-97] R0 thin s<br/>
             <a href='sport/471-540/thumbnails/outer/1997_01{A-97}[1]R0_thin_s/1.5.png' target='_blank'><img src='sport/471-540/thumbnails/outer/1997_01{A-97}[1]R0_thin_s/1.5.png' width='50' alt='1997.01 [A-97] R0 thin s.1'/></a>
             <br/>1997.05 [E-97] R1 thin s<br/>
@@ -2853,7 +2853,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             2000.04 [D-2000] <br/>
             <a href='2000/211-280/thumbnails/outer/2000_04{D-2000}[5]/1.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04{D-2000}[5]/1.5.png' width='50' alt='2000.04 [D-2000] .1'/></a>
             <a href='2000/211-280/thumbnails/outer/2000_04{D-2000}[5]/2.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_04{D-2000}[5]/2.5.png' width='50' alt='2000.04 [D-2000] .2'/></a>
@@ -2963,7 +2963,7 @@ Wrappers: 70 / 70
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             1999.07 [G-99] <br/>
             <a href='2000/71-140/thumbnails/outer/1999_07{G-99}[5]/1.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/1999_07{G-99}[5]/1.5.png' width='50' alt='1999.07 [G-99] .1'/></a>
             <a href='2000/71-140/thumbnails/outer/1999_07{G-99}[5]/2.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/1999_07{G-99}[5]/2.5.png' width='50' alt='1999.07 [G-99] .2'/></a>
@@ -3085,7 +3085,7 @@ Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             2002.03 [4374-R0] <br/>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .1'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4374-R0] .2'/></a>
@@ -3211,7 +3211,7 @@ Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             2002.03 [4372-R0] <br/>
             <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/1.3.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/1.3.png' width='50' alt='2002.03 [4372-R0] .1'/></a>
             <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/2.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/2.5.png' width='50' alt='2002.03 [4372-R0] .2'/></a>
@@ -3333,7 +3333,7 @@ Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             2006.02 [4386-R0] <br/>
             <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[8]/1.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[8]/1.5.png' width='50' alt='2006.02 [4386-R0] .1'/></a>
             <a href='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[8]/2.5.png' target='_blank'><img src='2003/TUR/sport/thumbnails/outer/2006_02{4386-R0}[8]/2.5.png' width='50' alt='2006.02 [4386-R0] .2'/></a>
@@ -3475,7 +3475,7 @@ Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             2006.02 [4376-R0] <br/>
             <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/1.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/1.5.png' width='50' alt='2006.02 [4376-R0] .1'/></a>
             <a href='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/2.5.png' target='_blank'><img src='2003/TUR/super/thumbnails/outer/2006_02{4376-R0}[5]/2.5.png' width='50' alt='2006.02 [4376-R0] .2'/></a>
@@ -3596,7 +3596,7 @@ Wrappers: 108 / 108
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
-        <td style="width:40%;text-align: center">
+        <td style="width:50%;text-align: center">
             2006.11 [4438-R0] Super<br/>
             <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/1.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/1.5.png' width='50' alt='2006.11 [4438-R0] Super.1'/></a>
             <a href='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/2.5.png' target='_blank'><img src='2007/thumbnails/outer/2006_11{4438-R0}[5]Super/2.5.png' width='50' alt='2006.11 [4438-R0] Super.2'/></a>
