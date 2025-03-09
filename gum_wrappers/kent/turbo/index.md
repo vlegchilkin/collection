@@ -10,7 +10,7 @@ layout: default
 
 ## Statistic
 
-\[Covers: 616 of 1061\]
+\[Covers: 616 of 1062\]
 \[Wrappers: 2159 of 2193\]
 
 ## [T1 – Turbo 1-50](black/1-50)
@@ -3079,23 +3079,24 @@ Wrappers: 70 / 70
 
 ## [F1 – Turbo 2003 Sport RUS](2003/RUS/sport)
 
-Covers: 11 / 10
+Covers: 11 / 11
 Wrappers: 99 / 99
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:50%;text-align: center">
             2002.03 [4374-R0] <br/>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/1.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/1.5.png' width='50' alt='2002.03 [4374-R0] .1'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/2.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/2.5.png' width='50' alt='2002.03 [4374-R0] .2'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/3.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/3.5.png' width='50' alt='2002.03 [4374-R0] .3'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/4.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/4.5.png' width='50' alt='2002.03 [4374-R0] .4'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/5.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/5.5.png' width='50' alt='2002.03 [4374-R0] .5'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/6.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/6.5.png' width='50' alt='2002.03 [4374-R0] .6'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/7.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/7.5.png' width='50' alt='2002.03 [4374-R0] .7'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/8.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/8.5.png' width='50' alt='2002.03 [4374-R0] .8'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/9.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/9.5.png' width='50' alt='2002.03 [4374-R0] .9'/></a>
-            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/10.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[10]/10.5.png' width='50' alt='2002.03 [4374-R0] .10'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/1.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/1.5.png' width='50' alt='2002.03 [4374-R0] .1'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/2.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/2.5.png' width='50' alt='2002.03 [4374-R0] .2'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/3.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/3.5.png' width='50' alt='2002.03 [4374-R0] .3'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/4.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/4.5.png' width='50' alt='2002.03 [4374-R0] .4'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/5.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/5.5.png' width='50' alt='2002.03 [4374-R0] .5'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/6.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/6.5.png' width='50' alt='2002.03 [4374-R0] .6'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/7.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/7.5.png' width='50' alt='2002.03 [4374-R0] .7'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/8.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/8.5.png' width='50' alt='2002.03 [4374-R0] .8'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/9.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/9.5.png' width='50' alt='2002.03 [4374-R0] .9'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/10.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/10.5.png' width='50' alt='2002.03 [4374-R0] .10'/></a>
+            <a href='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/11.5.png' target='_blank'><img src='2003/RUS/sport/thumbnails/outer/2002_03{4374-R0}[11]/11.5.png' width='50' alt='2002.03 [4374-R0] .11'/></a>
             <br/>
         </td>
         <td>
