@@ -10,7 +10,7 @@ layout: default
 
 ## Statistic
 
-\[Covers: 625 of 1062\]
+\[Covers: 626 of 1062\]
 \[Wrappers: 2159 of 2193\]
 
 ## [T1 – Turbo 1-50](black/1-50)
@@ -1137,7 +1137,7 @@ Wrappers: 280 / 281
 
 ## [U1 – Turbo Super 331-400](super/331-400)
 
-Covers: 9 / 10
+Covers: 10 / 10
 Wrappers: 70 / 70
 
 <table style="width:100%">
@@ -1147,7 +1147,7 @@ Wrappers: 70 / 70
             <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/1.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/1.5.png' width='50' alt='1994.11 [K94] .1'/></a>
             <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/2.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/2.5.png' width='50' alt='1994.11 [K94] .2'/></a>
             <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/3.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/3.5.png' width='50' alt='1994.11 [K94] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1994.11 [K94] .4'/></a>
+            <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/4.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/4.5.png' width='50' alt='1994.11 [K94] .4'/></a>
             <a href='super/331-400/thumbnails/outer/1994_11{K94}[5]/5.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1994_11{K94}[5]/5.5.png' width='50' alt='1994.11 [K94] .5'/></a>
             <br/>1995.03 [C95] <br/>
             <a href='super/331-400/thumbnails/outer/1995_03{C95}[5]/1.5.png' target='_blank'><img src='super/331-400/thumbnails/outer/1995_03{C95}[5]/1.5.png' width='50' alt='1995.03 [C95] .1'/></a>
