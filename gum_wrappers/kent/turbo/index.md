@@ -10,7 +10,7 @@ layout: default
 
 ## Statistic
 
-\[Covers: 703 of 1094\]
+\[Covers: 711 of 1094\]
 \[Wrappers: 2161 of 2193\]
 
 ## [T1 – Turbo 1-50](black/1-50)
@@ -129,7 +129,7 @@ Wrappers: 50 / 50
 
 ## [T2 – Turbo 51-120](black/51-120)
 
-Covers: 101 / 155
+Covers: 102 / 155
 Wrappers: 80 / 80
 
 <table style="width:100%">
@@ -277,7 +277,7 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/1.5.png' width='50' alt='1990.06 [0690] BHT.1'/></a>
             <a href='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/2.5.png' width='50' alt='1990.06 [0690] BHT.2'/></a>
             <a href='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/3.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/3.5.png' width='50' alt='1990.06 [0690] BHT.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.06 [0690] BHT.4'/></a>
+            <a href='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/4.4.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/4.4.png' width='50' alt='1990.06 [0690] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_06{0690}[5]BHT/5.5.png' width='50' alt='1990.06 [0690] BHT.5'/></a>
             <br/>1990.07 [0790] BHA<br/>
             <a href='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/1.5.png' width='50' alt='1990.07 [0790] BHA.1'/></a>
@@ -401,7 +401,7 @@ Wrappers: 80 / 80
 
 ## [T3 – Turbo 121-190](black/121-190)
 
-Covers: 42 / 60
+Covers: 43 / 60
 Wrappers: 128 / 154
 
 <table style="width:100%">
@@ -464,7 +464,7 @@ Wrappers: 128 / 154
             <br/>1992.03 [C-92] 2-line<br/>
             <a href='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/1.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/1.5.png' width='50' alt='1992.03 [C-92] 2-line.1'/></a>
             <a href='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/2.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/2.5.png' width='50' alt='1992.03 [C-92] 2-line.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.03 [C-92] 2-line.3'/></a>
+            <a href='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/3.4.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/3.4.png' width='50' alt='1992.03 [C-92] 2-line.3'/></a>
             <a href='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/4.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/4.5.png' width='50' alt='1992.03 [C-92] 2-line.4'/></a>
             <a href='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/5.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_03{C-92}[5]2-line/5.5.png' width='50' alt='1992.03 [C-92] 2-line.5'/></a>
             <br/>1992.04 [D-92] 2-line<br/>
@@ -629,7 +629,7 @@ Wrappers: 128 / 154
 
 ## [T4 – Turbo 191-260](black/191-260)
 
-Covers: 63 / 72
+Covers: 65 / 72
 Wrappers: 71 / 71
 
 <table style="width:100%">
@@ -704,14 +704,14 @@ Wrappers: 71 / 71
             <a href='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/3.5.png' width='50' alt='1993.08 [H-93] 2-long-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/4.5.png' width='50' alt='1993.08 [H-93] 2-long-line.4'/></a>
             <a href='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/5.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/5.5.png' width='50' alt='1993.08 [H-93] 2-long-line.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1993.08 [H-93] 2-long-line.6'/></a>
+            <a href='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/6.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_08{H-93}[6]2-long-line/6.5.png' width='50' alt='1993.08 [H-93] 2-long-line.6'/></a>
             <br/>1993.10 [J-93] 2-long-line<br/>
             <a href='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/1.5.png' width='50' alt='1993.10 [J-93] 2-long-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/2.5.png' width='50' alt='1993.10 [J-93] 2-long-line.2'/></a>
             <a href='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/3.5.png' width='50' alt='1993.10 [J-93] 2-long-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/4.5.png' width='50' alt='1993.10 [J-93] 2-long-line.4'/></a>
             <a href='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/5.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/5.5.png' width='50' alt='1993.10 [J-93] 2-long-line.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1993.10 [J-93] 2-long-line.6'/></a>
+            <a href='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/6.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_10{J-93}[6]2-long-line/6.5.png' width='50' alt='1993.10 [J-93] 2-long-line.6'/></a>
             <br/>1993.12 [L-93] 2-long-line<br/>
             <a href='black/191-260/thumbnails/outer/1993_12{L-93}[6]2-long-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_12{L-93}[6]2-long-line/1.5.png' width='50' alt='1993.12 [L-93] 2-long-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1993_12{L-93}[6]2-long-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_12{L-93}[6]2-long-line/2.5.png' width='50' alt='1993.12 [L-93] 2-long-line.2'/></a>
@@ -1247,7 +1247,7 @@ Wrappers: 70 / 70
 
 ## [U2 – Turbo Super 401-470](super/401-470)
 
-Covers: 23 / 25
+Covers: 25 / 25
 Wrappers: 70 / 70
 
 <table style="width:100%">
@@ -1279,10 +1279,10 @@ Wrappers: 70 / 70
             <a href='super/401-470/thumbnails/outer/1996_01{A96}[5]/5.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_01{A96}[5]/5.5.png' width='50' alt='1996.01 [A96] .5'/></a>
             <br/>1996.07 [G96] <br/>
             <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/1.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/1.5.png' width='50' alt='1996.07 [G96] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.07 [G96] .2'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/2.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/2.5.png' width='50' alt='1996.07 [G96] .2'/></a>
             <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/3.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/3.5.png' width='50' alt='1996.07 [G96] .3'/></a>
             <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/4.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/4.5.png' width='50' alt='1996.07 [G96] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.07 [G96] .5'/></a>
+            <a href='super/401-470/thumbnails/outer/1996_07{G96}[5]/5.5.png' target='_blank'><img src='super/401-470/thumbnails/outer/1996_07{G96}[5]/5.5.png' width='50' alt='1996.07 [G96] .5'/></a>
             <br/>
         </td>
         <td>
@@ -2106,7 +2106,7 @@ Wrappers: 70 / 70
 
 ## [S1/S2 – Turbo Sport 1-70](sport/1-70)
 
-Covers: 25 / 27
+Covers: 26 / 27
 Wrappers: 140 / 140
 
 <table style="width:100%">
@@ -2125,7 +2125,7 @@ Wrappers: 140 / 140
             <br/>1995.09 [I95] <br/>
             <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/1.5.png' width='50' alt='1995.09 [I95] .1'/></a>
             <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/2.5.png' width='50' alt='1995.09 [I95] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1995.09 [I95] .3'/></a>
+            <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/3.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/3.5.png' width='50' alt='1995.09 [I95] .3'/></a>
             <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/4.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/4.5.png' width='50' alt='1995.09 [I95] .4'/></a>
             <a href='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/5.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1995_09{I_95}[5]/5.5.png' width='50' alt='1995.09 [I95] .5'/></a>
             <br/>1996.01 [A96] <br/>
@@ -2295,7 +2295,7 @@ Wrappers: 140 / 140
 
 ## [S3 – Turbo Sport 71-140](sport/71-140)
 
-Covers: 56 / 60
+Covers: 57 / 60
 Wrappers: 71 / 71
 
 <table style="width:100%">
@@ -2350,7 +2350,7 @@ Wrappers: 71 / 71
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/2.5.png' width='50' alt='1997.05 [K97] R0 2 line.2'/></a>
             <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [K97] R0 2 line.3'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/4.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/4.5.png' width='50' alt='1997.05 [K97] R0 2 line.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [K97] R0 2 line.5'/></a>
+            <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/5.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/5.5.png' width='50' alt='1997.05 [K97] R0 2 line.5'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/6.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/6.5.png' width='50' alt='1997.05 [K97] R0 2 line.6'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/7.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/7.5.png' width='50' alt='1997.05 [K97] R0 2 line.7'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/8.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/8.5.png' width='50' alt='1997.05 [K97] R0 2 line.8'/></a>
