@@ -187,9 +187,16 @@ class Total:
     inners_total: int = 0
 
     def add_releases(self, outer_releases: List[OuterRelease]) -> Self:
+        product_counter = cl.defaultdict(set)
+        product_total = dict()
         for release in outer_releases:
-            self.outers_total += release.total
-            self.outers_count += len(release.collection)
+            p_id = (release.product_no or "") + release.caption
+            product_total[p_id] = release.total
+            product_counter[p_id].update(release.collection.keys())
+
+        for p_id, p_total in product_total.items():
+            self.outers_total += p_total
+            self.outers_count += len(product_counter[p_id])
 
         return self
 

@@ -10,12 +10,12 @@ layout: default
 
 ## Statistic
 
-\[Covers: 711 of 1094\]
+\[Covers: 670 of 1043\]
 \[Wrappers: 2161 of 2193\]
 
 ## [T1 – Turbo 1-50](black/1-50)
 
-Covers: 0 / 40
+Covers: 0 / 30
 Wrappers: 50 / 50
 
 <table style="width:100%">
@@ -3362,7 +3362,7 @@ Wrappers: 99 / 99
 
 ## [F3 – Turbo 2003 Sport TUR](2003/TUR/sport)
 
-Covers: 24 / 24
+Covers: 8 / 8
 Wrappers: 99 / 99
 
 <table style="width:100%">
@@ -3625,7 +3625,7 @@ Wrappers: 99 / 99
 
 ## [H1/H2 – Turbo 2007](2007)
 
-Covers: 40 / 40
+Covers: 15 / 15
 Wrappers: 108 / 108
 
 <table style="width:100%">
