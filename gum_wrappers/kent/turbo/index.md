@@ -10,8 +10,9 @@ layout: default
 
 ## Statistic
 
+
 \[Covers: 679 of 1043\]
-\[Wrappers: 2161 of 2193\]
+\[Wrappers: 2161 of 6813\]
 
 ## [T1 – Turbo 1-50](black/1-50)
 
@@ -22,53 +23,53 @@ Wrappers: 50 / 50
     <tr style="vertical-align: top;">
         <td style="width:50%;text-align: center">
             1986.06 [06] 86 06<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] 86 06.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] 86 06.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] 86 06.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] 86 06.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.06 [06] 86 06.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.06 [06] 86 06.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.06 [06] 86 06.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.06 [06] 86 06.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.06 [06] 86 06.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.06 [06] 86 06.5'/></a>
             <br/>1986.07 [06] 86 07<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.07 [06] 86 07.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.07 [06] 86 07.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.07 [06] 86 07.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.07 [06] 86 07.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.07 [06] 86 07.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.07 [06] 86 07.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.07 [06] 86 07.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.07 [06] 86 07.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.07 [06] 86 07.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.07 [06] 86 07.5'/></a>
             <br/>1986.09 [09] 86 09<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.09 [09] 86 09.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.09 [09] 86 09.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.09 [09] 86 09.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.09 [09] 86 09.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.09 [09] 86 09.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.09 [09] 86 09.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.09 [09] 86 09.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.09 [09] 86 09.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.09 [09] 86 09.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.09 [09] 86 09.5'/></a>
             <br/>1986.10 [10] 86 10<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.10 [10] 86 10.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.10 [10] 86 10.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.10 [10] 86 10.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.10 [10] 86 10.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.10 [10] 86 10.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.10 [10] 86 10.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.10 [10] 86 10.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.10 [10] 86 10.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.10 [10] 86 10.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.10 [10] 86 10.5'/></a>
             <br/>1986.11 [11] 86 11<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.11 [11] 86 11.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.11 [11] 86 11.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.11 [11] 86 11.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.11 [11] 86 11.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1986.11 [11] 86 11.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.11 [11] 86 11.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.11 [11] 86 11.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.11 [11] 86 11.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.11 [11] 86 11.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1986.11 [11] 86 11.5'/></a>
             <br/>1987.03 [03] 87 03<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.03 [03] 87 03.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.03 [03] 87 03.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.03 [03] 87 03.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.03 [03] 87 03.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.03 [03] 87 03.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.03 [03] 87 03.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.03 [03] 87 03.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.03 [03] 87 03.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.03 [03] 87 03.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.03 [03] 87 03.5'/></a>
             <br/>1987.04 [04] 87 04<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.04 [04] 87 04.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.04 [04] 87 04.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.04 [04] 87 04.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.04 [04] 87 04.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.04 [04] 87 04.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.04 [04] 87 04.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.04 [04] 87 04.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.04 [04] 87 04.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.04 [04] 87 04.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.04 [04] 87 04.5'/></a>
             <br/>1987.06 [06] 87 05<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.06 [06] 87 05.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.06 [06] 87 05.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.06 [06] 87 05.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.06 [06] 87 05.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.06 [06] 87 05.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.06 [06] 87 05.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.06 [06] 87 05.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.06 [06] 87 05.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.06 [06] 87 05.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.06 [06] 87 05.5'/></a>
             <br/>
         </td>
         <td>
@@ -130,46 +131,46 @@ Wrappers: 50 / 50
 ## [T2 – Turbo 51-120](black/51-120)
 
 Covers: 102 / 155
-Wrappers: 80 / 80
+Wrappers: 80 / 130
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:50%;text-align: center">
             1987.09 [987] White colour no Meyva Aromali and no Mini Posterli<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.09 [987] White colour no Meyva Aromali and no Mini Posterli.5'/></a>
             <br/>1987.10 [1087] no Meyva Aromali<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.10 [1087] no Meyva Aromali.5'/></a>
             <br/>1987.11 [1187] no Meyva Aromali<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1987.11 [1187] no Meyva Aromali.5'/></a>
             <br/>1988.01 [0188] no Meyva Aromali<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.01 [0188] no Meyva Aromali.5'/></a>
             <br/>1988.03 [0388] no Meyva Aromali<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.03 [0388] no Meyva Aromali.5'/></a>
             <br/>1988.04 [0488] no Meyva Aromali<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.04 [0488] no Meyva Aromali.4'/></a>
             <a href='black/51-120/thumbnails/outer/1988_04{0488}[5]no_Meyva_Aromali/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_04{0488}[5]no_Meyva_Aromali/5.5.png' width='50' alt='1988.04 [0488] no Meyva Aromali.5'/></a>
             <br/>1988.06 [0688] BHT<br/>
             <a href='black/51-120/thumbnails/outer/1988_06{0688}[5]BHT/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_06{0688}[5]BHT/1.5.png' width='50' alt='1988.06 [0688] BHT.1'/></a>
@@ -178,15 +179,15 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1988_06{0688}[5]BHT/4.3.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_06{0688}[5]BHT/4.3.png' width='50' alt='1988.06 [0688] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1988_06{0688}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_06{0688}[5]BHT/5.5.png' width='50' alt='1988.06 [0688] BHT.5'/></a>
             <br/>1988.09 [0988] BHT<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.09 [0988] BHT.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.09 [0988] BHT.1'/></a>
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/2.5.png' width='50' alt='1988.09 [0988] BHT.2'/></a>
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/3.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/3.5.png' width='50' alt='1988.09 [0988] BHT.3'/></a>
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/4.5.png' width='50' alt='1988.09 [0988] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_09{0988}[5]BHT/5.5.png' width='50' alt='1988.09 [0988] BHT.5'/></a>
             <br/>1988.10 [1088] BHT<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.10 [1088] BHT.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.10 [1088] BHT.1'/></a>
             <a href='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/2.5.png' width='50' alt='1988.10 [1088] BHT.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1988.10 [1088] BHT.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1988.10 [1088] BHT.3'/></a>
             <a href='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/4.5.png' width='50' alt='1988.10 [1088] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1988_10{1088}[5]BHT/5.5.png' width='50' alt='1988.10 [1088] BHT.5'/></a>
             <br/>1988.11 [1188] BHT<br/>
@@ -200,12 +201,12 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1989_01{0189}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_01{0189}[5]BHT/2.5.png' width='50' alt='1989.01 [0189] BHT.2'/></a>
             <a href='black/51-120/thumbnails/outer/1989_01{0189}[5]BHT/3.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_01{0189}[5]BHT/3.5.png' width='50' alt='1989.01 [0189] BHT.3'/></a>
             <a href='black/51-120/thumbnails/outer/1989_01{0189}[5]BHT/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_01{0189}[5]BHT/4.5.png' width='50' alt='1989.01 [0189] BHT.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1989.01 [0189] BHT.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1989.01 [0189] BHT.5'/></a>
             <br/>1989.03 [0389] BHT<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1989.03 [0389] BHT.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1989.03 [0389] BHT.1'/></a>
             <a href='black/51-120/thumbnails/outer/1989_03{0389}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_03{0389}[5]BHT/2.5.png' width='50' alt='1989.03 [0389] BHT.2'/></a>
             <a href='black/51-120/thumbnails/outer/1989_03{0389}[5]BHT/3.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_03{0389}[5]BHT/3.5.png' width='50' alt='1989.03 [0389] BHT.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1989.03 [0389] BHT.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1989.03 [0389] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1989_03{0389}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_03{0389}[5]BHT/5.5.png' width='50' alt='1989.03 [0389] BHT.5'/></a>
             <br/>1989.04 [0489] BHT<br/>
             <a href='black/51-120/thumbnails/outer/1989_04{0489}[5]BHT/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_04{0489}[5]BHT/1.5.png' width='50' alt='1989.04 [0489] BHT.1'/></a>
@@ -214,9 +215,9 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1989_04{0489}[5]BHT/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_04{0489}[5]BHT/4.5.png' width='50' alt='1989.04 [0489] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1989_04{0489}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_04{0489}[5]BHT/5.5.png' width='50' alt='1989.04 [0489] BHT.5'/></a>
             <br/>1989.05 [0589] BHT<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1989.05 [0589] BHT.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1989.05 [0589] BHT.1'/></a>
             <a href='black/51-120/thumbnails/outer/1989_05{0589}[5]BHT/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_05{0589}[5]BHT/2.5.png' width='50' alt='1989.05 [0589] BHT.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1989.05 [0589] BHT.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1989.05 [0589] BHT.3'/></a>
             <a href='black/51-120/thumbnails/outer/1989_05{0589}[5]BHT/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_05{0589}[5]BHT/4.5.png' width='50' alt='1989.05 [0589] BHT.4'/></a>
             <a href='black/51-120/thumbnails/outer/1989_05{0589}[5]BHT/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1989_05{0589}[5]BHT/5.5.png' width='50' alt='1989.05 [0589] BHT.5'/></a>
             <br/>1989.06 [0689] BHT<br/>
@@ -283,7 +284,7 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/1.5.png' width='50' alt='1990.07 [0790] BHA.1'/></a>
             <a href='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/2.3.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/2.3.png' width='50' alt='1990.07 [0790] BHA.2'/></a>
             <a href='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/3.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/3.5.png' width='50' alt='1990.07 [0790] BHA.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.07 [0790] BHA.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.07 [0790] BHA.4'/></a>
             <a href='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_07{0790}[5]BHA/5.5.png' width='50' alt='1990.07 [0790] BHA.5'/></a>
             <br/>1990.08 [0890] BHA<br/>
             <a href='black/51-120/thumbnails/outer/1990_08{0890}[5]BHA/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_08{0890}[5]BHA/1.5.png' width='50' alt='1990.08 [0890] BHA.1'/></a>
@@ -295,36 +296,86 @@ Wrappers: 80 / 80
             <a href='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/1.5.png' width='50' alt='1990.10 [1090] BHA.1'/></a>
             <a href='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/2.5.png' width='50' alt='1990.10 [1090] BHA.2'/></a>
             <a href='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/3.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/3.5.png' width='50' alt='1990.10 [1090] BHA.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.10 [1090] BHA.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.10 [1090] BHA.4'/></a>
             <a href='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_10{1090}[5]BHA/5.5.png' width='50' alt='1990.10 [1090] BHA.5'/></a>
             <br/>1990.11 [1190] BHA<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.11 [1190] BHA.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.11 [1190] BHA.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.11 [1190] BHA.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.11 [1190] BHA.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.11 [1190] BHA.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.11 [1190] BHA.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.11 [1190] BHA.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.11 [1190] BHA.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.11 [1190] BHA.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.11 [1190] BHA.5'/></a>
             <br/>1990.12 [1290] BHA<br/>
             <a href='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/1.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/1.5.png' width='50' alt='1990.12 [1290] BHA.1'/></a>
             <a href='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/2.5.png' width='50' alt='1990.12 [1290] BHA.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1990.12 [1290] BHA.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1990.12 [1290] BHA.3'/></a>
             <a href='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/4.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/4.5.png' width='50' alt='1990.12 [1290] BHA.4'/></a>
             <a href='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/5.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1990_12{1290}[5]BHA/5.5.png' width='50' alt='1990.12 [1290] BHA.5'/></a>
             <br/>1991.01 [0191] BHA<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.01 [0191] BHA.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.01 [0191] BHA.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.01 [0191] BHA.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.01 [0191] BHA.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.01 [0191] BHA.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.01 [0191] BHA.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.01 [0191] BHA.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.01 [0191] BHA.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.01 [0191] BHA.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.01 [0191] BHA.5'/></a>
             <br/>1991.03 [0391] BHA<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.03 [0391] BHA.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.03 [0391] BHA.1'/></a>
             <a href='black/51-120/thumbnails/outer/1991_03{0391}[5]BHA/2.5.png' target='_blank'><img src='black/51-120/thumbnails/outer/1991_03{0391}[5]BHA/2.5.png' width='50' alt='1991.03 [0391] BHA.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.03 [0391] BHA.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.03 [0391] BHA.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.03 [0391] BHA.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.03 [0391] BHA.4'/></a>
             <a href='black/51-120/thumbnails/outer/1991_03{0391}[5]BHA/5.4.png' target='_blank'><img src='black/51-120/thumbnails/outer/1991_03{0391}[5]BHA/5.4.png' width='50' alt='1991.03 [0391] BHA.5'/></a>
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/120)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
             <a class='perfect' href='black/51-120/thumbnails/inner/51.5.png' title='' target='_blank'>51</a>
             <a class='enough' href='black/51-120/thumbnails/inner/52.4.png' title='' target='_blank'>52</a>
             <a class='perfect' href='black/51-120/thumbnails/inner/53.5.png' title='' target='_blank'>53</a>
@@ -402,34 +453,34 @@ Wrappers: 80 / 80
 ## [T3 – Turbo 121-190](black/121-190)
 
 Covers: 43 / 60
-Wrappers: 128 / 154
+Wrappers: 128 / 394
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:50%;text-align: center">
             1991.04 [0491] no TSE 3-line no TS 8000 aligned<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.2'/></a>
             <a href='black/121-190/thumbnails/outer/1991_04{0491}[5]no_TSE_3-line_no_TS_8000_aligned/3.3.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_04{0491}[5]no_TSE_3-line_no_TS_8000_aligned/3.3.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.04 [0491] no TSE 3-line no TS 8000 aligned.5'/></a>
             <br/>1991.05 [0591] no TSE 3-line no TS 8000<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.4'/></a>
             <a href='black/121-190/thumbnails/outer/1991_05{0591}[5]no_TSE_3-line_no_TS_8000/5.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_05{0591}[5]no_TSE_3-line_no_TS_8000/5.5.png' width='50' alt='1991.05 [0591] no TSE 3-line no TS 8000.5'/></a>
             <br/>1991.06 [0691] no TSE 3-line no TS 8000<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.1'/></a>
             <a href='black/121-190/thumbnails/outer/1991_06{0691}[5]no_TSE_3-line_no_TS_8000/2.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_06{0691}[5]no_TSE_3-line_no_TS_8000/2.5.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.06 [0691] no TSE 3-line no TS 8000.5'/></a>
             <br/>1991.07 [G-91] no TSE 3-line no TS 8000<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.1'/></a>
             <a href='black/121-190/thumbnails/outer/1991_07{G-91}[5]no_TSE_3-line_no_TS_8000/2.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_07{G-91}[5]no_TSE_3-line_no_TS_8000/2.5.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.2'/></a>
             <a href='black/121-190/thumbnails/outer/1991_07{G-91}[5]no_TSE_3-line_no_TS_8000/3.3.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_07{G-91}[5]no_TSE_3-line_no_TS_8000/3.3.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.4'/></a>
             <a href='black/121-190/thumbnails/outer/1991_07{G-91}[5]no_TSE_3-line_no_TS_8000/5.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_07{G-91}[5]no_TSE_3-line_no_TS_8000/5.5.png' width='50' alt='1991.07 [G-91] no TSE 3-line no TS 8000.5'/></a>
             <br/>1991.08 [H91] 3-line<br/>
             <a href='black/121-190/thumbnails/outer/1991_08{H91}[5]3-line/1.4.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_08{H91}[5]3-line/1.4.png' width='50' alt='1991.08 [H91] 3-line.1'/></a>
@@ -451,14 +502,14 @@ Wrappers: 128 / 154
             <a href='black/121-190/thumbnails/outer/1991_10{J-91}[5]3-line/5.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1991_10{J-91}[5]3-line/5.5.png' width='50' alt='1991.10 [J-91] 3-line.5'/></a>
             <br/>1992.01 [A-92] 2,5-line<br/>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2,5-line/1.3.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2,5-line/1.3.png' width='50' alt='1992.01 [A-92] 2,5-line.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.01 [A-92] 2,5-line.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.01 [A-92] 2,5-line.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.01 [A-92] 2,5-line.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.01 [A-92] 2,5-line.3'/></a>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2,5-line/4.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2,5-line/4.5.png' width='50' alt='1992.01 [A-92] 2,5-line.4'/></a>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2,5-line/5.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2,5-line/5.5.png' width='50' alt='1992.01 [A-92] 2,5-line.5'/></a>
             <br/>1992.01 [A-92] 2-line<br/>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/1.4.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/1.4.png' width='50' alt='1992.01 [A-92] 2-line.1'/></a>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/2.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/2.5.png' width='50' alt='1992.01 [A-92] 2-line.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.01 [A-92] 2-line.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.01 [A-92] 2-line.3'/></a>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/4.4.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/4.4.png' width='50' alt='1992.01 [A-92] 2-line.4'/></a>
             <a href='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/5.5.png' target='_blank'><img src='black/121-190/thumbnails/outer/1992_01{A-92}[5]2-line/5.5.png' width='50' alt='1992.01 [A-92] 2-line.5'/></a>
             <br/>1992.03 [C-92] 2-line<br/>
@@ -482,7 +533,127 @@ Wrappers: 128 / 154
             <br/>
         </td>
         <td>
-            (67/70)<br/>
+            (67/190)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
             <a class='enough' href='black/121-190/thumbnails/inner/121.4.png' title='' target='_blank'>121</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/122.5.png' title='' target='_blank'>122</a>
             <a class='enough' href='black/121-190/thumbnails/inner/123.4.png' title='' target='_blank'>123</a>
@@ -552,7 +723,127 @@ Wrappers: 128 / 154
             <a class='enough' href='black/121-190/thumbnails/inner/187.4.png' title='' target='_blank'>187</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/188.5.png' title='' target='_blank'>188</a>
             <a class='perfect' href='black/121-190/thumbnails/inner/189.5.png' title='' target='_blank'>189</a>
-            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='' target='_blank'>190</a><br/>Oil (47/70)<br/>
+            <a class='perfect' href='black/121-190/thumbnails/inner/190.5.png' title='' target='_blank'>190</a><br/>Oil (47/190)<br/>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Oil' target='_blank'>120</a>
             <a class='enough' href='black/121-190/thumbnails/inner/121.oil.4.png' title='Oil' target='_blank'>121</a>
             <a class='enough' href='black/121-190/thumbnails/inner/122.oil.4.png' title='Oil' target='_blank'>122</a>
             <a class='missed' href='black/121-190/thumbnails/inner/123.oil.0.png' title='Oil' target='_blank'>123</a>
@@ -630,7 +921,7 @@ Wrappers: 128 / 154
 ## [T4 – Turbo 191-260](black/191-260)
 
 Covers: 65 / 72
-Wrappers: 71 / 71
+Wrappers: 71 / 261
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -641,20 +932,20 @@ Wrappers: 71 / 71
             <a href='black/191-260/thumbnails/outer/1992_07{G-92}[6]2-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_07{G-92}[6]2-line/3.5.png' width='50' alt='1992.07 [G-92] 2-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1992_07{G-92}[6]2-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_07{G-92}[6]2-line/4.5.png' width='50' alt='1992.07 [G-92] 2-line.4'/></a>
             <a href='black/191-260/thumbnails/outer/1992_07{G-92}[6]2-line/5.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_07{G-92}[6]2-line/5.5.png' width='50' alt='1992.07 [G-92] 2-line.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.07 [G-92] 2-line.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.07 [G-92] 2-line.6'/></a>
             <br/>1992.08 [H-92] 2-line<br/>
             <a href='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/1.5.png' width='50' alt='1992.08 [H-92] 2-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/2.5.png' width='50' alt='1992.08 [H-92] 2-line.2'/></a>
             <a href='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/3.5.png' width='50' alt='1992.08 [H-92] 2-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/4.5.png' width='50' alt='1992.08 [H-92] 2-line.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.08 [H-92] 2-line.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.08 [H-92] 2-line.5'/></a>
             <a href='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/6.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_08{H-92}[6]2-line/6.5.png' width='50' alt='1992.08 [H-92] 2-line.6'/></a>
             <br/>1992.10 [J-92] 2-line<br/>
             <a href='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/1.5.png' width='50' alt='1992.10 [J-92] 2-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/2.5.png' width='50' alt='1992.10 [J-92] 2-line.2'/></a>
             <a href='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/3.5.png' width='50' alt='1992.10 [J-92] 2-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/4.5.png' width='50' alt='1992.10 [J-92] 2-line.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.10 [J-92] 2-line.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.10 [J-92] 2-line.5'/></a>
             <a href='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/6.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_10{J-92}[6]2-line/6.5.png' width='50' alt='1992.10 [J-92] 2-line.6'/></a>
             <br/>1992.11 [K-92] 2-line<br/>
             <a href='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/1.5.png' width='50' alt='1992.11 [K-92] 2-line.1'/></a>
@@ -662,12 +953,12 @@ Wrappers: 71 / 71
             <a href='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/3.5.png' width='50' alt='1992.11 [K-92] 2-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/4.5.png' width='50' alt='1992.11 [K-92] 2-line.4'/></a>
             <a href='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/5.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_11{K-92}[6]2-line/5.5.png' width='50' alt='1992.11 [K-92] 2-line.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.11 [K-92] 2-line.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.11 [K-92] 2-line.6'/></a>
             <br/>1992.12 [L-92] 2-line<br/>
             <a href='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/1.5.png' width='50' alt='1992.12 [L-92] 2-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/2.5.png' width='50' alt='1992.12 [L-92] 2-line.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.12 [L-92] 2-line.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1992.12 [L-92] 2-line.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.12 [L-92] 2-line.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1992.12 [L-92] 2-line.4'/></a>
             <a href='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/5.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/5.5.png' width='50' alt='1992.12 [L-92] 2-line.5'/></a>
             <a href='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/6.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1992_12{L-92}[6]2-line/6.5.png' width='50' alt='1992.12 [L-92] 2-line.6'/></a>
             <br/>1993.01 [A-93] 2-long-line<br/>
@@ -690,7 +981,7 @@ Wrappers: 71 / 71
             <a href='black/191-260/thumbnails/outer/1993_04{D-93}[6]2-long-line/3.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_04{D-93}[6]2-long-line/3.5.png' width='50' alt='1993.04 [D-93] 2-long-line.3'/></a>
             <a href='black/191-260/thumbnails/outer/1993_04{D-93}[6]2-long-line/4.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_04{D-93}[6]2-long-line/4.5.png' width='50' alt='1993.04 [D-93] 2-long-line.4'/></a>
             <a href='black/191-260/thumbnails/outer/1993_04{D-93}[6]2-long-line/5.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_04{D-93}[6]2-long-line/5.5.png' width='50' alt='1993.04 [D-93] 2-long-line.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1993.04 [D-93] 2-long-line.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1993.04 [D-93] 2-long-line.6'/></a>
             <br/>1993.05 [E-93] 2-long-line<br/>
             <a href='black/191-260/thumbnails/outer/1993_05{E-93}[6]2-long-line/1.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_05{E-93}[6]2-long-line/1.5.png' width='50' alt='1993.05 [E-93] 2-long-line.1'/></a>
             <a href='black/191-260/thumbnails/outer/1993_05{E-93}[6]2-long-line/2.5.png' target='_blank'><img src='black/191-260/thumbnails/outer/1993_05{E-93}[6]2-long-line/2.5.png' width='50' alt='1993.05 [E-93] 2-long-line.2'/></a>
@@ -722,7 +1013,197 @@ Wrappers: 71 / 71
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/260)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>190</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/191.5.png' title='' target='_blank'>191</a>
             <a class='perfect' href='black/191-260/thumbnails/inner/192.5.png' title='' target='_blank'>192</a>
             <a class='enough' href='black/191-260/thumbnails/inner/193.4.png' title='' target='_blank'>193</a>
@@ -800,7 +1281,7 @@ Wrappers: 71 / 71
 ## [T5 – Turbo 261-330](black/261-330)
 
 Covers: 44 / 45
-Wrappers: 280 / 281
+Wrappers: 280 / 1321
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -857,12 +1338,272 @@ Wrappers: 280 / 281
             <a href='black/261-330/thumbnails/outer/1994_10{J 94}[5]/1.5.png' target='_blank'><img src='black/261-330/thumbnails/outer/1994_10{J 94}[5]/1.5.png' width='50' alt='1994.10 [J 94] .1'/></a>
             <a href='black/261-330/thumbnails/outer/1994_10{J 94}[5]/2.5.png' target='_blank'><img src='black/261-330/thumbnails/outer/1994_10{J 94}[5]/2.5.png' width='50' alt='1994.10 [J 94] .2'/></a>
             <a href='black/261-330/thumbnails/outer/1994_10{J 94}[5]/3.5.png' target='_blank'><img src='black/261-330/thumbnails/outer/1994_10{J 94}[5]/3.5.png' width='50' alt='1994.10 [J 94] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1994.10 [J 94] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1994.10 [J 94] .4'/></a>
             <a href='black/261-330/thumbnails/outer/1994_10{J 94}[5]/5.4.png' target='_blank'><img src='black/261-330/thumbnails/outer/1994_10{J 94}[5]/5.4.png' width='50' alt='1994.10 [J 94] .5'/></a>
             <br/>
         </td>
         <td>
-            Thick (70/70)<br/>
+            Thick (70/330)<br/>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='Thick' target='_blank'>260</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thick.5.png' title='Thick' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thick.5.png' title='Thick' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thick.5.png' title='Thick' target='_blank'>263</a>
@@ -932,7 +1673,267 @@ Wrappers: 280 / 281
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thick.5.png' title='Thick' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thick.5.png' title='Thick' target='_blank'>328</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/329.thick.5.png' title='Thick' target='_blank'>329</a>
-            <a class='perfect' href='black/261-330/thumbnails/inner/330.thick.5.png' title='Thick' target='_blank'>330</a><br/>Thin brown (69/70)<br/>
+            <a class='perfect' href='black/261-330/thumbnails/inner/330.thick.5.png' title='Thick' target='_blank'>330</a><br/>Thin brown (69/330)<br/>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='Thin brown' target='_blank'>260</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thin_brown.5.png' title='Thin brown' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thin_brown.5.png' title='Thin brown' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thin_brown.5.png' title='Thin brown' target='_blank'>263</a>
@@ -1002,7 +2003,267 @@ Wrappers: 280 / 281
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thin_brown.5.png' title='Thin brown' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thin_brown.5.png' title='Thin brown' target='_blank'>328</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/329.thin_brown.5.png' title='Thin brown' target='_blank'>329</a>
-            <a class='perfect' href='black/261-330/thumbnails/inner/330.thin_brown.5.png' title='Thin brown' target='_blank'>330</a><br/>Thin gold (70/70)<br/>
+            <a class='perfect' href='black/261-330/thumbnails/inner/330.thin_brown.5.png' title='Thin brown' target='_blank'>330</a><br/>Thin gold (70/330)<br/>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='Thin gold' target='_blank'>260</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thin_gold.5.png' title='Thin gold' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thin_gold.5.png' title='Thin gold' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thin_gold.5.png' title='Thin gold' target='_blank'>263</a>
@@ -1072,7 +2333,267 @@ Wrappers: 280 / 281
             <a class='perfect' href='black/261-330/thumbnails/inner/327.thin_gold.5.png' title='Thin gold' target='_blank'>327</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/328.thin_gold.5.png' title='Thin gold' target='_blank'>328</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/329.thin_gold.5.png' title='Thin gold' target='_blank'>329</a>
-            <a class='perfect' href='black/261-330/thumbnails/inner/330.thin_gold.5.png' title='Thin gold' target='_blank'>330</a><br/>Thin silver (70/70)<br/>
+            <a class='perfect' href='black/261-330/thumbnails/inner/330.thin_gold.5.png' title='Thin gold' target='_blank'>330</a><br/>Thin silver (70/330)<br/>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='Thin silver' target='_blank'>260</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/261.thin_silver.5.png' title='Thin silver' target='_blank'>261</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/262.thin_silver.5.png' title='Thin silver' target='_blank'>262</a>
             <a class='perfect' href='black/261-330/thumbnails/inner/263.thin_silver.5.png' title='Thin silver' target='_blank'>263</a>
@@ -1150,7 +2671,7 @@ Wrappers: 280 / 281
 ## [U1 – Turbo Super 331-400](super/331-400)
 
 Covers: 10 / 10
-Wrappers: 70 / 70
+Wrappers: 70 / 400
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1170,7 +2691,337 @@ Wrappers: 70 / 70
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/400)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>260</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>261</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>262</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>263</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>264</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>265</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>266</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>267</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>268</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>269</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>270</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>271</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>272</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>273</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>274</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>275</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>276</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>277</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>278</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>279</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>280</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>281</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>282</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>283</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>284</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>285</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>286</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>287</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>288</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>289</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>290</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>291</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>292</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>293</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>294</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>295</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>296</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>297</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>298</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>299</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>300</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>301</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>302</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>303</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>304</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>305</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>306</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>307</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>308</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>309</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>310</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>311</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>312</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>313</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>314</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>315</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>316</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>317</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>318</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>319</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>320</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>321</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>322</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>323</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>324</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>325</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>326</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>327</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>328</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>329</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>330</a>
             <a class='perfect' href='super/331-400/thumbnails/inner/331.5.png' title='' target='_blank'>331</a>
             <a class='perfect' href='super/331-400/thumbnails/inner/332.5.png' title='' target='_blank'>332</a>
             <a class='enough' href='super/331-400/thumbnails/inner/333.4.png' title='' target='_blank'>333</a>
@@ -1248,7 +3099,7 @@ Wrappers: 70 / 70
 ## [U2 – Turbo Super 401-470](super/401-470)
 
 Covers: 25 / 25
-Wrappers: 70 / 70
+Wrappers: 70 / 470
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1286,7 +3137,407 @@ Wrappers: 70 / 70
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/470)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>260</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>261</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>262</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>263</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>264</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>265</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>266</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>267</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>268</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>269</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>270</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>271</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>272</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>273</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>274</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>275</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>276</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>277</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>278</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>279</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>280</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>281</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>282</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>283</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>284</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>285</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>286</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>287</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>288</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>289</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>290</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>291</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>292</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>293</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>294</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>295</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>296</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>297</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>298</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>299</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>300</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>301</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>302</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>303</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>304</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>305</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>306</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>307</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>308</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>309</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>310</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>311</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>312</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>313</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>314</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>315</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>316</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>317</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>318</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>319</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>320</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>321</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>322</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>323</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>324</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>325</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>326</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>327</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>328</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>329</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>330</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>331</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>332</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>333</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>334</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>335</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>336</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>337</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>338</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>339</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>340</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>341</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>342</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>343</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>344</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>345</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>346</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>347</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>348</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>349</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>350</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>351</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>352</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>353</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>354</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>355</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>356</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>357</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>358</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>359</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>360</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>361</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>362</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>363</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>364</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>365</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>366</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>367</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>368</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>369</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>370</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>371</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>372</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>373</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>374</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>375</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>376</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>377</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>378</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>379</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>380</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>381</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>382</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>383</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>384</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>385</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>386</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>387</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>388</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>389</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>390</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>391</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>392</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>393</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>394</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>395</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>396</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>397</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>398</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>399</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>400</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/401.5.png' title='' target='_blank'>401</a>
             <a class='enough' href='super/401-470/thumbnails/inner/402.4.png' title='' target='_blank'>402</a>
             <a class='perfect' href='super/401-470/thumbnails/inner/403.5.png' title='' target='_blank'>403</a>
@@ -1364,7 +3615,7 @@ Wrappers: 70 / 70
 ## [U3 – Turbo Super 471-540](super/471-540)
 
 Covers: 90 / 190
-Wrappers: 72 / 72
+Wrappers: 72 / 542
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1393,7 +3644,7 @@ Wrappers: 72 / 72
             <a href='super/471-540/thumbnails/outer/1996_11{K-96}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1996_11{K-96}[10]R0/10.5.png' width='50' alt='1996.11 [K-96] R0.10'/></a>
             <br/>1997.02 [B-97] R0<br/>
             <a href='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/1.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/1.5.png' width='50' alt='1997.02 [B-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.2'/></a>
             <a href='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/3.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/3.5.png' width='50' alt='1997.02 [B-97] R0.3'/></a>
             <a href='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/4.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/4.5.png' width='50' alt='1997.02 [B-97] R0.4'/></a>
             <a href='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/5.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/5.5.png' width='50' alt='1997.02 [B-97] R0.5'/></a>
@@ -1403,16 +3654,16 @@ Wrappers: 72 / 72
             <a href='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/9.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/9.5.png' width='50' alt='1997.02 [B-97] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/10.4.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_02{B-97}[10]R0/10.4.png' width='50' alt='1997.02 [B-97] R0.10'/></a>
             <br/>1997.03 [C-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.3'/></a>
             <a href='super/471-540/thumbnails/outer/1997_03{C-97}[10]R0/4.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_03{C-97}[10]R0/4.5.png' width='50' alt='1997.03 [C-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.6'/></a>
             <a href='super/471-540/thumbnails/outer/1997_03{C-97}[10]R0/7.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_03{C-97}[10]R0/7.5.png' width='50' alt='1997.03 [C-97] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.8'/></a>
             <a href='super/471-540/thumbnails/outer/1997_03{C-97}[10]R0/9.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_03{C-97}[10]R0/9.5.png' width='50' alt='1997.03 [C-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.10'/></a>
             <br/>1997.05 [E-97] R0<br/>
             <a href='super/471-540/thumbnails/outer/1997_05{E-97}[10]R0/1.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_05{E-97}[10]R0/1.5.png' width='50' alt='1997.05 [E-97] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1997_05{E-97}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_05{E-97}[10]R0/2.5.png' width='50' alt='1997.05 [E-97] R0.2'/></a>
@@ -1428,21 +3679,21 @@ Wrappers: 72 / 72
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/1.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/1.5.png' width='50' alt='1997.06 [F-97] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/2.5.png' width='50' alt='1997.06 [F-97] R0.2'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/3.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/3.5.png' width='50' alt='1997.06 [F-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.4'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/5.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/5.5.png' width='50' alt='1997.06 [F-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.6'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/7.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/7.5.png' width='50' alt='1997.06 [F-97] R0.7'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/8.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/8.5.png' width='50' alt='1997.06 [F-97] R0.8'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/9.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/9.5.png' width='50' alt='1997.06 [F-97] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_06{F-97}[10]R0/10.5.png' width='50' alt='1997.06 [F-97] R0.10'/></a>
             <br/>1997.07 [G-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.07 [G-97] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/2.5.png' width='50' alt='1997.07 [G-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.07 [G-97] R0.3'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/4.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/4.5.png' width='50' alt='1997.07 [G-97] R0.4'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/5.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/5.5.png' width='50' alt='1997.07 [G-97] R0.5'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/6.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/6.5.png' width='50' alt='1997.07 [G-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.07 [G-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.07 [G-97] R0.7'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/8.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/8.5.png' width='50' alt='1997.07 [G-97] R0.8'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/9.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/9.5.png' width='50' alt='1997.07 [G-97] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_07{G-97}[10]R0/10.5.png' width='50' alt='1997.07 [G-97] R0.10'/></a>
@@ -1450,138 +3701,608 @@ Wrappers: 72 / 72
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/1.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/1.5.png' width='50' alt='1997.08 [H-97] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/2.4.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/2.4.png' width='50' alt='1997.08 [H-97] R0.2'/></a>
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/3.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/3.5.png' width='50' alt='1997.08 [H-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H-97] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.08 [H-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.08 [H-97] R0.5'/></a>
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/6.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/6.5.png' width='50' alt='1997.08 [H-97] R0.6'/></a>
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/7.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/7.5.png' width='50' alt='1997.08 [H-97] R0.7'/></a>
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/8.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/8.5.png' width='50' alt='1997.08 [H-97] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.08 [H-97] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.08 [H-97] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_08{H-97}[10]R0/10.5.png' width='50' alt='1997.08 [H-97] R0.10'/></a>
             <br/>1997.09 [I-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.5'/></a>
             <a href='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/6.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/6.5.png' width='50' alt='1997.09 [I-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.7'/></a>
             <a href='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/8.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/8.5.png' width='50' alt='1997.09 [I-97] R0.8'/></a>
             <a href='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/9.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/9.5.png' width='50' alt='1997.09 [I-97] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_09{I-97}[10]R0/10.5.png' width='50' alt='1997.09 [I-97] R0.10'/></a>
             <br/>1997.12 [L-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.12 [L-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.12 [L-97] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/2.5.png' width='50' alt='1997.12 [L-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.12 [L-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.12 [L-97] R0.3'/></a>
             <a href='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/4.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/4.5.png' width='50' alt='1997.12 [L-97] R0.4'/></a>
             <a href='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/5.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/5.5.png' width='50' alt='1997.12 [L-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.12 [L-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.12 [L-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.12 [L-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.12 [L-97] R0.7'/></a>
             <a href='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/8.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/8.5.png' width='50' alt='1997.12 [L-97] R0.8'/></a>
             <a href='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/9.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1997_12{L-97}[10]R0/9.5.png' width='50' alt='1997.12 [L-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.12 [L-97] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.12 [L-97] R0.10'/></a>
             <br/>1998.01 [A-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1998_01{A-98}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_01{A-98}[10]R0/2.5.png' width='50' alt='1998.01 [A-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1998_01{A-98}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_01{A-98}[10]R0/10.5.png' width='50' alt='1998.01 [A-98] R0.10'/></a>
             <br/>1998.02 [B-98] R0<br/>
             <a href='super/471-540/thumbnails/outer/1998_02{B-98}[10]R0/1.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_02{B-98}[10]R0/1.5.png' width='50' alt='1998.02 [B-98] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.8'/></a>
             <a href='super/471-540/thumbnails/outer/1998_02{B-98}[10]R0/9.3.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_02{B-98}[10]R0/9.3.png' width='50' alt='1998.02 [B-98] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.02 [B-98] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] R0.10'/></a>
             <br/>1998.03 [C-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.5'/></a>
             <a href='super/471-540/thumbnails/outer/1998_03{C-98}[10]R0/6.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_03{C-98}[10]R0/6.5.png' width='50' alt='1998.03 [C-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.7'/></a>
             <a href='super/471-540/thumbnails/outer/1998_03{C-98}[10]R0/8.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_03{C-98}[10]R0/8.5.png' width='50' alt='1998.03 [C-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.10'/></a>
             <br/>1998.04 [D-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.1'/></a>
             <a href='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/2.5.png' width='50' alt='1998.04 [D-98] R0.2'/></a>
             <a href='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/3.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/3.5.png' width='50' alt='1998.04 [D-98] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.5'/></a>
             <a href='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/6.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/6.5.png' width='50' alt='1998.04 [D-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.9'/></a>
             <a href='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/10.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_04{D-98}[10]R0/10.5.png' width='50' alt='1998.04 [D-98] R0.10'/></a>
             <br/>1998.05 [E-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.3'/></a>
             <a href='super/471-540/thumbnails/outer/1998_05{E-98}[10]R0/4.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_05{E-98}[10]R0/4.5.png' width='50' alt='1998.05 [E-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.10'/></a>
             <br/>1998.06 [F-98] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.1'/></a>
             <a href='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/2.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/2.5.png' width='50' alt='1998.06 [F-98] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.3'/></a>
             <a href='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/4.2.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/4.2.png' width='50' alt='1998.06 [F-98] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.5'/></a>
             <a href='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/6.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/6.5.png' width='50' alt='1998.06 [F-98] R1.6'/></a>
             <a href='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/7.5.png' target='_blank'><img src='super/471-540/thumbnails/outer/1998_06{F-98}[10]R1/7.5.png' width='50' alt='1998.06 [F-98] R1.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.10'/></a>
             <br/>1998.07 [G-98] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] R1.10'/></a>
             <br/>1998.09 [I-98] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.10'/></a>
             <br/>1999.05 [E-99] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.1'/></a>
             <a href='super/471-540/thumbnails/outer/1999_05{E-99}[10]R1/2.2.png' target='_blank'><img src='super/471-540/thumbnails/outer/1999_05{E-99}[10]R1/2.2.png' width='50' alt='1999.05 [E-99] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.7'/></a>
             <a href='super/471-540/thumbnails/outer/1999_05{E-99}[10]R1/8.2.png' target='_blank'><img src='super/471-540/thumbnails/outer/1999_05{E-99}[10]R1/8.2.png' width='50' alt='1999.05 [E-99] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.10'/></a>
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/540)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>260</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>261</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>262</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>263</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>264</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>265</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>266</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>267</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>268</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>269</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>270</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>271</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>272</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>273</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>274</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>275</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>276</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>277</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>278</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>279</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>280</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>281</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>282</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>283</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>284</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>285</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>286</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>287</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>288</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>289</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>290</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>291</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>292</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>293</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>294</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>295</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>296</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>297</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>298</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>299</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>300</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>301</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>302</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>303</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>304</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>305</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>306</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>307</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>308</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>309</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>310</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>311</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>312</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>313</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>314</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>315</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>316</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>317</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>318</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>319</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>320</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>321</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>322</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>323</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>324</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>325</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>326</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>327</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>328</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>329</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>330</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>331</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>332</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>333</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>334</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>335</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>336</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>337</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>338</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>339</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>340</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>341</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>342</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>343</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>344</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>345</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>346</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>347</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>348</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>349</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>350</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>351</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>352</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>353</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>354</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>355</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>356</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>357</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>358</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>359</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>360</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>361</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>362</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>363</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>364</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>365</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>366</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>367</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>368</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>369</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>370</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>371</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>372</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>373</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>374</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>375</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>376</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>377</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>378</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>379</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>380</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>381</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>382</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>383</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>384</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>385</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>386</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>387</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>388</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>389</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>390</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>391</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>392</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>393</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>394</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>395</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>396</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>397</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>398</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>399</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>400</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>401</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>402</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>403</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>404</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>405</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>406</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>407</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>408</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>409</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>410</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>411</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>412</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>413</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>414</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>415</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>416</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>417</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>418</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>419</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>420</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>421</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>422</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>423</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>424</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>425</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>426</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>427</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>428</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>429</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>430</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>431</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>432</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>433</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>434</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>435</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>436</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>437</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>438</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>439</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>440</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>441</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>442</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>443</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>444</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>445</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>446</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>447</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>448</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>449</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>450</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>451</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>452</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>453</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>454</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>455</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>456</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>457</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>458</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>459</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>460</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>461</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>462</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>463</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>464</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>465</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>466</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>467</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>468</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>469</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>470</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/471.5.png' title='' target='_blank'>471</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/472.5.png' title='' target='_blank'>472</a>
             <a class='perfect' href='super/471-540/thumbnails/inner/473.5.png' title='' target='_blank'>473</a>
@@ -1845,7 +4566,7 @@ Wrappers: 140 / 140
 ## [C3 – Turbo Classic 71-140](classic/71-140)
 
 Covers: 66 / 150
-Wrappers: 70 / 70
+Wrappers: 70 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -1862,20 +4583,20 @@ Wrappers: 70 / 70
             <a href='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/9.5.png' width='50' alt='1996.12 [L96] R0.9'/></a>
             <a href='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1996_12{L_96}[10]R0/10.5.png' width='50' alt='1996.12 [L96] R0.10'/></a>
             <br/>1997.02 [B-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.02 [B-97] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.02 [B-97] R0.10'/></a>
             <br/>1997.03 [C-97] R0<br/>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/1.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/1.5.png' width='50' alt='1997.03 [C-97] R0.1'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/2.5.png' width='50' alt='1997.03 [C-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.03 [C-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.03 [C-97] R0.3'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/4.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/4.5.png' width='50' alt='1997.03 [C-97] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/5.5.png' width='50' alt='1997.03 [C-97] R0.5'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/6.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_03{C-97}[10]R0/6.5.png' width='50' alt='1997.03 [C-97] R0.6'/></a>
@@ -1887,12 +4608,12 @@ Wrappers: 70 / 70
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/1.4.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/1.4.png' width='50' alt='1997.04 [D-97] R0.1'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/2.5.png' width='50' alt='1997.04 [D-97] R0.2'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/3.4.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/3.4.png' width='50' alt='1997.04 [D-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.04 [D-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.04 [D-97] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/5.5.png' width='50' alt='1997.04 [D-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.04 [D-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.04 [D-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.04 [D-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.04 [D-97] R0.7'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/8.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/8.5.png' width='50' alt='1997.04 [D-97] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.04 [D-97] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.04 [D-97] R0.9'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/10.4.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_04{D-97}[10]R0/10.4.png' width='50' alt='1997.04 [D-97] R0.10'/></a>
             <br/>1997.05 [E-97] R0<br/>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/1.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/1.5.png' width='50' alt='1997.05 [E-97] R0.1'/></a>
@@ -1906,12 +4627,12 @@ Wrappers: 70 / 70
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/9.5.png' width='50' alt='1997.05 [E-97] R0.9'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_05{E-97}[10]R0/10.5.png' width='50' alt='1997.05 [E-97] R0.10'/></a>
             <br/>1997.06 [F-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.2'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/3.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/3.5.png' width='50' alt='1997.06 [F-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.06 [F-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.06 [F-97] R0.6'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/7.4.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/7.4.png' width='50' alt='1997.06 [F-97] R0.7'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/8.3.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/8.3.png' width='50' alt='1997.06 [F-97] R0.8'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_06{F-97}[10]R0/9.5.png' width='50' alt='1997.06 [F-97] R0.9'/></a>
@@ -1928,97 +4649,167 @@ Wrappers: 70 / 70
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/9.5.png' width='50' alt='1997.07 [G-97] R0.9'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_07{G-97}[10]R0/10.5.png' width='50' alt='1997.07 [G-97] R0.10'/></a>
             <br/>1997.09 [I-97] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.09 [I-97] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] R0.10'/></a>
             <br/>1997.11 [K-97] R0<br/>
             <a href='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/1.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/1.5.png' width='50' alt='1997.11 [K-97] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.11 [K-97] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.11 [K-97] R0.2'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/3.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/3.5.png' width='50' alt='1997.11 [K-97] R0.3'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/4.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/4.5.png' width='50' alt='1997.11 [K-97] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/5.5.png' width='50' alt='1997.11 [K-97] R0.5'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/6.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/6.5.png' width='50' alt='1997.11 [K-97] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.11 [K-97] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.11 [K-97] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.11 [K-97] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.11 [K-97] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.11 [K-97] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.11 [K-97] R0.9'/></a>
             <a href='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1997_11{K-97}[10]R0/10.5.png' width='50' alt='1997.11 [K-97] R0.10'/></a>
             <br/>1998.03 [C-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] R0.10'/></a>
             <br/>1998.04 [D-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/5.5.png' width='50' alt='1998.04 [D-98] R0.5'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/6.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/6.5.png' width='50' alt='1998.04 [D-98] R0.6'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_04{D-98}[10]R0/7.5.png' width='50' alt='1998.04 [D-98] R0.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] R0.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] R0.10'/></a>
             <br/>1998.05 [E-98] R0<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.1'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/2.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/2.5.png' width='50' alt='1998.05 [E-98] R0.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.3'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/4.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/4.5.png' width='50' alt='1998.05 [E-98] R0.4'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/5.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/5.5.png' width='50' alt='1998.05 [E-98] R0.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] R0.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] R0.6'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/7.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/7.5.png' width='50' alt='1998.05 [E-98] R0.7'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/8.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/8.5.png' width='50' alt='1998.05 [E-98] R0.8'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/9.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/9.5.png' width='50' alt='1998.05 [E-98] R0.9'/></a>
             <a href='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/10.5.png' target='_blank'><img src='classic/71-140/thumbnails/outer/1998_05{E-98}[10]R0/10.5.png' width='50' alt='1998.05 [E-98] R0.10'/></a>
             <br/>1998.06 [F-98] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] R1.10'/></a>
             <br/>1998.09 [I-98] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.09 [I-98] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.09 [I-98] R1.10'/></a>
             <br/>1999.05 [E-99] R1<br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] R1.10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] R1.10'/></a>
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/140)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
             <a class='enough' href='classic/71-140/thumbnails/inner/71.4.png' title='' target='_blank'>71</a>
             <a class='perfect' href='classic/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='classic/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
@@ -2127,7 +4918,7 @@ Wrappers: 140 / 140
             <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/1.5.png' width='50' alt='1996.07 [G96] .1'/></a>
             <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/2.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/2.5.png' width='50' alt='1996.07 [G96] .2'/></a>
             <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/3.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/3.5.png' width='50' alt='1996.07 [G96] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1996.07 [G96] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1996.07 [G96] .4'/></a>
             <a href='sport/1-70/thumbnails/outer/1996_07{G96}[5]/5.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1996_07{G96}[5]/5.5.png' width='50' alt='1996.07 [G96] .5'/></a>
             <br/>1998.03 violet<br/>
             <a href='sport/1-70/thumbnails/outer/1998_03[4]violet/1.5.png' target='_blank'><img src='sport/1-70/thumbnails/outer/1998_03[4]violet/1.5.png' width='50' alt='1998.03 violet.1'/></a>
@@ -2285,7 +5076,7 @@ Wrappers: 140 / 140
 ## [S3 – Turbo Sport 71-140](sport/71-140)
 
 Covers: 57 / 60
-Wrappers: 71 / 71
+Wrappers: 71 / 141
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2327,9 +5118,9 @@ Wrappers: 71 / 71
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/1.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.1'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/2.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.2'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/3.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/3.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.4'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/5.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/5.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.05 [E97] R0 3 line centered.6'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/7.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/7.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.7'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/8.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/8.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.8'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/9.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{E_97}[10]R0_3_line_centered/9.5.png' width='50' alt='1997.05 [E97] R0 3 line centered.9'/></a>
@@ -2337,7 +5128,7 @@ Wrappers: 71 / 71
             <br/>1997.05 [K97] R0 2 line<br/>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/1.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/1.5.png' width='50' alt='1997.05 [K97] R0 2 line.1'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/2.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/2.5.png' width='50' alt='1997.05 [K97] R0 2 line.2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1997.05 [K97] R0 2 line.3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.05 [K97] R0 2 line.3'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/4.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/4.5.png' width='50' alt='1997.05 [K97] R0 2 line.4'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/5.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/5.5.png' width='50' alt='1997.05 [K97] R0 2 line.5'/></a>
             <a href='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/6.5.png' target='_blank'><img src='sport/71-140/thumbnails/outer/1997_05{_K_97}[10]R0_2_line/6.5.png' width='50' alt='1997.05 [K97] R0 2 line.6'/></a>
@@ -2359,7 +5150,77 @@ Wrappers: 71 / 71
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/140)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/71.5.png' title='' target='_blank'>71</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='sport/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
@@ -2437,38 +5298,38 @@ Wrappers: 71 / 71
 ## [S4 – Turbo Sport 141-210](sport/141-210)
 
 Covers: 37 / 80
-Wrappers: 70 / 70
+Wrappers: 70 / 210
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:50%;text-align: center">
             1998.01 [A-98] <br/>
             <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/1.5.png' width='50' alt='1998.01 [A-98] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] .3'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/4.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/4.5.png' width='50' alt='1998.01 [A-98] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] .5'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/6.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/6.5.png' width='50' alt='1998.01 [A-98] .6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] .7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] .8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] .7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] .8'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/9.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_01{A-98}[10]/9.5.png' width='50' alt='1998.01 [A-98] .9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.01 [A-98] .10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.01 [A-98] .10'/></a>
             <br/>1998.03 [C-98] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .3'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/4.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_03{C-98}[10]/4.5.png' width='50' alt='1998.03 [C-98] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.03 [C-98] .10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.03 [C-98] .10'/></a>
             <br/>1998.04 [D-98] <br/>
             <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/1.5.png' width='50' alt='1998.04 [D-98] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] .2'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/3.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/3.5.png' width='50' alt='1998.04 [D-98] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.04 [D-98] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.04 [D-98] .4'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/5.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/5.5.png' width='50' alt='1998.04 [D-98] .5'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/6.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/6.5.png' width='50' alt='1998.04 [D-98] .6'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/7.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/7.5.png' width='50' alt='1998.04 [D-98] .7'/></a>
@@ -2477,26 +5338,26 @@ Wrappers: 70 / 70
             <a href='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/10.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_04{D-98}[10]/10.5.png' width='50' alt='1998.04 [D-98] .10'/></a>
             <br/>1998.05 [E-98] <br/>
             <a href='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_05{E-98}[10]/1.5.png' width='50' alt='1998.05 [E-98] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.05 [E-98] .10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.05 [E-98] .10'/></a>
             <br/>1998.06 [F-98] <br/>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/1.5.png' width='50' alt='1998.06 [F-98] .1'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/2.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/2.5.png' width='50' alt='1998.06 [F-98] .2'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/3.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/3.5.png' width='50' alt='1998.06 [F-98] .3'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/4.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/4.5.png' width='50' alt='1998.06 [F-98] .4'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/5.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/5.5.png' width='50' alt='1998.06 [F-98] .5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] .6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] .6'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/7.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/7.5.png' width='50' alt='1998.06 [F-98] .7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] .8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] .8'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/9.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_06{F-98}[10]/9.5.png' width='50' alt='1998.06 [F-98] .9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.06 [F-98] .10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.06 [F-98] .10'/></a>
             <br/>1998.07 [G-98] <br/>
             <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/1.5.png' width='50' alt='1998.07 [G-98] .1'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/2.4.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/2.4.png' width='50' alt='1998.07 [G-98] .2'/></a>
@@ -2507,33 +5368,173 @@ Wrappers: 70 / 70
             <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/7.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/7.5.png' width='50' alt='1998.07 [G-98] .7'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/8.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/8.5.png' width='50' alt='1998.07 [G-98] .8'/></a>
             <a href='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/9.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1998_07{G-98}[10]/9.5.png' width='50' alt='1998.07 [G-98] .9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1998.07 [G-98] .10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.07 [G-98] .10'/></a>
             <br/>1999.05 [E-99] <br/>
             <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/1.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/1.5.png' width='50' alt='1999.05 [E-99] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='1999.05 [E-99] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1999.05 [E-99] .5'/></a>
             <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/6.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/6.5.png' width='50' alt='1999.05 [E-99] .6'/></a>
             <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/7.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/7.5.png' width='50' alt='1999.05 [E-99] .7'/></a>
             <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/8.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/8.5.png' width='50' alt='1999.05 [E-99] .8'/></a>
             <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/9.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/9.5.png' width='50' alt='1999.05 [E-99] .9'/></a>
             <a href='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/10.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/1999_05{E-99}[10]/10.5.png' width='50' alt='1999.05 [E-99] .10'/></a>
             <br/>2000.03 [C-2000] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .1'/></a>
             <a href='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/2.5.png' target='_blank'><img src='sport/141-210/thumbnails/outer/2000_03{C-2000}[10]/2.5.png' width='50' alt='2000.03 [C-2000] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .6'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .7'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .8'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .9'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .10'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .7'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .8'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .9'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .10'/></a>
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/210)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/141.5.png' title='' target='_blank'>141</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/142.5.png' title='' target='_blank'>142</a>
             <a class='perfect' href='sport/141-210/thumbnails/inner/143.5.png' title='' target='_blank'>143</a>
@@ -2611,7 +5612,7 @@ Wrappers: 70 / 70
 ## [S5 – Turbo Sport 401-470](sport/401-470)
 
 Covers: 1 / 1
-Wrappers: 70 / 70
+Wrappers: 70 / 470
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2621,7 +5622,407 @@ Wrappers: 70 / 70
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/470)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>260</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>261</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>262</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>263</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>264</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>265</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>266</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>267</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>268</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>269</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>270</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>271</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>272</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>273</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>274</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>275</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>276</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>277</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>278</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>279</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>280</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>281</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>282</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>283</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>284</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>285</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>286</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>287</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>288</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>289</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>290</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>291</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>292</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>293</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>294</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>295</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>296</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>297</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>298</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>299</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>300</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>301</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>302</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>303</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>304</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>305</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>306</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>307</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>308</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>309</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>310</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>311</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>312</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>313</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>314</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>315</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>316</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>317</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>318</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>319</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>320</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>321</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>322</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>323</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>324</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>325</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>326</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>327</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>328</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>329</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>330</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>331</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>332</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>333</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>334</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>335</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>336</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>337</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>338</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>339</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>340</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>341</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>342</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>343</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>344</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>345</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>346</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>347</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>348</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>349</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>350</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>351</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>352</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>353</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>354</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>355</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>356</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>357</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>358</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>359</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>360</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>361</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>362</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>363</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>364</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>365</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>366</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>367</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>368</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>369</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>370</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>371</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>372</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>373</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>374</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>375</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>376</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>377</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>378</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>379</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>380</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>381</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>382</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>383</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>384</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>385</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>386</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>387</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>388</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>389</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>390</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>391</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>392</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>393</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>394</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>395</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>396</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>397</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>398</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>399</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>400</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/401.4.png' title='' target='_blank'>401</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/402.4.png' title='' target='_blank'>402</a>
             <a class='enough' href='sport/401-470/thumbnails/inner/403.4.png' title='' target='_blank'>403</a>
@@ -2699,7 +6100,7 @@ Wrappers: 70 / 70
 ## [S6 – Turbo Sport 471-540](sport/471-540)
 
 Covers: 8 / 8
-Wrappers: 135 / 140
+Wrappers: 135 / 1080
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2723,7 +6124,477 @@ Wrappers: 135 / 140
             <br/>
         </td>
         <td>
-            Thick s (65/70)<br/>
+            Thick s (65/540)<br/>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>260</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>261</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>262</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>263</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>264</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>265</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>266</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>267</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>268</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>269</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>270</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>271</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>272</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>273</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>274</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>275</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>276</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>277</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>278</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>279</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>280</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>281</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>282</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>283</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>284</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>285</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>286</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>287</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>288</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>289</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>290</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>291</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>292</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>293</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>294</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>295</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>296</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>297</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>298</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>299</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>300</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>301</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>302</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>303</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>304</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>305</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>306</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>307</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>308</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>309</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>310</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>311</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>312</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>313</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>314</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>315</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>316</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>317</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>318</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>319</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>320</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>321</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>322</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>323</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>324</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>325</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>326</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>327</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>328</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>329</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>330</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>331</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>332</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>333</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>334</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>335</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>336</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>337</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>338</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>339</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>340</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>341</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>342</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>343</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>344</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>345</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>346</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>347</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>348</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>349</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>350</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>351</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>352</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>353</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>354</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>355</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>356</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>357</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>358</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>359</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>360</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>361</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>362</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>363</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>364</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>365</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>366</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>367</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>368</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>369</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>370</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>371</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>372</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>373</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>374</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>375</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>376</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>377</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>378</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>379</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>380</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>381</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>382</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>383</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>384</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>385</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>386</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>387</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>388</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>389</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>390</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>391</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>392</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>393</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>394</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>395</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>396</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>397</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>398</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>399</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>400</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>401</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>402</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>403</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>404</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>405</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>406</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>407</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>408</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>409</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>410</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>411</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>412</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>413</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>414</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>415</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>416</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>417</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>418</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>419</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>420</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>421</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>422</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>423</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>424</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>425</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>426</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>427</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>428</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>429</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>430</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>431</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>432</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>433</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>434</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>435</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>436</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>437</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>438</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>439</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>440</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>441</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>442</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>443</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>444</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>445</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>446</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>447</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>448</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>449</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>450</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>451</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>452</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>453</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>454</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>455</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>456</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>457</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>458</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>459</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>460</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>461</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>462</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>463</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>464</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>465</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>466</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>467</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>468</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>469</a>
+            <a class='missed' href='missed.png' title='Thick s' target='_blank'>470</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/471.thick_s.5.png' title='Thick s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thick_s.4.png' title='Thick s' target='_blank'>472</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/473.thick_s.4.png' title='Thick s' target='_blank'>473</a>
@@ -2793,7 +6664,477 @@ Wrappers: 135 / 140
             <a class='enough' href='sport/471-540/thumbnails/inner/537.thick_s.4.png' title='Thick s' target='_blank'>537</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/538.thick_s.5.png' title='Thick s' target='_blank'>538</a>
             <a class='good' href='sport/471-540/thumbnails/inner/539.thick_s.3.png' title='Thick s' target='_blank'>539</a>
-            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a><br/>Thin s (70/70)<br/>
+            <a class='perfect' href='sport/471-540/thumbnails/inner/540.thick_s.5.png' title='Thick s' target='_blank'>540</a><br/>Thin s (70/540)<br/>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>210</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>211</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>212</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>213</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>214</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>215</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>216</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>217</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>218</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>219</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>220</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>221</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>222</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>223</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>224</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>225</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>226</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>227</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>228</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>229</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>230</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>231</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>232</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>233</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>234</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>235</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>236</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>237</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>238</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>239</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>240</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>241</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>242</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>243</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>244</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>245</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>246</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>247</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>248</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>249</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>250</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>251</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>252</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>253</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>254</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>255</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>256</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>257</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>258</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>259</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>260</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>261</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>262</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>263</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>264</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>265</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>266</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>267</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>268</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>269</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>270</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>271</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>272</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>273</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>274</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>275</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>276</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>277</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>278</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>279</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>280</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>281</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>282</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>283</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>284</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>285</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>286</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>287</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>288</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>289</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>290</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>291</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>292</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>293</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>294</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>295</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>296</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>297</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>298</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>299</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>300</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>301</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>302</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>303</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>304</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>305</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>306</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>307</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>308</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>309</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>310</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>311</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>312</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>313</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>314</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>315</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>316</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>317</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>318</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>319</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>320</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>321</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>322</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>323</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>324</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>325</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>326</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>327</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>328</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>329</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>330</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>331</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>332</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>333</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>334</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>335</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>336</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>337</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>338</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>339</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>340</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>341</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>342</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>343</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>344</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>345</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>346</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>347</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>348</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>349</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>350</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>351</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>352</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>353</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>354</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>355</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>356</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>357</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>358</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>359</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>360</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>361</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>362</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>363</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>364</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>365</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>366</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>367</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>368</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>369</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>370</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>371</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>372</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>373</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>374</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>375</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>376</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>377</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>378</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>379</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>380</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>381</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>382</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>383</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>384</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>385</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>386</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>387</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>388</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>389</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>390</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>391</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>392</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>393</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>394</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>395</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>396</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>397</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>398</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>399</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>400</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>401</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>402</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>403</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>404</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>405</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>406</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>407</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>408</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>409</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>410</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>411</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>412</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>413</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>414</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>415</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>416</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>417</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>418</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>419</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>420</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>421</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>422</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>423</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>424</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>425</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>426</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>427</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>428</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>429</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>430</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>431</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>432</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>433</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>434</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>435</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>436</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>437</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>438</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>439</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>440</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>441</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>442</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>443</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>444</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>445</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>446</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>447</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>448</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>449</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>450</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>451</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>452</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>453</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>454</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>455</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>456</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>457</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>458</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>459</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>460</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>461</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>462</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>463</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>464</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>465</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>466</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>467</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>468</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>469</a>
+            <a class='missed' href='missed.png' title='Thin s' target='_blank'>470</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/471.thin_s.4.png' title='Thin s' target='_blank'>471</a>
             <a class='enough' href='sport/471-540/thumbnails/inner/472.thin_s.4.png' title='Thin s' target='_blank'>472</a>
             <a class='perfect' href='sport/471-540/thumbnails/inner/473.thin_s.5.png' title='Thin s' target='_blank'>473</a>
@@ -2871,7 +7212,7 @@ Wrappers: 135 / 140
 ## [E1 – Turbo 2000 Sport 211-280](2000/211-280)
 
 Covers: 14 / 20
-Wrappers: 70 / 70
+Wrappers: 70 / 280
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2889,21 +7230,231 @@ Wrappers: 70 / 70
             <a href='2000/211-280/thumbnails/outer/2000_06{F-2000}[5]/4.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_06{F-2000}[5]/4.5.png' width='50' alt='2000.06 [F-2000] .4'/></a>
             <a href='2000/211-280/thumbnails/outer/2000_06{F-2000}[5]/5.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_06{F-2000}[5]/5.5.png' width='50' alt='2000.06 [F-2000] .5'/></a>
             <br/>2000.08 [H-2000] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.08 [H-2000] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.08 [H-2000] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.08 [H-2000] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.08 [H-2000] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.08 [H-2000] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.08 [H-2000] .3'/></a>
             <a href='2000/211-280/thumbnails/outer/2000_08{H-2000}[5]/4.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2000_08{H-2000}[5]/4.5.png' width='50' alt='2000.08 [H-2000] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.08 [H-2000] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.08 [H-2000] .5'/></a>
             <br/>2001.04 [D-2001] <br/>
             <a href='2000/211-280/thumbnails/outer/2001_04{D-2001}[5]/1.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2001_04{D-2001}[5]/1.5.png' width='50' alt='2001.04 [D-2001] .1'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2001.04 [D-2001] .2'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2001.04 [D-2001] .2'/></a>
             <a href='2000/211-280/thumbnails/outer/2001_04{D-2001}[5]/3.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2001_04{D-2001}[5]/3.5.png' width='50' alt='2001.04 [D-2001] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2001.04 [D-2001] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2001.04 [D-2001] .4'/></a>
             <a href='2000/211-280/thumbnails/outer/2001_04{D-2001}[5]/5.5.png' target='_blank'><img src='2000/211-280/thumbnails/outer/2001_04{D-2001}[5]/5.5.png' width='50' alt='2001.04 [D-2001] .5'/></a>
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/280)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>71</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>72</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>73</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>74</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>75</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>76</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>77</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>78</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>79</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>80</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>81</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>82</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>83</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>84</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>85</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>86</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>87</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>88</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>89</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>90</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>91</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>92</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>93</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>94</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>95</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>96</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>97</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>98</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>99</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>100</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>101</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>102</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>103</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>104</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>105</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>106</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>107</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>108</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>109</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>110</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>111</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>112</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>113</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>114</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>115</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>116</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>117</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>118</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>119</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>120</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>121</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>122</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>123</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>124</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>125</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>126</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>127</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>128</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>129</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>130</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>131</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>132</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>133</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>134</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>135</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>136</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>137</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>138</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>139</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>140</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>141</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>142</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>143</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>144</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>145</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>146</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>147</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>148</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>149</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>150</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>151</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>152</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>153</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>154</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>155</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>156</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>157</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>158</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>159</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>160</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>161</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>162</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>163</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>164</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>165</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>166</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>167</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>168</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>169</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>170</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>171</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>172</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>173</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>174</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>175</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>176</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>177</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>178</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>179</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>180</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>181</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>182</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>183</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>184</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>185</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>186</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>187</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>188</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>189</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>190</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>191</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>192</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>193</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>194</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>195</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>196</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>197</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>198</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>199</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>200</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>201</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>202</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>203</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>204</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>205</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>206</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>207</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>208</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>209</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>210</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/211.5.png' title='' target='_blank'>211</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/212.5.png' title='' target='_blank'>212</a>
             <a class='perfect' href='2000/211-280/thumbnails/inner/213.5.png' title='' target='_blank'>213</a>
@@ -2981,7 +7532,7 @@ Wrappers: 70 / 70
 ## [E2 – Turbo 2000 Super 71-140](2000/71-140)
 
 Covers: 22 / 30
-Wrappers: 70 / 70
+Wrappers: 70 / 140
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -2995,15 +7546,15 @@ Wrappers: 70 / 70
             <br/>2000.03 [C-2000] <br/>
             <a href='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/1.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/1.5.png' width='50' alt='2000.03 [C-2000] .1'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/2.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/2.5.png' width='50' alt='2000.03 [C-2000] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.03 [C-2000] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.03 [C-2000] .3'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/4.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/4.5.png' width='50' alt='2000.03 [C-2000] .4'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/5.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_03{C-2000}[5]/5.5.png' width='50' alt='2000.03 [C-2000] .5'/></a>
             <br/>2000.04 [D-2000] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.04 [D-2000] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.04 [D-2000] .1'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_04{D-2000}[5]/2.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_04{D-2000}[5]/2.5.png' width='50' alt='2000.04 [D-2000] .2'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_04{D-2000}[5]/3.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_04{D-2000}[5]/3.5.png' width='50' alt='2000.04 [D-2000] .3'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_04{D-2000}[5]/4.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_04{D-2000}[5]/4.5.png' width='50' alt='2000.04 [D-2000] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.04 [D-2000] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.04 [D-2000] .5'/></a>
             <br/>2000.07 [G-2000] <br/>
             <a href='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/1.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/1.5.png' width='50' alt='2000.07 [G-2000] .1'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/2.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/2.5.png' width='50' alt='2000.07 [G-2000] .2'/></a>
@@ -3011,21 +7562,91 @@ Wrappers: 70 / 70
             <a href='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/4.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/4.5.png' width='50' alt='2000.07 [G-2000] .4'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/5.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_07{G-2000}[5]/5.5.png' width='50' alt='2000.07 [G-2000] .5'/></a>
             <br/>2000.11 [K-2000] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.11 [K-2000] .1'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.11 [K-2000] .1'/></a>
             <a href='2000/71-140/thumbnails/outer/2000_11{K-2000}[5]/2.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2000_11{K-2000}[5]/2.5.png' width='50' alt='2000.11 [K-2000] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.11 [K-2000] .3'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.11 [K-2000] .4'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2000.11 [K-2000] .5'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.11 [K-2000] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.11 [K-2000] .4'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2000.11 [K-2000] .5'/></a>
             <br/>2001.04 [D-2001] <br/>
             <a href='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/1.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/1.5.png' width='50' alt='2001.04 [D-2001] .1'/></a>
             <a href='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/2.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/2.5.png' width='50' alt='2001.04 [D-2001] .2'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2001.04 [D-2001] .3'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2001.04 [D-2001] .3'/></a>
             <a href='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/4.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/4.5.png' width='50' alt='2001.04 [D-2001] .4'/></a>
             <a href='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/5.5.png' target='_blank'><img src='2000/71-140/thumbnails/outer/2001_04{D-2001}[5]/5.5.png' width='50' alt='2001.04 [D-2001] .5'/></a>
             <br/>
         </td>
         <td>
-            (70/70)<br/>
+            (70/140)<br/>
+            <a class='missed' href='missed.png' title='' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>39</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>57</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>58</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>59</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>60</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>61</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>62</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>63</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>64</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>65</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>66</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>67</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>68</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>69</a>
+            <a class='missed' href='missed.png' title='' target='_blank'>70</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/71.5.png' title='' target='_blank'>71</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/72.5.png' title='' target='_blank'>72</a>
             <a class='perfect' href='2000/71-140/thumbnails/inner/73.5.png' title='' target='_blank'>73</a>
@@ -3241,7 +7862,7 @@ Wrappers: 99 / 99
             <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/3.5.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/3.5.png' width='50' alt='2002.03 [4372-R0] .3'/></a>
             <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/4.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/4.4.png' width='50' alt='2002.03 [4372-R0] .4'/></a>
             <a href='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/5.4.png' target='_blank'><img src='2003/RUS/super/thumbnails/outer/2002_03{4372-R0}[6]/5.4.png' width='50' alt='2002.03 [4372-R0] .5'/></a>
-            <a href='/collection/gum_wrappers/kent/turbo//missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo//missed_outer.png' width='50' alt='2002.03 [4372-R0] .6'/></a>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='2002.03 [4372-R0] .6'/></a>
             <br/>
         </td>
         <td>

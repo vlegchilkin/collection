@@ -30,7 +30,7 @@ def get_file_view_url(index_root: Path, series_context: Path, file_commits, file
     return f"{base_url}/{file_commits[filepath]}/{context.relative_to("..")}/{filepath}"
 
 
-SERIES_PATH_REG = re.compile(r"^(.*)/(\d+)-(\d+)$")
+SERIES_PATH_REG = re.compile(r"^(.*)/?(\d+)-(\d+)$")
 
 
 def inners(index_root: Path, series_context: Path) -> tuple[str, str, int, int]:
@@ -94,7 +94,7 @@ OUTER_REG = re.compile(r"^(\d{4})_(\d{2})(\{.*})?\[(\d{1,2})](.*)?$")
 
 MISSED_PNG = "missed.png"
 MISSED_OUTER_PNG = "missed_outer.png"
-MISSED_ROOT = "/collection/gum_wrappers/kent/turbo/"
+MISSED_ROOT = "/collection/gum_wrappers/kent/turbo"
 
 
 def outers(index_root: Path, series_context: Path) -> tuple[str, str, list[OuterRelease]]:
@@ -286,7 +286,7 @@ if __name__ == "__main__":
     index_file = None
     series_releases = dict()
     totals = dict()
-    for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
+    for root, dirs, files in os.walk("../gum_wrappers/kent/oto-moto"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
         if "thumbnails" in dirs:

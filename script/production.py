@@ -31,6 +31,11 @@ COLORS = {
 
     "1-100": "black",
     "101-200": "tab:orange",
+
+    "1-56": "tab:brown",
+    "78-147": "tab:red",
+    "148-259": "tab:orange",
+
 }
 
 SERIES_RE = re.compile(r"^\[(.*)\]\((.*)\)$")
