@@ -7,6 +7,8 @@
 |    Release    |                                                            1                                                             |
 |:-------------:|:------------------------------------------------------------------------------------------------------------------------:|
 | 1993.07 [G93] | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
+| 1994.07 [G94] | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
+| 1995.05 [E95] | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
 
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/1.0.png' title=''><img src='thumbnails/inner/1.0.png' alt=''></a>

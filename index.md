@@ -8,6 +8,8 @@ layout: default
 
 ### [Turbo](gum_wrappers/kent/turbo)
 
+### [Power](gum_wrappers/kent/power)
+
 ### [Oto Moto](gum_wrappers/kent/oto-moto)
 
 ### Useful links

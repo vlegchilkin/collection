@@ -4,9 +4,11 @@
 
 ### My collection
 
-|    Release    |                                                            1                                                             |
-|:-------------:|:------------------------------------------------------------------------------------------------------------------------:|
-| 1996.03 [C96] | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
+|    Release     |                                                            1                                                             |
+|:--------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| 1996.03 [C96]  | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
+| 1997.09 [I-97] | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
+| 1998.02 [B-98] | [<img src='/collection/gum_wrappers/kent/turbo/missed_outer.png'>](/collection/gum_wrappers/kent/turbo/missed_outer.png) |
 
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/148.0.png' title=''><img src='thumbnails/inner/148.0.png' alt=''></a>

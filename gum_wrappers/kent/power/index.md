@@ -10,13 +10,12 @@ layout: default
 
 ## Statistic
 
-
-\[Covers: 0 of 3\]
+\[Covers: 0 of 7\]
 \[Wrappers: 0 of 238\]
 
 ## [1st series 1-56](1-56)
 
-Covers: 0 / 1
+Covers: 0 / 3
 Wrappers: 0 / 56
 
 <table style="width:100%">
@@ -24,6 +23,10 @@ Wrappers: 0 / 56
         <td style="width:50%;text-align: center">
             1993.07 [G93] <br/>
             <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1993.07 [G93] .1'/></a>
+            <br/>1994.07 [G94] <br/>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1994.07 [G94] .1'/></a>
+            <br/>1995.05 [E95] <br/>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1995.05 [E95] .1'/></a>
             <br/>
         </td>
         <td>
@@ -178,7 +181,7 @@ Wrappers: 0 / 70
 
 ## [3rd series 148-259](148-259)
 
-Covers: 0 / 1
+Covers: 0 / 3
 Wrappers: 0 / 112
 
 <table style="width:100%">
@@ -186,6 +189,10 @@ Wrappers: 0 / 112
         <td style="width:50%;text-align: center">
             1996.03 [C96] <br/>
             <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1996.03 [C96] .1'/></a>
+            <br/>1997.09 [I-97] <br/>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1997.09 [I-97] .1'/></a>
+            <br/>1998.02 [B-98] <br/>
+            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1998.02 [B-98] .1'/></a>
             <br/>
         </td>
         <td>
