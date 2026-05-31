@@ -30,7 +30,7 @@ def get_file_view_url(index_root: Path, series_context: Path, file_commits, file
     return f"{base_url}/{file_commits[filepath]}/{context.relative_to("..")}/{filepath}"
 
 
-SERIES_PATH_REG = re.compile(r"^(.*)/?(\d+)-(\d+)$")
+SERIES_PATH_REG = re.compile(r"^(.*/)?(\d+)-(\d+)$")
 
 
 def inners(index_root: Path, series_context: Path) -> tuple[str, str, int, int]:
@@ -286,7 +286,7 @@ if __name__ == "__main__":
     index_file = None
     series_releases = dict()
     totals = dict()
-    for root, dirs, files in os.walk("../gum_wrappers/kent/oto-moto"):
+    for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
         if "thumbnails" in dirs:

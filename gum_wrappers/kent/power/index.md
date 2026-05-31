@@ -6,9 +6,10 @@ layout: default
 
 ## Producing
 
-![producing](kent_turbo_production.png "Kent Power Production")
+![producing](kent_power_production.png "Kent Power Production")
 
 ## Statistic
+
 
 \[Covers: 0 of 3\]
 \[Wrappers: 0 of 0\]
@@ -29,7 +30,6 @@ Wrappers: 0 / 0
 
         </td>
     </tr>
-
 </table>
 
 ## [2nd series 78-147](78-147)
@@ -48,7 +48,6 @@ Wrappers: 0 / 0
 
         </td>
     </tr>
-
 </table>
 
 ## [3rd series 148-259](148-259)
@@ -67,5 +66,4 @@ Wrappers: 0 / 0
 
         </td>
     </tr>
-
 </table>
