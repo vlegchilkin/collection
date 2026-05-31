@@ -10,19 +10,19 @@ layout: default
 
 ## Statistic
 
-\[Covers: 0 of 7\]
-\[Wrappers: 0 of 238\]
+\[Covers: 1 of 7\]
+\[Wrappers: 60 of 350\]
 
 ## [1st series 1-56](1-56)
 
-Covers: 0 / 3
-Wrappers: 0 / 56
+Covers: 1 / 3
+Wrappers: 60 / 168
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
         <td style="width:50%;text-align: center">
             1993.07 [G93] <br/>
-            <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1993.07 [G93] .1'/></a>
+            <a href='1-56/thumbnails/outer/1993_07{G93}[1]/1.5.png' target='_blank'><img src='1-56/thumbnails/outer/1993_07{G93}[1]/1.5.png' width='50' alt='1993.07 [G93] .1'/></a>
             <br/>1994.07 [G94] <br/>
             <a href='/collection/gum_wrappers/kent/turbo/missed_outer.png' target='_blank'><img src='/collection/gum_wrappers/kent/turbo/missed_outer.png' width='50' alt='1994.07 [G94] .1'/></a>
             <br/>1995.05 [E95] <br/>
@@ -30,63 +30,175 @@ Wrappers: 0 / 56
             <br/>
         </td>
         <td>
-            (0/56)<br/>
-            <a class='missed' href='1-56/thumbnails/inner/1.0.png' title='' target='_blank'>1</a>
-            <a class='missed' href='1-56/thumbnails/inner/2.0.png' title='' target='_blank'>2</a>
-            <a class='missed' href='1-56/thumbnails/inner/3.0.png' title='' target='_blank'>3</a>
-            <a class='missed' href='1-56/thumbnails/inner/4.0.png' title='' target='_blank'>4</a>
-            <a class='missed' href='1-56/thumbnails/inner/5.0.png' title='' target='_blank'>5</a>
-            <a class='missed' href='1-56/thumbnails/inner/6.0.png' title='' target='_blank'>6</a>
-            <a class='missed' href='1-56/thumbnails/inner/7.0.png' title='' target='_blank'>7</a>
-            <a class='missed' href='1-56/thumbnails/inner/8.0.png' title='' target='_blank'>8</a>
-            <a class='missed' href='1-56/thumbnails/inner/9.0.png' title='' target='_blank'>9</a>
-            <a class='missed' href='1-56/thumbnails/inner/10.0.png' title='' target='_blank'>10</a>
-            <a class='missed' href='1-56/thumbnails/inner/11.0.png' title='' target='_blank'>11</a>
-            <a class='missed' href='1-56/thumbnails/inner/12.0.png' title='' target='_blank'>12</a>
-            <a class='missed' href='1-56/thumbnails/inner/13.0.png' title='' target='_blank'>13</a>
-            <a class='missed' href='1-56/thumbnails/inner/14.0.png' title='' target='_blank'>14</a>
-            <a class='missed' href='1-56/thumbnails/inner/15.0.png' title='' target='_blank'>15</a>
-            <a class='missed' href='1-56/thumbnails/inner/16.0.png' title='' target='_blank'>16</a>
-            <a class='missed' href='1-56/thumbnails/inner/17.0.png' title='' target='_blank'>17</a>
-            <a class='missed' href='1-56/thumbnails/inner/18.0.png' title='' target='_blank'>18</a>
-            <a class='missed' href='1-56/thumbnails/inner/19.0.png' title='' target='_blank'>19</a>
-            <a class='missed' href='1-56/thumbnails/inner/20.0.png' title='' target='_blank'>20</a>
-            <a class='missed' href='1-56/thumbnails/inner/21.0.png' title='' target='_blank'>21</a>
-            <a class='missed' href='1-56/thumbnails/inner/22.0.png' title='' target='_blank'>22</a>
-            <a class='missed' href='1-56/thumbnails/inner/23.0.png' title='' target='_blank'>23</a>
-            <a class='missed' href='1-56/thumbnails/inner/24.0.png' title='' target='_blank'>24</a>
-            <a class='missed' href='1-56/thumbnails/inner/25.0.png' title='' target='_blank'>25</a>
-            <a class='missed' href='1-56/thumbnails/inner/26.0.png' title='' target='_blank'>26</a>
-            <a class='missed' href='1-56/thumbnails/inner/27.0.png' title='' target='_blank'>27</a>
-            <a class='missed' href='1-56/thumbnails/inner/28.0.png' title='' target='_blank'>28</a>
-            <a class='missed' href='1-56/thumbnails/inner/29.0.png' title='' target='_blank'>29</a>
-            <a class='missed' href='1-56/thumbnails/inner/30.0.png' title='' target='_blank'>30</a>
-            <a class='missed' href='1-56/thumbnails/inner/31.0.png' title='' target='_blank'>31</a>
-            <a class='missed' href='1-56/thumbnails/inner/32.0.png' title='' target='_blank'>32</a>
-            <a class='missed' href='1-56/thumbnails/inner/33.0.png' title='' target='_blank'>33</a>
-            <a class='missed' href='1-56/thumbnails/inner/34.0.png' title='' target='_blank'>34</a>
-            <a class='missed' href='1-56/thumbnails/inner/35.0.png' title='' target='_blank'>35</a>
-            <a class='missed' href='1-56/thumbnails/inner/36.0.png' title='' target='_blank'>36</a>
-            <a class='missed' href='1-56/thumbnails/inner/37.0.png' title='' target='_blank'>37</a>
-            <a class='missed' href='1-56/thumbnails/inner/38.0.png' title='' target='_blank'>38</a>
-            <a class='missed' href='1-56/thumbnails/inner/39.0.png' title='' target='_blank'>39</a>
-            <a class='missed' href='1-56/thumbnails/inner/40.0.png' title='' target='_blank'>40</a>
-            <a class='missed' href='1-56/thumbnails/inner/41.0.png' title='' target='_blank'>41</a>
-            <a class='missed' href='1-56/thumbnails/inner/42.0.png' title='' target='_blank'>42</a>
-            <a class='missed' href='1-56/thumbnails/inner/43.0.png' title='' target='_blank'>43</a>
-            <a class='missed' href='1-56/thumbnails/inner/44.0.png' title='' target='_blank'>44</a>
-            <a class='missed' href='1-56/thumbnails/inner/45.0.png' title='' target='_blank'>45</a>
-            <a class='missed' href='1-56/thumbnails/inner/46.0.png' title='' target='_blank'>46</a>
-            <a class='missed' href='1-56/thumbnails/inner/47.0.png' title='' target='_blank'>47</a>
-            <a class='missed' href='1-56/thumbnails/inner/48.0.png' title='' target='_blank'>48</a>
-            <a class='missed' href='1-56/thumbnails/inner/49.0.png' title='' target='_blank'>49</a>
-            <a class='missed' href='1-56/thumbnails/inner/50.0.png' title='' target='_blank'>50</a>
-            <a class='missed' href='1-56/thumbnails/inner/51.0.png' title='' target='_blank'>51</a>
-            <a class='missed' href='1-56/thumbnails/inner/52.0.png' title='' target='_blank'>52</a>
-            <a class='missed' href='1-56/thumbnails/inner/53.0.png' title='' target='_blank'>53</a>
-            <a class='missed' href='1-56/thumbnails/inner/54.0.png' title='' target='_blank'>54</a>
-            <a class='missed' href='1-56/thumbnails/inner/55.0.png' title='' target='_blank'>55</a>
-            <a class='missed' href='missed.png' title='' target='_blank'>56</a>
+            A (35/56)<br/>
+            <a class='missed' href='missed.png' title='A' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>5</a>
+            <a class='perfect' href='1-56/thumbnails/inner/6.a.5.png' title='A' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>7</a>
+            <a class='perfect' href='1-56/thumbnails/inner/8.a.5.png' title='A' target='_blank'>8</a>
+            <a class='perfect' href='1-56/thumbnails/inner/9.a.5.png' title='A' target='_blank'>9</a>
+            <a class='perfect' href='1-56/thumbnails/inner/10.a.5.png' title='A' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>11</a>
+            <a class='perfect' href='1-56/thumbnails/inner/12.a.5.png' title='A' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>16</a>
+            <a class='perfect' href='1-56/thumbnails/inner/17.a.5.png' title='A' target='_blank'>17</a>
+            <a class='perfect' href='1-56/thumbnails/inner/18.a.5.png' title='A' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>19</a>
+            <a class='perfect' href='1-56/thumbnails/inner/20.a.5.png' title='A' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>21</a>
+            <a class='perfect' href='1-56/thumbnails/inner/22.a.5.png' title='A' target='_blank'>22</a>
+            <a class='perfect' href='1-56/thumbnails/inner/23.a.5.png' title='A' target='_blank'>23</a>
+            <a class='perfect' href='1-56/thumbnails/inner/24.a.5.png' title='A' target='_blank'>24</a>
+            <a class='perfect' href='1-56/thumbnails/inner/25.a.5.png' title='A' target='_blank'>25</a>
+            <a class='perfect' href='1-56/thumbnails/inner/26.a.5.png' title='A' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>27</a>
+            <a class='perfect' href='1-56/thumbnails/inner/28.a.5.png' title='A' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>29</a>
+            <a class='perfect' href='1-56/thumbnails/inner/30.a.5.png' title='A' target='_blank'>30</a>
+            <a class='perfect' href='1-56/thumbnails/inner/31.a.5.png' title='A' target='_blank'>31</a>
+            <a class='perfect' href='1-56/thumbnails/inner/32.a.5.png' title='A' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>34</a>
+            <a class='perfect' href='1-56/thumbnails/inner/35.a.5.png' title='A' target='_blank'>35</a>
+            <a class='perfect' href='1-56/thumbnails/inner/36.a.5.png' title='A' target='_blank'>36</a>
+            <a class='perfect' href='1-56/thumbnails/inner/37.a.5.png' title='A' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>38</a>
+            <a class='perfect' href='1-56/thumbnails/inner/39.a.5.png' title='A' target='_blank'>39</a>
+            <a class='perfect' href='1-56/thumbnails/inner/40.a.5.png' title='A' target='_blank'>40</a>
+            <a class='perfect' href='1-56/thumbnails/inner/41.a.5.png' title='A' target='_blank'>41</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>42</a>
+            <a class='perfect' href='1-56/thumbnails/inner/43.a.5.png' title='A' target='_blank'>43</a>
+            <a class='perfect' href='1-56/thumbnails/inner/44.a.5.png' title='A' target='_blank'>44</a>
+            <a class='perfect' href='1-56/thumbnails/inner/45.a.5.png' title='A' target='_blank'>45</a>
+            <a class='perfect' href='1-56/thumbnails/inner/46.a.5.png' title='A' target='_blank'>46</a>
+            <a class='perfect' href='1-56/thumbnails/inner/47.a.5.png' title='A' target='_blank'>47</a>
+            <a class='perfect' href='1-56/thumbnails/inner/48.a.5.png' title='A' target='_blank'>48</a>
+            <a class='perfect' href='1-56/thumbnails/inner/49.a.5.png' title='A' target='_blank'>49</a>
+            <a class='perfect' href='1-56/thumbnails/inner/50.a.5.png' title='A' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>51</a>
+            <a class='perfect' href='1-56/thumbnails/inner/52.a.5.png' title='A' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='A' target='_blank'>53</a>
+            <a class='perfect' href='1-56/thumbnails/inner/54.a.5.png' title='A' target='_blank'>54</a>
+            <a class='perfect' href='1-56/thumbnails/inner/55.a.5.png' title='A' target='_blank'>55</a>
+            <a class='perfect' href='1-56/thumbnails/inner/56.a.5.png' title='A' target='_blank'>56</a><br/>B (16/56)<br/>
+            <a class='perfect' href='1-56/thumbnails/inner/1.b.5.png' title='B' target='_blank'>1</a>
+            <a class='perfect' href='1-56/thumbnails/inner/2.b.5.png' title='B' target='_blank'>2</a>
+            <a class='perfect' href='1-56/thumbnails/inner/3.b.5.png' title='B' target='_blank'>3</a>
+            <a class='perfect' href='1-56/thumbnails/inner/4.b.5.png' title='B' target='_blank'>4</a>
+            <a class='perfect' href='1-56/thumbnails/inner/5.b.5.png' title='B' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>6</a>
+            <a class='perfect' href='1-56/thumbnails/inner/7.b.5.png' title='B' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>8</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>9</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>10</a>
+            <a class='perfect' href='1-56/thumbnails/inner/11.b.5.png' title='B' target='_blank'>11</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>12</a>
+            <a class='perfect' href='1-56/thumbnails/inner/13.b.5.png' title='B' target='_blank'>13</a>
+            <a class='perfect' href='1-56/thumbnails/inner/14.b.5.png' title='B' target='_blank'>14</a>
+            <a class='perfect' href='1-56/thumbnails/inner/15.b.5.png' title='B' target='_blank'>15</a>
+            <a class='perfect' href='1-56/thumbnails/inner/16.b.5.png' title='B' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>18</a>
+            <a class='perfect' href='1-56/thumbnails/inner/19.b.5.png' title='B' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>37</a>
+            <a class='perfect' href='1-56/thumbnails/inner/38.b.5.png' title='B' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>39</a>
+            <a class='perfect' href='1-56/thumbnails/inner/40.b.5.png' title='B' target='_blank'>40</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>41</a>
+            <a class='enough' href='1-56/thumbnails/inner/42.b.4.png' title='B' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>49</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>50</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>52</a>
+            <a class='perfect' href='1-56/thumbnails/inner/53.b.5.png' title='B' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>55</a>
+            <a class='missed' href='missed.png' title='B' target='_blank'>56</a><br/>C (9/56)<br/>
+            <a class='missed' href='missed.png' title='C' target='_blank'>1</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>2</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>3</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>4</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>5</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>6</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>7</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>8</a>
+            <a class='good' href='1-56/thumbnails/inner/9.c.3.png' title='C' target='_blank'>9</a>
+            <a class='good' href='1-56/thumbnails/inner/10.c.3.png' title='C' target='_blank'>10</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>11</a>
+            <a class='perfect' href='1-56/thumbnails/inner/12.c.5.png' title='C' target='_blank'>12</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>13</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>14</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>15</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>16</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>17</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>18</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>19</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>20</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>21</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>22</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>23</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>24</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>25</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>26</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>27</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>28</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>29</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>30</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>31</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>32</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>33</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>34</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>35</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>36</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>37</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>38</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>39</a>
+            <a class='perfect' href='1-56/thumbnails/inner/40.c.5.png' title='C' target='_blank'>40</a>
+            <a class='perfect' href='1-56/thumbnails/inner/41.c.5.png' title='C' target='_blank'>41</a>
+            <a class='perfect' href='1-56/thumbnails/inner/42.c.5.png' title='C' target='_blank'>42</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>43</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>44</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>45</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>46</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>47</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>48</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>49</a>
+            <a class='perfect' href='1-56/thumbnails/inner/50.c.5.png' title='C' target='_blank'>50</a>
+            <a class='perfect' href='1-56/thumbnails/inner/51.c.5.png' title='C' target='_blank'>51</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>52</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>53</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>54</a>
+            <a class='missed' href='missed.png' title='C' target='_blank'>55</a>
+            <a class='perfect' href='1-56/thumbnails/inner/56.c.5.png' title='C' target='_blank'>56</a>
         </td>
     </tr>
 </table>
