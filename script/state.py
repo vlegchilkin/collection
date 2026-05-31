@@ -286,7 +286,7 @@ if __name__ == "__main__":
     index_file = None
     series_releases = dict()
     totals = dict()
-    for root, dirs, files in os.walk("../gum_wrappers/kent/turbo"):
+    for root, dirs, files in os.walk("../gum_wrappers/kent/power"):
         if "index.md" in files:
             index_file = Path(root) / "index.md"
         if "thumbnails" in dirs:
