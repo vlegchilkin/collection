@@ -113,7 +113,7 @@
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='A'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='A'></a>
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='B'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='B'></a>
-	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='C'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='C'></a>
+	<a href='thumbnails/inner/21.c.5.png' title='C'><img src='thumbnails/inner/21.c.5.png' alt='C'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/22.a.5.png' title='A'><img src='thumbnails/inner/22.a.5.png' alt='A'></a>
@@ -143,7 +143,7 @@
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='A'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='A'></a>
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='B'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='B'></a>
-	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='C'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='C'></a>
+	<a href='thumbnails/inner/27.c.5.png' title='C'><img src='thumbnails/inner/27.c.5.png' alt='C'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/28.a.5.png' title='A'><img src='thumbnails/inner/28.a.5.png' alt='A'></a>
@@ -153,7 +153,7 @@
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='A'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='A'></a>
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='B'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='B'></a>
-	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='C'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='C'></a>
+	<a href='thumbnails/inner/29.c.5.png' title='C'><img src='thumbnails/inner/29.c.5.png' alt='C'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/30.a.5.png' title='A'><img src='thumbnails/inner/30.a.5.png' alt='A'></a>
@@ -173,12 +173,12 @@
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='A'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='A'></a>
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='B'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='B'></a>
-	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='C'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='C'></a>
+	<a href='thumbnails/inner/33.c.5.png' title='C'><img src='thumbnails/inner/33.c.5.png' alt='C'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='A'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='A'></a>
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='B'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='B'></a>
-	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='C'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='C'></a>
+	<a href='thumbnails/inner/34.c.5.png' title='C'><img src='thumbnails/inner/34.c.5.png' alt='C'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/35.a.5.png' title='A'><img src='thumbnails/inner/35.a.5.png' alt='A'></a>
@@ -193,7 +193,7 @@
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/37.a.5.png' title='A'><img src='thumbnails/inner/37.a.5.png' alt='A'></a>
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='B'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='B'></a>
-	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='C'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='C'></a>
+	<a href='thumbnails/inner/37.c.5.png' title='C'><img src='thumbnails/inner/37.c.5.png' alt='C'></a>
 </span>
 <span style="display: inline-block;">
 	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title='A'><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt='A'></a>

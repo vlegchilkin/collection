@@ -10,13 +10,14 @@ layout: default
 
 ## Statistic
 
+
 \[Covers: 1 of 7\]
-\[Wrappers: 60 of 350\]
+\[Wrappers: 66 of 350\]
 
 ## [1st series 1-56](1-56)
 
 Covers: 1 / 3
-Wrappers: 60 / 168
+Wrappers: 66 / 168
 
 <table style="width:100%">
     <tr style="vertical-align: top;">
@@ -142,7 +143,7 @@ Wrappers: 60 / 168
             <a class='perfect' href='1-56/thumbnails/inner/53.b.5.png' title='B' target='_blank'>53</a>
             <a class='missed' href='missed.png' title='B' target='_blank'>54</a>
             <a class='missed' href='missed.png' title='B' target='_blank'>55</a>
-            <a class='missed' href='missed.png' title='B' target='_blank'>56</a><br/>C (9/56)<br/>
+            <a class='missed' href='missed.png' title='B' target='_blank'>56</a><br/>C (15/56)<br/>
             <a class='missed' href='missed.png' title='C' target='_blank'>1</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>2</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>3</a>
@@ -163,23 +164,23 @@ Wrappers: 60 / 168
             <a class='missed' href='missed.png' title='C' target='_blank'>18</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>19</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>20</a>
-            <a class='missed' href='missed.png' title='C' target='_blank'>21</a>
+            <a class='perfect' href='1-56/thumbnails/inner/21.c.5.png' title='C' target='_blank'>21</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>22</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>23</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>24</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>25</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>26</a>
-            <a class='missed' href='missed.png' title='C' target='_blank'>27</a>
+            <a class='perfect' href='1-56/thumbnails/inner/27.c.5.png' title='C' target='_blank'>27</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>28</a>
-            <a class='missed' href='missed.png' title='C' target='_blank'>29</a>
+            <a class='perfect' href='1-56/thumbnails/inner/29.c.5.png' title='C' target='_blank'>29</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>30</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>31</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>32</a>
-            <a class='missed' href='missed.png' title='C' target='_blank'>33</a>
-            <a class='missed' href='missed.png' title='C' target='_blank'>34</a>
+            <a class='perfect' href='1-56/thumbnails/inner/33.c.5.png' title='C' target='_blank'>33</a>
+            <a class='perfect' href='1-56/thumbnails/inner/34.c.5.png' title='C' target='_blank'>34</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>35</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>36</a>
-            <a class='missed' href='missed.png' title='C' target='_blank'>37</a>
+            <a class='perfect' href='1-56/thumbnails/inner/37.c.5.png' title='C' target='_blank'>37</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>38</a>
             <a class='missed' href='missed.png' title='C' target='_blank'>39</a>
             <a class='perfect' href='1-56/thumbnails/inner/40.c.5.png' title='C' target='_blank'>40</a>
