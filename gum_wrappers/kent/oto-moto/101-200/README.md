@@ -306,4 +306,7 @@
 <span style="display: inline-block;">
 	<a href='thumbnails/inner/199.5.png' title=''><img src='thumbnails/inner/199.5.png' alt=''></a>
 </span>
+<span style="display: inline-block;">
+	<a href='/collection/gum_wrappers/kent/turbo/missed.png' title=''><img src='/collection/gum_wrappers/kent/turbo/missed.png' alt=''></a>
+</span>
 
